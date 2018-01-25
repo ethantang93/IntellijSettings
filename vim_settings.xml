@@ -311,10 +311,9 @@
         <mark key="." line="3" column="54" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.template.html" timestamp="1516915858294">
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="42" column="22" />
-        <mark key="^" line="38" column="35" />
-        <mark key="." line="42" column="22" />
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/_colors.scss" timestamp="1516316084821">
         <mark key="[" line="45" column="0" />
