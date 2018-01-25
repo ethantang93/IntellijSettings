@@ -54,6 +54,12 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/asset-new-modal.controller.js" timestamp="1516920953898">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="29" />
+        <mark key="." line="44" column="29" />
+        <mark key="^" line="44" column="29" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1516821006354">
         <mark key="'" line="51" column="21" />
         <mark key="[" line="70" column="0" />
@@ -72,10 +78,6 @@
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="19" />
         <mark key="^" line="36" column="19" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/account/account-new-user.controller.js" timestamp="1515798998799">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="30" column="7" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/config/prod/config-prod.properties" timestamp="1516745430587">
         <mark key="[" line="72" column="0" />
@@ -119,6 +121,7 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="30" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1516919932955" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="33" />
@@ -210,10 +213,6 @@
         <mark key="^" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/account/account-user-detail.controller.js" timestamp="1515796378925">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="128" />
-      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDao.java" timestamp="1515774238770">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -291,7 +290,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516903456125">
+      <file name="/Dummy.txt" timestamp="1516920956791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1514912697155">
@@ -299,10 +298,6 @@
         <mark key="]" line="136" column="0" />
         <mark key="^" line="3" column="54" />
         <mark key="." line="136" column="0" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchHdpClient.java" timestamp="1516380582134">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="95" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/index.js" timestamp="1514564128707">
         <mark key="[" line="2" column="63" />
@@ -314,10 +309,6 @@
         <mark key="[" line="36" column="22" />
         <mark key="]" line="36" column="22" />
         <mark key="." line="36" column="22" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/assets/sass/_colors.scss" timestamp="1516316084821">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="9" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/OverviewController.java" timestamp="1515513013496">
         <mark key="[" line="63" column="0" />
@@ -342,6 +333,7 @@
         <mark key="." line="1" column="49" />
         <mark key="^" line="1" column="49" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/asset-list.controller.js" timestamp="1516920242645" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-reassign-modal.template.html" timestamp="1511997554345">
         <mark key="[" line="45" column="106" />
         <mark key="]" line="45" column="106" />
@@ -464,10 +456,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>nother</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>nother</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
