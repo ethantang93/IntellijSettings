@@ -1,5 +1,10 @@
 <application>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JAVA" value="true" />
+      </map>
+    </option>
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
 </application>
