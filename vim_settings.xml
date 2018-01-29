@@ -54,6 +54,12 @@
         <mark key="." line="44" column="29" />
         <mark key="^" line="44" column="29" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1517245155820">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="70" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="75" column="83" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="28" column="27" />
@@ -164,11 +170,11 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1516902753516">
-        <mark key="[" line="64" column="49" />
-        <mark key="]" line="129" column="42" />
-        <mark key="." line="129" column="42" />
-        <mark key="^" line="129" column="42" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517244860140">
+        <mark key="[" line="146" column="31" />
+        <mark key="]" line="230" column="31" />
+        <mark key="." line="230" column="31" />
+        <mark key="^" line="230" column="31" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/account/account-assign-user-client.controller.js" timestamp="1516142490389">
         <mark key="[" line="18" column="70" />
@@ -277,7 +283,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516983375857">
+      <file name="/Dummy.txt" timestamp="1517244606206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1514912697155">
@@ -433,44 +439,44 @@
       <jump line="51" column="21" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2dc0af3d-a0bb-329a-9d0c-551b97664d8f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJkMyByZXN1bHQgaXMgOnt9IiwgZDNyZXN1bHRzU3RyKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>2dc0af3d-a0bb-329a-9d0c-551b97664d8f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ3Z2V0IC1udiAiLHsiUmVmIjogInBUZW1wbGF0ZVVybFByZWZpeCJ9LCIvZG93bmxvYWRfYnlfcGlwZWxpbmVpZC5zaCAtTyAvYmluL2NpLWRvd25sb2FkLWJ5LXBpcGVsaW5lLWlkIiwiXG4iLAogICAgICAgICAgICAgICAgImNobW9kICt4IC9iaW4vY2ktZG93bmxvYWQtYnktcGlwZWxpbmUtaWQiLCJcbiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJjbGllbnQgY29ubmVjdGlvbiBtaWdodCBub3QgYmUgZXN0YWJsaXNoZWQuIHVzZSBjcmVhdGUgY29ubmVjdGlvbiBtZXRob2QiKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXJyKSB7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiRmFpbGVkIHRvIGRlbGV0ZSAtLSB7fSIsIGVyci5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJkMyByZXN1bHQgaXMgOnt9IiwgZDNyZXN1bHRzU3RyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCIiKQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEFzc2V0PiBhc3NldHMgPSAoTGlzdDxBc3NldD4pIGFzc2V0RGFvLmdldExpc3QoY29tcGFueUlkLnRvU3RyaW5nKCkpOwogICAgICAgIGlmIChhc3NldHMgIT0gbnVsbCAmJiAhYXNzZXRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICBmb3IgKEFzc2V0IGFzc2V0IDogYXNzZXRzKSB7CiAgICAgICAgICAgICAgICBhc3NldC5zZXRDb21wYW55SWQobnVsbCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGludCB1cGRhdGVkID0gYXNzZXREYW8udXBkYXRlKGFzc2V0cyk7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJVcGRhdGVkICIgKyB1cGRhdGVkICsgIiBhc3NldCByZWNvcmQocykgZHVyaW5nIGRlbGV0aW9uIG9mIGNvbXBhbnlJZDogIiArIGNvbXBhbnlJZCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIjE+Pnt9IixxdW90ZVN0cik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIjI+Pnt9IixkM3Jlc3VsdHNTdHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEFzc2V0PiBhc3NldHMgPSAoTGlzdDxBc3NldD4pIGFzc2V0RGFvLmdldExpc3QoY29tcGFueUlkLnRvU3RyaW5nKCkpOwogICAgICAgIGlmIChhc3NldHMgIT0gbnVsbCAmJiAhYXNzZXRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICBmb3IgKEFzc2V0IGFzc2V0IDogYXNzZXRzKSB7CiAgICAgICAgICAgICAgICBhc3NldC5zZXRDb21wYW55SWQobnVsbCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGludCB1cGRhdGVkID0gYXNzZXREYW8udXBkYXRlKGFzc2V0cyk7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJVcGRhdGVkICIgKyB1cGRhdGVkICsgIiBhc3NldCByZWNvcmQocykgZHVyaW5nIGRlbGV0aW9uIG9mIGNvbXBhbnlJZDogIiArIGNvbXBhbnlJZCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIjM+Pnt9Iixwcm9wZXJ0eUpzb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIjE+Pnt9IixxdW90ZVN0cik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIjI+Pnt9IixkM3Jlc3VsdHNTdHIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIjM+Pnt9Iixwcm9wZXJ0eUpzb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
