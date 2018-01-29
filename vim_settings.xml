@@ -111,11 +111,11 @@
         <mark key="." line="43" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.2/elasticsearch-6.1.2.jar!/org/elasticsearch/search/SearchHits.class" timestamp="1517246305377" />
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517257340632">
-        <mark key="[" line="198" column="41" />
-        <mark key="]" line="198" column="53" />
-        <mark key="." line="198" column="53" />
-        <mark key="^" line="198" column="53" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517262629738">
+        <mark key="[" line="194" column="52" />
+        <mark key="]" line="194" column="68" />
+        <mark key="." line="194" column="68" />
+        <mark key="^" line="194" column="68" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1515779670247">
         <mark key="[" line="161" column="0" />
@@ -214,11 +214,11 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1517261009104">
-        <mark key="[" line="105" column="84" />
-        <mark key="]" line="105" column="95" />
-        <mark key="^" line="105" column="95" />
-        <mark key="." line="105" column="95" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1517262086329">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="78" column="76" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/property_hub_template.json" timestamp="1517242337411">
         <mark key="[" line="2" column="37" />
@@ -441,11 +441,11 @@
       <jump line="51" column="21" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>get</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJwcm9wZXJ0eSBqc29uIGlzIDoge30iLCBwcm9wZXJ0eUpzb24pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>quoteStr</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -454,31 +454,31 @@
         <text encoding="base64">T2JqZWN0Tm9kZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWxhc3RpYy5zZWFyY2gudmVyc2lvbj0xCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJwcm9wZXJ0eSBqc29uIGlzIDoge30iLCBwcm9wZXJ0eUpzb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvc3VyZS5wdXQoIiIpCg==</text>
+        <text encoding="base64">ZWxhc3RpYy5zZWFyY2gudmVyc2lvbj0xCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uTm9kZSAK</text>
+        <text encoding="base64">ICAgICAgICBleHBvc3VyZS5wdXQoIiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZ2dlci5pbmZvKCJmaXJzdCByZXN1bHQgIiArIG1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcobm9kZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBKc29uTm9kZSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZ2dlci5pbmZvKCJjb252ZXJ0cHJvcGVydHlqc29uXG4iICsgbWFwcGVyLndyaXRlVmFsdWVBc1N0cmluZyhzZWFyY2hSZXN1bHQpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZ2dlci5pbmZvKCJmaXJzdCByZXN1bHQgIiArIG1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcobm9kZSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiY29udmVydHByb3BlcnR5anNvblxuIiArIG1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcoc2VhcmNoUmVzdWx0KSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZ2dlci5pbmZvKCJjb252ZXJ0cHJvcGVydHlqc29uXG4iICsgbWFwcGVyLndyaXRlVmFsdWVBc1N0cmluZyhzZWFyY2hSZXN1bHQpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSAianNvbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiY29udmVydHByb3BlcnR5anNvblxuIiArIG1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcoc2VhcmNoUmVzdWx0KSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zLnB1dCgicHJvcGVydHlfaWQiLCBwcm9wZXJ0eV9pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSAianNvbiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBwYXJhbXMgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zLnB1dCgicHJvcGVydHlfaWQiLCBwcm9wZXJ0eV9pZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
