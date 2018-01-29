@@ -214,11 +214,11 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1517257169606">
-        <mark key="[" line="75" column="102" />
-        <mark key="]" line="75" column="109" />
-        <mark key="." line="75" column="109" />
-        <mark key="^" line="75" column="109" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1517261009104">
+        <mark key="[" line="105" column="84" />
+        <mark key="]" line="105" column="95" />
+        <mark key="^" line="105" column="95" />
+        <mark key="." line="105" column="95" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/property_hub_template.json" timestamp="1517242337411">
         <mark key="[" line="2" column="37" />
@@ -441,11 +441,11 @@
       <jump line="51" column="21" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWxhc3RpYy5zZWFyY2gudmVyc2lvbj0xCg==</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>node</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
