@@ -42,12 +42,6 @@
         <mark key="." line="3" column="149" />
       </file>
       <file name="$USER_HOME$/mvp-deploy/tools/deploy_by_pipelineid.sh" timestamp="1516814156739" />
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/IntakeController.java" timestamp="1516983171587">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="126" column="4" />
-        <mark key="." line="107" column="0" />
-      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeatureDaoImpl.java" timestamp="1515710807979">
         <mark key="[" line="20" column="58" />
         <mark key="]" line="20" column="58" />
@@ -83,6 +77,12 @@
         <mark key="]" line="13" column="24" />
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/property_hub_template.json" timestamp="1517242337411">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="^" line="2" column="51" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-create.template.html" timestamp="1515799312233">
         <mark key="[" line="12" column="107" />
@@ -345,12 +345,6 @@
         <mark key="^" line="5" column="22" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" timestamp="1516751209318" />
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/IntakeService.java" timestamp="1516982833331">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="115" column="6" />
-        <mark key="." line="116" column="0" />
-      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/IntakeDaoImpl.java" timestamp="1516923698076" />
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
         <mark key="[" line="15" column="80" />
@@ -439,11 +433,11 @@
       <jump line="51" column="21" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2dc0af3d-a0bb-329a-9d0c-551b97664d8f</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>2dc0af3d-a0bb-329a-9d0c-551b97664d8f</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
