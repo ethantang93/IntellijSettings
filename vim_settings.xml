@@ -102,12 +102,12 @@
         <mark key="." line="31" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.2/elasticsearch-6.1.2.jar!/org/elasticsearch/search/SearchHits.class" timestamp="1517246305377" />
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517334193214">
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517335465312">
         <mark key="'" line="44" column="18" />
-        <mark key="[" line="49" column="34" />
-        <mark key="]" line="49" column="51" />
-        <mark key="." line="49" column="51" />
-        <mark key="^" line="49" column="51" />
+        <mark key="[" line="63" column="15" />
+        <mark key="]" line="69" column="19" />
+        <mark key="." line="69" column="19" />
+        <mark key="^" line="69" column="19" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1515779670247">
         <mark key="[" line="161" column="0" />
@@ -425,11 +425,11 @@
       <jump line="44" column="18" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFNldHRpbmdzIHNldHRpbmdzID0gU2V0dGluZ3MuYnVpbGRlcigpCi8vICAgICAgICAgICAgICAgIC5wdXQoImNsdXN0ZXIubmFtZSIsIGNsdXN0ZXJOYW1lKQovLyAgICAgICAgICAgICAgICAuYnVpbGQoKTsKLy8gICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgdGhpcy5jbGllbnQgPSBuZXcgUHJlQnVpbHRUcmFuc3BvcnRDbGllbnQoc2V0dGluZ3MpCi8vICAgICAgICAgICAgICAgICAgICAuYWRkVHJhbnNwb3J0QWRkcmVzcyhuZXcgVHJhbnNwb3J0QWRkcmVzcyhJbmV0QWRkcmVzcy5nZXRCeU5hbWUoaG9zdCksIHBvcnQpKTsKLy8gICAgICAgIH0gY2F0Y2ggKFVua25vd25Ib3N0RXhjZXB0aW9uIGVycikgewovLyAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiVW5rbm93bkhvc3RFeGNlcHRpb24iICsgZXJyLmdldE1lc3NhZ2UoKSk7Ci8vICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>request</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
