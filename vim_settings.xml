@@ -112,12 +112,12 @@
         <mark key="." line="43" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.2/elasticsearch-6.1.2.jar!/org/elasticsearch/search/SearchHits.class" timestamp="1517246305377" />
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517268010418">
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517329365755">
         <mark key="'" line="44" column="18" />
-        <mark key="[" line="132" column="50" />
-        <mark key="]" line="132" column="50" />
-        <mark key="." line="132" column="50" />
-        <mark key="^" line="132" column="50" />
+        <mark key="[" line="105" column="90" />
+        <mark key="]" line="106" column="11" />
+        <mark key="." line="106" column="11" />
+        <mark key="^" line="106" column="11" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1515779670247">
         <mark key="[" line="161" column="0" />
@@ -216,11 +216,11 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1517328566653">
-        <mark key="[" line="123" column="51" />
-        <mark key="]" line="123" column="68" />
-        <mark key="^" line="123" column="68" />
-        <mark key="." line="123" column="68" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1517330609989">
+        <mark key="[" line="140" column="72" />
+        <mark key="]" line="140" column="75" />
+        <mark key="^" line="140" column="75" />
+        <mark key="." line="140" column="75" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/property_hub_template.json" timestamp="1517242337411">
         <mark key="[" line="2" column="37" />
@@ -299,7 +299,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517328567106">
+      <file name="/Dummy.txt" timestamp="1517330057127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1514912697155">
@@ -456,10 +456,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assetHubIndex</text>
+        <text>roperty</text>
       </register>
       <register name="-" type="4">
-        <text>assetHubIndex</text>
+        <text>roperty</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -468,16 +468,16 @@
         <text encoding="base64">ICAgIEBWYWx1ZSh2YWx1ZSA9ICIke2VsYXN0aWNzZWFyY2guYXNzZXRfaHViLmluZGV4LnNvdn0iKQogICAgU3RyaW5nIGFzc2V0SHViSW5kZXg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWxhc3RpY3NlYXJjaAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBjbGllbnQucHJlcGFyZVVwZGF0ZShpbmRleCwgdHlwZSwgdXVpZCkKLy8gICAgICAgICAgICAgICAgICAgIC5zZXREb2MoanNvbkRhdGEsIFhDb250ZW50VHlwZS5KU09OKQovLyAgICAgICAgICAgICAgICAgICAgLmdldCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSJwcm9wZXJ0eSI7Cg==</text>
+        <text encoding="base64">ZWxhc3RpY3NlYXJjaAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSJwcm9wZXJ0eSI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSAianNvbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSJwcm9wZXJ0eSI7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSAianNvbiI7Cg==</text>
@@ -489,10 +489,10 @@
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSAianNvbiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSAianNvbiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGluZGV4ID0gU3RyaW5nLmZvcm1hdCgiJXMhJXMhJXMiLCAsIHRhYmxlTmFtZSwgY29sdW1uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
