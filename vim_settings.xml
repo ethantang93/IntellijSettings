@@ -40,11 +40,11 @@
         <mark key="." line="36" column="19" />
         <mark key="^" line="36" column="19" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/config/prod/config-prod.properties" timestamp="1517334134642">
-        <mark key="[" line="70" column="20" />
-        <mark key="]" line="70" column="21" />
-        <mark key="." line="70" column="21" />
-        <mark key="^" line="76" column="81" />
+      <file name="$USER_HOME$/mvp-web-api/config/prod/config-prod.properties" timestamp="1517352395834">
+        <mark key="[" line="68" column="27" />
+        <mark key="]" line="68" column="43" />
+        <mark key="." line="68" column="43" />
+        <mark key="^" line="68" column="43" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/materialize/_dropdown.scss" timestamp="1516051734209">
         <mark key="[" line="5" column="9" />
@@ -102,7 +102,7 @@
         <mark key="." line="31" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.2/elasticsearch-6.1.2.jar!/org/elasticsearch/search/SearchHits.class" timestamp="1517246305377" />
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517350449714">
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517352535524">
         <mark key="'" line="61" column="57" />
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -333,11 +333,11 @@
         <mark key="." line="87" column="16" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/IntakeDaoImpl.java" timestamp="1516923698076" />
-      <file name="$USER_HOME$/mvp-web-api/share/scripts/install.sh" timestamp="1517265100070">
-        <mark key="[" line="130" column="49" />
-        <mark key="]" line="130" column="56" />
-        <mark key="^" line="130" column="56" />
-        <mark key="." line="130" column="56" />
+      <file name="$USER_HOME$/mvp-web-api/share/scripts/install.sh" timestamp="1517352417411">
+        <mark key="[" line="127" column="39" />
+        <mark key="]" line="127" column="50" />
+        <mark key="." line="127" column="50" />
+        <mark key="^" line="127" column="50" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
         <mark key="[" line="15" column="80" />
@@ -423,44 +423,44 @@
       <jump line="61" column="57" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5nZXQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImpzb25kYXRhID4+Pj4+Pjp7fSIsanNvbkRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIHNlZCAtaSAtZSAicy8lRVNfUFJPUEVSVFlfSFVCX05BTUVTUEFDRSUvJGVzX3Byb3BlcnR5X2h1Yl9uYW1lc3BhY2UvZyIgICAkSU5TVEFMTF9ESVIvY29uZmlnL3Byb2QvY29uZmlnLXByb2QucHJvcGVydGllcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5nZXQoKTsK</text>
+        <text encoding="base64">ICAgIHNlZCAtaSAtZSAiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5zZXRTb3VyY2UoanNvbkRhdGEsIFhDb250ZW50VHlwZS5KU09OKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5nZXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBJbmRleFJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50LnByZXBhcmVJbmRleChpbmRleCwgdHlwZSwgdXVpZCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5zZXRTb3VyY2UoanNvbkRhdGEsIFhDb250ZW50VHlwZS5KU09OKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBJbmRleFJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50LnByZXBhcmVJbmRleChpbmRleCwgdHlwZSwgdXVpZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0TWFwcGVyIG1hcHBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSnNvbk5vZGUgZGF0YSA9IG1hcHBlci5yZWFkVHJlZShqc29uRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0TWFwcGVyIG1hcHBlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbkRhdGEgPSBtYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSnNvbk5vZGUgZGF0YSA9IG1hcHBlci5yZWFkVHJlZShqc29uRGF0YSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImpzb25kYXRhIGFmdGVyID4+Pj4+Pjp7fSIsIGpzb25EYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbkRhdGEgPSBtYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKGRhdGEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImpzb25kYXRhID4+Pj4+Pjp7fSIsIGpzb25EYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImpzb25kYXRhIGFmdGVyID4+Pj4+Pjp7fSIsIGpzb25EYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
