@@ -22,6 +22,12 @@
         <mark key="." line="3" column="149" />
       </file>
       <file name="$USER_HOME$/mvp-deploy/tools/deploy_by_pipelineid.sh" timestamp="1516814156739" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/IntakeController.java" timestamp="1517353783418">
+        <mark key="[" line="129" column="37" />
+        <mark key="]" line="129" column="39" />
+        <mark key="^" line="129" column="39" />
+        <mark key="." line="129" column="39" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/asset-new-modal.controller.js" timestamp="1516988596695">
         <mark key="[" line="44" column="23" />
         <mark key="]" line="44" column="29" />
@@ -41,10 +47,10 @@
         <mark key="^" line="36" column="19" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/config/prod/config-prod.properties" timestamp="1517352395834">
-        <mark key="[" line="68" column="27" />
-        <mark key="]" line="68" column="43" />
-        <mark key="." line="68" column="43" />
-        <mark key="^" line="68" column="43" />
+        <mark key="[" line="79" column="27" />
+        <mark key="]" line="79" column="43" />
+        <mark key="." line="79" column="43" />
+        <mark key="^" line="79" column="43" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/materialize/_dropdown.scss" timestamp="1516051734209">
         <mark key="[" line="5" column="9" />
@@ -95,14 +101,24 @@
         <mark key="." line="16" column="92" />
         <mark key="^" line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/assets/sass/main.scss" timestamp="1516231637914">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDaoImpl.java" timestamp="1515774405231">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="31" column="26" />
         <mark key="^" line="31" column="26" />
         <mark key="." line="31" column="26" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/litigation/litigation.template.html" timestamp="1516827487776">
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.2/elasticsearch-6.1.2.jar!/org/elasticsearch/search/SearchHits.class" timestamp="1517246305377" />
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517352535524">
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517354484767">
         <mark key="'" line="61" column="57" />
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -145,6 +161,11 @@
         <mark key="]" line="87" column="20" />
         <mark key="^" line="88" column="16" />
         <mark key="." line="87" column="20" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" timestamp="1517354350209">
+        <mark key="[" line="191" column="9" />
+        <mark key="]" line="191" column="10" />
+        <mark key="." line="191" column="9" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/index.js" timestamp="1515193091176">
         <mark key="[" line="7" column="33" />
@@ -189,6 +210,11 @@
         <mark key="^" line="15" column="164" />
         <mark key="." line="15" column="164" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/account/index.js" timestamp="1516139171624">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.html" timestamp="1516212794702">
         <mark key="[" line="8" column="64" />
         <mark key="]" line="8" column="75" />
@@ -200,12 +226,6 @@
         <mark key="]" line="20" column="58" />
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1517348355690">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="54" column="44" />
-        <mark key="^" line="140" column="75" />
-        <mark key="." line="140" column="75" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/property_hub_template.json" timestamp="1517242337411">
         <mark key="[" line="2" column="37" />
@@ -263,6 +283,11 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/entity/Feature.java" timestamp="1515775733389">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.controller.js" timestamp="1516055786668">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="35" />
@@ -296,6 +321,11 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/OverviewController.java" timestamp="1515513013496">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1513878393374">
         <mark key="[" line="3" column="59" />
         <mark key="]" line="4" column="63" />
@@ -314,6 +344,11 @@
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/acord-edit.template.html" timestamp="1516307680789">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
         <mark key="]" line="14" column="47" />
@@ -326,19 +361,8 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" timestamp="1517263526489">
-        <mark key="[" line="87" column="17" />
-        <mark key="]" line="87" column="16" />
-        <mark key="^" line="87" column="16" />
-        <mark key="." line="87" column="16" />
-      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" timestamp="1517263526489" />
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/IntakeDaoImpl.java" timestamp="1516923698076" />
-      <file name="$USER_HOME$/mvp-web-api/share/scripts/install.sh" timestamp="1517352417411">
-        <mark key="[" line="127" column="39" />
-        <mark key="]" line="127" column="50" />
-        <mark key="." line="127" column="50" />
-        <mark key="^" line="127" column="50" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
         <mark key="[" line="15" column="80" />
         <mark key="]" line="15" column="88" />
