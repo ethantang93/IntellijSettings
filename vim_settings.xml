@@ -102,12 +102,12 @@
         <mark key="." line="31" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.2/elasticsearch-6.1.2.jar!/org/elasticsearch/search/SearchHits.class" timestamp="1517246305377" />
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517343322120">
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517346026875">
         <mark key="'" line="61" column="57" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
-        <mark key="^" line="162" column="35" />
+        <mark key="[" line="131" column="19" />
+        <mark key="]" line="131" column="27" />
+        <mark key="." line="131" column="27" />
+        <mark key="^" line="131" column="27" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1515779670247">
         <mark key="[" line="161" column="0" />
@@ -281,7 +281,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517333797263">
+      <file name="/Dummy.txt" timestamp="1517346029597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1514912697155">
@@ -423,44 +423,44 @@
       <jump line="61" column="57" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getGetResult().sourceAsString();</text>
       </register>
       <register name="-" type="4">
-        <text>builder</text>
+        <text>getGetResult().sourceAsString();</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFbGFzdGljc2VhcmNoRXhjZXB0aW9uIGVycikgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIkVyciBTdGF0dXM6IHt9IiwgZXJyLnN0YXR1cygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCIiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VhcmNoUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFNlYXJjaFJlcXVlc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB2ZXJzaW9uID0gdXBkYXRlUmVzcG9uc2UuZ2V0VmVyc2lvbigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVsZXRlUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQucHJlcGFyZURlbGV0ZShpbmRleCwgdHlwZSwgdXVpZCkuZ2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGlkID0gdXBkYXRlUmVzcG9uc2UuZ2V0SWQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFbGFzdGljc2VhcmNoRXhjZXB0aW9uIGVycikgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIkVyciBTdGF0dXM6IHt9IiwgZXJyLnN0YXR1cygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSB1cGRhdGVSZXNwb25zZS5nZXRUeXBlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInVwZGF0ZSBzdWNjZXNzZnVsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGluZGV4ID0gdXBkYXRlUmVzcG9uc2UuZ2V0SW5kZXgoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlUmVxdWVzdCB1cGRhdGVSZXF1ZXN0ID0gbmV3IFVwZGF0ZVJlcXVlc3QoaW5kZXgsIHR5cGUsIHV1aWQpCiAgICAgICAgICAgICAgICAgICAgLmRvYyhqc29uRGF0YSwgWENvbnRlbnRUeXBlLkpTT04pCiAgICAgICAgICAgICAgICAgICAgLnVwc2VydChpbmRleFJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC51cHNlcnQoanNvbkRhdGEsIFhDb250ZW50VHlwZS5KU09OKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
