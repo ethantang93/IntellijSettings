@@ -40,10 +40,10 @@
         <mark key="." line="36" column="19" />
         <mark key="^" line="36" column="19" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/config/prod/config-prod.properties" timestamp="1517269955063">
-        <mark key="[" line="76" column="74" />
-        <mark key="]" line="76" column="81" />
-        <mark key="." line="76" column="81" />
+      <file name="$USER_HOME$/mvp-web-api/config/prod/config-prod.properties" timestamp="1517334134642">
+        <mark key="[" line="70" column="20" />
+        <mark key="]" line="70" column="21" />
+        <mark key="." line="70" column="21" />
         <mark key="^" line="76" column="81" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/materialize/_dropdown.scss" timestamp="1516051734209">
@@ -95,29 +95,19 @@
         <mark key="." line="16" column="92" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/assets/sass/main.scss" timestamp="1516231637914">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDaoImpl.java" timestamp="1515774405231">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="31" column="26" />
         <mark key="^" line="31" column="26" />
         <mark key="." line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/litigation/litigation.template.html" timestamp="1516827487776">
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="43" column="25" />
-        <mark key="." line="43" column="25" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.2/elasticsearch-6.1.2.jar!/org/elasticsearch/search/SearchHits.class" timestamp="1517246305377" />
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517329365755">
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517334193214">
         <mark key="'" line="44" column="18" />
-        <mark key="[" line="105" column="90" />
-        <mark key="]" line="106" column="11" />
-        <mark key="." line="106" column="11" />
-        <mark key="^" line="106" column="11" />
+        <mark key="[" line="49" column="34" />
+        <mark key="]" line="49" column="51" />
+        <mark key="." line="49" column="51" />
+        <mark key="^" line="49" column="51" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1515779670247">
         <mark key="[" line="161" column="0" />
@@ -150,11 +140,11 @@
         <mark key="." line="41" column="83" />
         <mark key="^" line="41" column="83" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/pom.xml" timestamp="1516378939315">
-        <mark key="[" line="83" column="19" />
-        <mark key="]" line="88" column="16" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/pom.xml" timestamp="1517333837761">
+        <mark key="[" line="87" column="19" />
+        <mark key="]" line="87" column="20" />
         <mark key="^" line="88" column="16" />
-        <mark key="." line="88" column="16" />
+        <mark key="." line="87" column="20" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/index.js" timestamp="1515193091176">
         <mark key="[" line="7" column="33" />
@@ -198,11 +188,6 @@
         <mark key="]" line="15" column="164" />
         <mark key="^" line="15" column="164" />
         <mark key="." line="15" column="164" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/account/index.js" timestamp="1516139171624">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.html" timestamp="1516212794702">
         <mark key="[" line="8" column="64" />
@@ -276,11 +261,6 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/entity/Feature.java" timestamp="1515775733389">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.controller.js" timestamp="1516055786668">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="35" />
@@ -299,7 +279,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517330057127">
+      <file name="/Dummy.txt" timestamp="1517333797263">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1514912697155">
@@ -319,11 +299,6 @@
         <mark key="]" line="36" column="22" />
         <mark key="." line="36" column="22" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/OverviewController.java" timestamp="1515513013496">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1513878393374">
         <mark key="[" line="3" column="59" />
         <mark key="]" line="4" column="63" />
@@ -341,11 +316,6 @@
         <mark key="]" line="45" column="106" />
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/acord-edit.template.html" timestamp="1516307680789">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
@@ -455,11 +425,11 @@
       <jump line="44" column="18" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>roperty</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFNldHRpbmdzIHNldHRpbmdzID0gU2V0dGluZ3MuYnVpbGRlcigpCi8vICAgICAgICAgICAgICAgIC5wdXQoImNsdXN0ZXIubmFtZSIsIGNsdXN0ZXJOYW1lKQovLyAgICAgICAgICAgICAgICAuYnVpbGQoKTsKLy8gICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgdGhpcy5jbGllbnQgPSBuZXcgUHJlQnVpbHRUcmFuc3BvcnRDbGllbnQoc2V0dGluZ3MpCi8vICAgICAgICAgICAgICAgICAgICAuYWRkVHJhbnNwb3J0QWRkcmVzcyhuZXcgVHJhbnNwb3J0QWRkcmVzcyhJbmV0QWRkcmVzcy5nZXRCeU5hbWUoaG9zdCksIHBvcnQpKTsKLy8gICAgICAgIH0gY2F0Y2ggKFVua25vd25Ib3N0RXhjZXB0aW9uIGVycikgewovLyAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiVW5rbm93bkhvc3RFeGNlcHRpb24iICsgZXJyLmdldE1lc3NhZ2UoKSk7Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>roperty</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -468,31 +438,31 @@
         <text encoding="base64">ICAgIEBWYWx1ZSh2YWx1ZSA9ICIke2VsYXN0aWNzZWFyY2guYXNzZXRfaHViLmluZGV4LnNvdn0iKQogICAgU3RyaW5nIGFzc2V0SHViSW5kZXg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjbGllbnQucHJlcGFyZVVwZGF0ZShpbmRleCwgdHlwZSwgdXVpZCkKLy8gICAgICAgICAgICAgICAgICAgIC5zZXREb2MoanNvbkRhdGEsIFhDb250ZW50VHlwZS5KU09OKQovLyAgICAgICAgICAgICAgICAgICAgLmdldCgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFNldHRpbmdzIHNldHRpbmdzID0gU2V0dGluZ3MuYnVpbGRlcigpCi8vICAgICAgICAgICAgICAgIC5wdXQoImNsdXN0ZXIubmFtZSIsIGNsdXN0ZXJOYW1lKQovLyAgICAgICAgICAgICAgICAuYnVpbGQoKTsKLy8gICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgdGhpcy5jbGllbnQgPSBuZXcgUHJlQnVpbHRUcmFuc3BvcnRDbGllbnQoc2V0dGluZ3MpCi8vICAgICAgICAgICAgICAgICAgICAuYWRkVHJhbnNwb3J0QWRkcmVzcyhuZXcgVHJhbnNwb3J0QWRkcmVzcyhJbmV0QWRkcmVzcy5nZXRCeU5hbWUoaG9zdCksIHBvcnQpKTsKLy8gICAgICAgIH0gY2F0Y2ggKFVua25vd25Ib3N0RXhjZXB0aW9uIGVycikgewovLyAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiVW5rbm93bkhvc3RFeGNlcHRpb24iICsgZXJyLmdldE1lc3NhZ2UoKSk7Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWxhc3RpY3NlYXJjaAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi50cmFuc3BvcnQuVHJhbnNwb3J0QWRkcmVzczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSJwcm9wZXJ0eSI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLnRyYW5zcG9ydC5jbGllbnQuUHJlQnVpbHRUcmFuc3BvcnRDbGllbnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSJwcm9wZXJ0eSI7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBjbGllbnQucHJlcGFyZVVwZGF0ZShpbmRleCwgdHlwZSwgdXVpZCkKLy8gICAgICAgICAgICAgICAgICAgIC5zZXREb2MoanNvbkRhdGEsIFhDb250ZW50VHlwZS5KU09OKQovLyAgICAgICAgICAgICAgICAgICAgLmdldCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSAianNvbiI7Cg==</text>
+        <text encoding="base64">ZWxhc3RpY3NlYXJjaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSAianNvbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSJwcm9wZXJ0eSI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSAianNvbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSJwcm9wZXJ0eSI7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSAianNvbiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSAianNvbiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
