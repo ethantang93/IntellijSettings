@@ -77,6 +77,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="11" column="35" />
       </file>
+      <file name="$USER_HOME$/acord-test/src/App.js" timestamp="1517421276349">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="64" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeatureDao.java" timestamp="1515710815683">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="31" />
@@ -116,6 +122,7 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="117" column="29" />
       </file>
+      <file name="$USER_HOME$/acord-test/src/index.js" timestamp="1517421064125" />
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1515779670247">
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="42" />
@@ -424,10 +431,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>co</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>co</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
