@@ -77,6 +77,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="11" column="35" />
       </file>
+      <file name="$USER_HOME$/acord-test/src/App.js" timestamp="1517435646913">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeatureDao.java" timestamp="1515710815683">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="31" />
@@ -102,11 +108,21 @@
         <mark key="." line="16" column="92" />
         <mark key="^" line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/assets/sass/main.scss" timestamp="1516231637914">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDaoImpl.java" timestamp="1515774405231">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="31" column="26" />
         <mark key="^" line="31" column="26" />
         <mark key="." line="31" column="26" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/litigation/litigation.template.html" timestamp="1516827487776">
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.2/elasticsearch-6.1.2.jar!/org/elasticsearch/search/SearchHits.class" timestamp="1517246305377" />
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517354484767">
@@ -202,6 +218,11 @@
         <mark key="^" line="15" column="164" />
         <mark key="." line="15" column="164" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/account/index.js" timestamp="1516139171624">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.html" timestamp="1516212794702">
         <mark key="[" line="8" column="64" />
         <mark key="]" line="8" column="75" />
@@ -263,12 +284,12 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/acord-test/src/annotate.js" timestamp="1517432571916">
+      <file name="$USER_HOME$/acord-test/src/annotate.js" timestamp="1517436046397">
         <mark key="'" line="8" column="1" />
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-        <mark key="^" line="3" column="42" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.3/elasticsearch-6.1.3.jar!/org/elasticsearch/action/DocWriteResponse.class" timestamp="1517341821905" />
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
@@ -277,17 +298,21 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/entity/Feature.java" timestamp="1515775733389">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.controller.js" timestamp="1516055786668">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="35" />
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/acord-test/src/pdfView.js" timestamp="1517433000087">
-        <mark key="[" line="48" column="31" />
-        <mark key="]" line="51" column="21" />
-        <mark key="." line="51" column="21" />
-        <mark key="^" line="51" column="21" />
+      <file name="$USER_HOME$/acord-test/src/pdfView.js" timestamp="1517435187748">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/acord-test/node_modules/pdf-annotate/dist/cjs/PDFJSAnnotate.js" timestamp="1517430457158" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/underwriting-sov-view.template.html" timestamp="1512161355396">
@@ -302,7 +327,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517431558392">
+      <file name="/Dummy.txt" timestamp="1517435096423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1514912697155">
@@ -322,6 +347,11 @@
         <mark key="]" line="36" column="22" />
         <mark key="." line="36" column="22" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/OverviewController.java" timestamp="1515513013496">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1513878393374">
         <mark key="[" line="3" column="59" />
         <mark key="]" line="4" column="63" />
@@ -339,6 +369,11 @@
         <mark key="]" line="45" column="106" />
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/acord-edit.template.html" timestamp="1516307680789">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
@@ -440,10 +475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pdf</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>pdf</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -452,31 +487,31 @@
         <text encoding="base64">aW1wb3J0IF9fcGRmanMgZnJvbSAncGRmanMtZGlzdC9idWlsZC9wZGYnOwppbXBvcnQgUERGSlNBbm5vdGF0ZSBmcm9tICdwZGYtYW5ub3RhdGUnOwppbXBvcnQgd29ya2VyIGZyb20gJ3BkZi53b3JrZXIuanMnOwppbXBvcnQgcGRmUGF0aCBmcm9tICcuL3BkZl9maWxlcy9hY29yZC5wZGYnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2Fubm90YXRlJzsK</text>
+        <text encoding="base64">aW1wb3J0IHdvcmtlciBmcm9tICdodHRwOi8vaW5zdHJ1Y3R1cmUuZ2l0aHViLmlvL3BkZi1hbm5vdGF0ZS5qcy9zaGFyZWQvcGRmLndvcmtlci5qcyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHdvcmtlciBmcm9tICdwZGYud29ya2VyLmpzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHdvcmtlciBmcm9tICdodHRwOi8vaW5zdHJ1Y3R1cmUuZ2l0aHViLmlvL3BkZi1hbm5vdGF0ZS5qcy9zaGFyZWQvcGRmLndvcmtlci5qcyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UERGSlMgPSBuZXcgUERGSlMoKTsK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHdvcmtlciBmcm9tICdwZGYud29ya2VyLmpzJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IF9fcGRmanMgZnJvbSAncGRmanMtZGlzdC9idWlsZC9wZGYnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHdvcmtlciBmcm9tICdwZGYud29ya2VyLmpzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2Fubm90YXRlJzsK</text>
+        <text encoding="base64">aW1wb3J0IHBkZlBhdGggZnJvbSAnLi9wZGZfZmlsZXMvYWNvcmQucGRmJzsKaW1wb3J0IFBERkpTQW5ub3RhdGUgZnJvbSAncGRmLWFubm90YXRlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">ICAgIC8vCiAgICBQREZKUy53b3JrZXJTcmMgPSAncGRmLndvcmtlci5qcyc7CiAgICBQREZKU0Fubm90YXRlLnNldFN0b3JlQWRhcHRlcihuZXcgUERGSlNBbm5vdGF0ZS5Mb2NhbFN0b3JlQWRhcHRlcigpKTsKICAgIAogICAgLy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBkZkRpdiBmcm9tICdwZGZJZCcK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHtVSX0gPSBQREZKU0Fubm90YXRlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxNeVBkZlZpZXdlcj48L015UGRmVmlld2VyPgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IFJFTkRFUl9PUFRJT05TID0gewogICAgICBkb2N1bWVudElkOiAncGRmSWQnLAogICAgICBwZGZEb2N1bWVudDogJy4vJwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvY2FsCg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL2Fubm90YXRlJzsK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
