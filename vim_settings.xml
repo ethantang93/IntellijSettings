@@ -77,11 +77,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/acord-test/src/App.js" timestamp="1517442232823">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="34" />
-        <mark key="^" line="19" column="34" />
-        <mark key="." line="19" column="34" />
+      <file name="$USER_HOME$/acord-test/src/App.js" timestamp="1517448951939">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="29" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeatureDao.java" timestamp="1515710815683">
         <mark key="[" line="6" column="30" />
@@ -448,11 +448,11 @@
       <jump line="26" column="23" filename="$USER_HOME$/acord-test/src/annotate.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvYyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -461,31 +461,31 @@
         <text encoding="base64">UERGSlNBbm5vdGF0ZS53b3JrZXJTcmMgPSAiaHR0cDovL2luc3RydWN0dXJlLmdpdGh1Yi5pby9wZGYtYW5ub3RhdGUuanMvc2hhcmVkL3BkZi53b3JrZXIuanMiOwpQREZKU0Fubm90YXRlLnNldFN0b3JlQWRhcHRlcihuZXcgUERGSlNBbm5vdGF0ZS5Mb2NhbFN0b3JlQWRhcHRlcigpKTsKbGV0IGRvYyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdwZGZJZCcpOwpjb25zb2xlLmxvZyhkb2MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvYyk7Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2Fubm90YXRlJzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvYyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgICAgPAogICAgKTsK</text>
+        <text encoding="base64">aW1wb3J0ICcuL2Fubm90YXRlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvbkRvY3VtZW50Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgICAgPAogICAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgaGFoYSA9ICJoZXJlIjoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gb25DbGljaz17dGhpcy5kcmF3fT48L2J1dHRvbj4KCg==</text>
+        <text encoding="base64">ICBvbkRvY3VtZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
