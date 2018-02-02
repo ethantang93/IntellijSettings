@@ -185,12 +185,12 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" timestamp="1517607700361">
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" timestamp="1517608943210">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="378" column="0" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="378" column="0" />
+        <mark key="[" line="404" column="6" />
+        <mark key="]" line="405" column="5" />
+        <mark key="^" line="405" column="5" />
+        <mark key="." line="405" column="5" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake.service.js" timestamp="1516053374674">
         <mark key="[" line="41" column="36" />
@@ -447,11 +447,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPkRpc3RhbmNlIEZyb20gQ29hc3Q8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIG5nLWJpbmQ9IiI+LTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gbmctYmluZD0iIj4tPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9InByb3BlcnR5LXRhYmxlLWlucHV0IiBwbGFjZWhvbGRlcj0iQ2xpY2sgaGVyZSB0byBjaGFuZ2UiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsPSJ2bS50YWJsZURhdGEucXVvdGUuZXhwb3N1cmUuZGlzdGFuY2VfZnJvbV9jb2FzdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmctY2hhbmdlPSJ0b2dnbGVRdW90ZSgpIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdHI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="-" type="4">
-        <text>container</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
