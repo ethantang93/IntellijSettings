@@ -185,11 +185,12 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" timestamp="1516827503159">
-        <mark key="[" line="169" column="32" />
-        <mark key="]" line="169" column="33" />
-        <mark key="." line="169" column="33" />
-        <mark key="^" line="108" column="54" />
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" timestamp="1517605811289">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake.service.js" timestamp="1516053374674">
         <mark key="[" line="41" column="36" />
@@ -197,12 +198,7 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1515779670247">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="42" />
-        <mark key="." line="161" column="42" />
-        <mark key="^" line="161" column="42" />
-      </file>
+      <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517606204693" />
       <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.view.html" timestamp="1516049715376">
         <mark key="[" line="34" column="20" />
         <mark key="]" line="34" column="21" />
@@ -299,7 +295,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517604760826">
+      <file name="/Dummy.txt" timestamp="1517605814610">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1514912697155">
@@ -447,13 +443,15 @@
       <jump line="6" column="0" filename="$USER_HOME$/acord-test/src/annotate.js" />
       <jump line="19" column="22" filename="$USER_HOME$/acord-test/src/annotate.js" />
       <jump line="26" column="23" filename="$USER_HOME$/acord-test/src/annotate.js" />
+      <jump line="1" column="4" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzMSA9IHByb3BlcnR5U2VydmljZS5nZXRCdWlsZGluZ1Blcm1pdHMocHJvcGVydHlJZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>container</text>
       </register>
       <register name="-" type="4">
-        <text>getBuildingPermits</text>
+        <text>container</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
