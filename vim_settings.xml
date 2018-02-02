@@ -52,10 +52,10 @@
         <mark key="^" line="44" column="29" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1517529811656">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="143" column="113" />
-        <mark key="." line="143" column="0" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="^" line="153" column="113" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
         <mark key="[" line="27" column="69" />
@@ -70,10 +70,10 @@
         <mark key="^" line="36" column="19" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/config/prod/config-prod.properties" timestamp="1517529069772">
-        <mark key="[" line="73" column="91" />
-        <mark key="]" line="73" column="106" />
-        <mark key="." line="73" column="106" />
-        <mark key="^" line="73" column="106" />
+        <mark key="[" line="76" column="91" />
+        <mark key="]" line="76" column="106" />
+        <mark key="." line="76" column="106" />
+        <mark key="^" line="76" column="106" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/materialize/_dropdown.scss" timestamp="1516051734209">
         <mark key="[" line="5" column="9" />
@@ -348,11 +348,7 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" timestamp="1517589136114">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" timestamp="1517589136114" />
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
         <mark key="[" line="15" column="80" />
         <mark key="]" line="15" column="88" />
