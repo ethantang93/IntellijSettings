@@ -9,6 +9,12 @@
         <mark key="^" line="15" column="164" />
         <mark key="." line="15" column="164" />
       </file>
+      <file name="$USER_HOME$/ui/.idea/codeStyleSettings.xml" timestamp="1517604687887">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.html" timestamp="1516212794702">
         <mark key="[" line="8" column="64" />
         <mark key="]" line="8" column="75" />
@@ -75,6 +81,7 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
+      <file name="$USER_HOME$/ui/share/scripts/install.sh" timestamp="1517603947048" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun.controller.js" timestamp="1516058109895">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="13" column="24" />
@@ -140,6 +147,12 @@
         <mark key="]" line="185" column="67" />
         <mark key="^" line="185" column="67" />
         <mark key="." line="185" column="67" />
+      </file>
+      <file name="$USER_HOME$/ui/.gitignore" timestamp="1517604405863">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="5" />
+        <mark key="^" line="47" column="5" />
+        <mark key="." line="47" column="5" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/clients.template.html" timestamp="1516212495187">
         <mark key="[" line="23" column="99" />
@@ -286,7 +299,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517589144501">
+      <file name="/Dummy.txt" timestamp="1517604760826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1514912697155">
