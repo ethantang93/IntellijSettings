@@ -51,6 +51,12 @@
         <mark key="." line="44" column="29" />
         <mark key="^" line="44" column="29" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1517529811656">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="143" column="113" />
+        <mark key="." line="143" column="0" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="28" column="27" />
@@ -63,11 +69,11 @@
         <mark key="." line="36" column="19" />
         <mark key="^" line="36" column="19" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/config/prod/config-prod.properties" timestamp="1517352395834">
-        <mark key="[" line="79" column="27" />
-        <mark key="]" line="79" column="43" />
-        <mark key="." line="79" column="43" />
-        <mark key="^" line="79" column="43" />
+      <file name="$USER_HOME$/mvp-web-api/config/prod/config-prod.properties" timestamp="1517529069772">
+        <mark key="[" line="73" column="91" />
+        <mark key="]" line="73" column="106" />
+        <mark key="." line="73" column="106" />
+        <mark key="^" line="73" column="106" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/materialize/_dropdown.scss" timestamp="1516051734209">
         <mark key="[" line="5" column="9" />
@@ -286,7 +292,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517435096423">
+      <file name="/Dummy.txt" timestamp="1517529102808">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1514912697155">
@@ -342,7 +348,12 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" timestamp="1517523956016" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" timestamp="1517529579827">
+        <mark key="[" line="110" column="23" />
+        <mark key="]" line="110" column="65" />
+        <mark key="." line="110" column="65" />
+        <mark key="^" line="110" column="65" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
         <mark key="[" line="15" column="80" />
         <mark key="]" line="15" column="88" />
@@ -436,44 +447,44 @@
       <jump line="26" column="23" filename="$USER_HOME$/acord-test/src/annotate.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>getBuildingPermits</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UERGSlNBbm5vdGF0ZS53b3JrZXJTcmMgPSAiaHR0cDovL2luc3RydWN0dXJlLmdpdGh1Yi5pby9wZGYtYW5ub3RhdGUuanMvc2hhcmVkL3BkZi53b3JrZXIuanMiOwpQREZKU0Fubm90YXRlLnNldFN0b3JlQWRhcHRlcihuZXcgUERGSlNBbm5vdGF0ZS5Mb2NhbFN0b3JlQWRhcHRlcigpKTsKbGV0IGRvYyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdwZGZJZCcpOwpjb25zb2xlLmxvZyhkb2MpOwo=</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSh2YWx1ZSA9ICIke2VsYXN0aWNzZWFyY2gucHJvcGVydHlfaHViLmluZGV4fSIpCiAgICBTdHJpbmcgcHJvcGVydHlIdWJJbmRleDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qge1VJfSA9IFBERkpTQW5ub3RhdGU7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVUkuZW5hYmxlUmVjdCgic3RyaWtvdXQiKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvYyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0QnVpbGRpbmdQZXJtaXRzKFVVSUQgcHJvcGVydHlJZCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICBlbGFzdGljU2VhcmNoQ2xpZW50LmNyZWF0ZUNvbm5lY3Rpb24oKTsKCgogICAgICAgIGVsYXN0aWNTZWFyY2hDbGllbnQuY2xvc2VDb25uZWN0aW9uKCk7CiAgICAgICAgcmV0dXJuIG1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcocHJvcGVydHlOb2RlKTsKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9wZXJ0eU5vZGUuc2V0KCJwZXJtaXRzIiwgcGVybWl0cyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBKc29uTm9kZSBwZXJtaXRzID0gbWFwcGVyLmNyZWF0ZU9iamVjdE5vZGUoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBKc29uTm9kZSBwZXJtaXRzID0gbWFwcGVyLmNyZWF0ZU9iamVjdE5vZGUoKTsKICAgICAgICBTdHJpbmcgcGVybWl0c1N0ciA9IGVsYXN0aWNTZWFyY2hDbGllbnQuZ2V0KHByb3BlcnR5SHViSW5kZXhCdWlsZGluZ1Blcm1pdHMsICJqc29uIiwgcHJvcGVydHlJZC50b1N0cmluZygpKTsKICAgICAgICBpZiAocGVybWl0c1N0ciAhPSBudWxsKSB7CiAgICAgICAgICAgIHBlcm1pdHMgPSBtYXBwZXIucmVhZFRyZWUocGVybWl0c1N0cik7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3ROb2RlIHByb3BlcnR5Tm9kZSA9IG1hcHBlci5jcmVhdGVPYmplY3ROb2RlKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3ROb2RlIHByb3BlcnR5Tm9kZSA9IG1hcHBlci5jcmVhdGVPYmplY3ROb2RlKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9wZXJ0eU5vZGUuc2V0KCJxdW90ZSIsIHF1b3Rlcyk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2Fubm90YXRlJzsK</text>
+        <text encoding="base64">ICAgICAgICBKc29uTm9kZSBxdW90ZXMgPSBtYXBwZXIuY3JlYXRlT2JqZWN0Tm9kZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
