@@ -51,6 +51,7 @@
         <mark key="^" line="129" column="39" />
         <mark key="." line="129" column="39" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/config/app.config.js" timestamp="1517859651713" />
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeatureDaoImpl.java" timestamp="1515710807979">
         <mark key="[" line="20" column="58" />
         <mark key="]" line="20" column="58" />
@@ -88,7 +89,7 @@
         <mark key="^" line="5" column="9" />
       </file>
       <file name="$USER_HOME$/ui/share/scripts/install.sh" timestamp="1517603947048" />
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun.controller.js" timestamp="1516058109895">
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun.controller.js" timestamp="1517859925463">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="13" column="24" />
         <mark key="^" line="13" column="24" />
@@ -179,6 +180,7 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/lossrun.service.js" timestamp="1517859661649" />
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1517354484767">
         <mark key="'" line="61" column="57" />
         <mark key="[" line="96" column="0" />
@@ -312,6 +314,7 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-analysis.template.html" timestamp="1517859785258" />
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="0" />
