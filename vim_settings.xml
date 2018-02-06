@@ -15,7 +15,7 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.controller.js" timestamp="1517936932396">
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.controller.js" timestamp="1517938270475">
         <mark key="[" line="289" column="48" />
         <mark key="]" line="290" column="43" />
         <mark key="^" line="290" column="43" />
@@ -96,6 +96,7 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/risk360.analytics.controller.js" timestamp="1517937968868" />
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/property_hub_template.json" timestamp="1517242337411">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="51" />
@@ -351,7 +352,7 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/config/states.js" timestamp="1517935117079">
+      <file name="$USER_HOME$/ui/webroot/app/config/states.js" timestamp="1517938248559">
         <mark key="[" line="557" column="20" />
         <mark key="]" line="557" column="20" />
         <mark key="^" line="557" column="20" />
