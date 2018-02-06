@@ -51,7 +51,6 @@
         <mark key="^" line="129" column="39" />
         <mark key="." line="129" column="39" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/config/app.config.js" timestamp="1517859651713" />
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeatureDaoImpl.java" timestamp="1515710807979">
         <mark key="[" line="20" column="58" />
         <mark key="]" line="20" column="58" />
@@ -82,28 +81,24 @@
         <mark key="." line="76" column="106" />
         <mark key="^" line="76" column="106" />
       </file>
-      <file name="$USER_HOME$/ui/gulpfile.js" timestamp="1517868309704" />
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/materialize/_dropdown.scss" timestamp="1516051734209">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="9" />
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/ui/share/scripts/install.sh" timestamp="1517603947048" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun.controller.js" timestamp="1517859925463">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="13" column="24" />
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/risk360.analytics.controller.js" timestamp="1517937968868" />
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/property_hub_template.json" timestamp="1517242337411">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="51" />
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/shared/auth/auth.service.js" timestamp="1517946675515" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" timestamp="1517945646694">
         <mark key="[" line="14" column="46" />
         <mark key="]" line="14" column="65" />
@@ -194,7 +189,6 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/lossrun.service.js" timestamp="1517859661649" />
       <file name="$USER_HOME$/ui/webroot/app/account/account-assign-user-client.controller.js" timestamp="1516142490389">
         <mark key="[" line="18" column="70" />
         <mark key="]" line="18" column="46" />
@@ -326,7 +320,6 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-analysis.template.html" timestamp="1517859785258" />
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="0" />
@@ -369,7 +362,6 @@
         <mark key="^" line="557" column="20" />
         <mark key="." line="551" column="21" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" timestamp="1517589136114" />
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
         <mark key="[" line="15" column="80" />
         <mark key="]" line="15" column="88" />
