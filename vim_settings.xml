@@ -15,10 +15,11 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.controller.js" timestamp="1517940213943">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.controller.js" timestamp="1517946015276">
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+        <mark key="^" line="31" column="11" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.html" timestamp="1516212794702">
         <mark key="[" line="8" column="64" />
@@ -102,7 +103,13 @@
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/shared/auth/auth.service.js" timestamp="1517852568168" />
+      <file name="$USER_HOME$/ui/webroot/app/shared/auth/auth.service.js" timestamp="1517946675515" />
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" timestamp="1517945646694">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="65" />
+        <mark key="." line="14" column="65" />
+        <mark key="^" line="14" column="65" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-create.template.html" timestamp="1515799312233">
         <mark key="[" line="12" column="107" />
         <mark key="]" line="12" column="117" />
@@ -201,13 +208,14 @@
         <mark key="^" line="159" column="65" />
         <mark key="." line="159" column="65" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/intake.service.js" timestamp="1517870108854">
-        <mark key="[" line="41" column="36" />
-        <mark key="]" line="41" column="36" />
-        <mark key="." line="41" column="36" />
-        <mark key="^" line="41" column="42" />
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/intake.service.js" timestamp="1517947094360">
+        <mark key="'" line="271" column="12" />
+        <mark key="[" line="3" column="80" />
+        <mark key="]" line="272" column="22" />
+        <mark key="^" line="264" column="38" />
+        <mark key="." line="272" column="22" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517606204693" />
+      <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517946983489" />
       <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.view.html" timestamp="1517852672220">
         <mark key="[" line="34" column="18" />
         <mark key="]" line="34" column="29" />
@@ -249,11 +257,6 @@
         <mark key="]" line="72" column="5" />
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="5" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" timestamp="1517356020490">
-        <mark key="[" line="191" column="9" />
-        <mark key="]" line="191" column="10" />
-        <mark key="." line="191" column="9" />
       </file>
       <file name="$USER_HOME$/acord-test/src/pdfView.js" timestamp="1517439173308">
         <mark key="[" line="48" column="0" />
@@ -304,25 +307,20 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517940083763">
+      <file name="/Dummy.txt" timestamp="1517946959733">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1517939497536">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="26" />
-        <mark key="^" line="32" column="58" />
-        <mark key="." line="33" column="26" />
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1517945806660">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="53" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/index.js" timestamp="1514564128707">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="3" column="54" />
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.template.html" timestamp="1516915858294">
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-analysis.template.html" timestamp="1517859785258" />
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
@@ -463,16 +461,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" />
       <jump line="1" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.template.html" />
       <jump line="0" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.template.html" />
+      <jump line="271" column="12" filename="$USER_HOME$/ui/webroot/app/underwriting/intake.service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChwcm9wZXJ0aWVzID09PSBudWxsKSB7VmBgCiAgICAgIEludGFrZVNlcnZpY2UuZ2V0QWxsUHJvcGVydGllcygpCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -480,35 +479,35 @@
       <register name="o" type="4">
         <text />
       </register>
-      <register name="0" type="4">
-        <text>BuildingPermitsController</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgSW50YWtlU2VydmljZS5nZXRBbGxQcm9wZXJ0aWVzKCkKICAgICAgICAgIC50aGVuKGRhdGEgPT4gewogICAgICAgICAgICB2bS5udW1iZXJfb2ZfcHJvcGVydGllcyA9IGRhdGEubGVuZ3RoOwogICAgICAgICAgICBsb2NhbFN0b3JhZ2VTZXJ2aWNlLnNldCgncHJvcGVydGllcycsIGRhdGEpOwogICAgICAgICAgfSkKICAgICAgICAgIC5jYXRjaChlcnIgPT4gewogICAgICAgICAgICBlcnJvclNlcnZpY2UubG9nRXJyb3IoYHNvdjogJHtlcnJ9YCk7CiAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChwcm9wZXJ0aWVzID09PSBudWxsKSB7VmBgCiAgICAgIEludGFrZVNlcnZpY2UuZ2V0QWxsUHJvcGVydGllcygpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm0ubnVtYmVyX29mX3Byb3BlcnRpZXMgPSBkYXRhLmxlbmd0aDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgSW50YWtlU2VydmljZS5nZXRBbGxQcm9wZXJ0aWVzKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllczogbnVsbAogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZtLnRhYmxlU3RhdGUgPSBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1pc2VzID0gZGF0YTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCB0ZW1wX2ZpbGwgPSBhbmd1bGFyLmNvcHkodm0ucHJlbWlzZXNbMF0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCB0ZW1wX2ZpbGwgPSBhbmd1bGFyLmNvcHkodm0ucHJlbWlzZXNbMF0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgICBlcnJvclNlcnZpY2UubG9nRXJyb3IoYHNvdjogJHtlcnJ9YCk7CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
