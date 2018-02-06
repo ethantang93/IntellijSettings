@@ -15,11 +15,10 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.controller.js" timestamp="1517938270475">
-        <mark key="[" line="289" column="48" />
-        <mark key="]" line="290" column="43" />
-        <mark key="^" line="290" column="43" />
-        <mark key="." line="290" column="43" />
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.controller.js" timestamp="1517940213943">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.html" timestamp="1516212794702">
         <mark key="[" line="8" column="64" />
@@ -251,6 +250,11 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="5" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" timestamp="1517356020490">
+        <mark key="[" line="191" column="9" />
+        <mark key="]" line="191" column="10" />
+        <mark key="." line="191" column="9" />
+      </file>
       <file name="$USER_HOME$/acord-test/src/pdfView.js" timestamp="1517439173308">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -300,20 +304,25 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517934786949">
+      <file name="/Dummy.txt" timestamp="1517940083763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1514912697155">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="3" column="54" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1517939497536">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="26" />
+        <mark key="^" line="32" column="58" />
+        <mark key="." line="33" column="26" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/index.js" timestamp="1514564128707">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="3" column="54" />
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.template.html" timestamp="1516915858294">
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-analysis.template.html" timestamp="1517859785258" />
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
@@ -352,11 +361,11 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/config/states.js" timestamp="1517938248559">
-        <mark key="[" line="557" column="20" />
-        <mark key="]" line="557" column="20" />
+      <file name="$USER_HOME$/ui/webroot/app/config/states.js" timestamp="1517939931780">
+        <mark key="[" line="551" column="21" />
+        <mark key="]" line="551" column="21" />
         <mark key="^" line="557" column="20" />
-        <mark key="." line="557" column="20" />
+        <mark key="." line="551" column="21" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" timestamp="1517589136114" />
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
@@ -456,14 +465,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.template.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>permit_lic_value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIChwcm9wZXJ0aWVzID09PSBudWxsKSB7VmBgCiAgICAgIEludGFrZVNlcnZpY2UuZ2V0QWxsUHJvcGVydGllcygpCiAgICB9Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>permit_lic_value</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -475,31 +484,31 @@
         <text>BuildingPermitsController</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChwcm9wZXJ0aWVzID09PSBudWxsKSB7VmBgCiAgICAgIEludGFrZVNlcnZpY2UuZ2V0QWxsUHJvcGVydGllcygpCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllczogbnVsbAogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgICBlcnJvclNlcnZpY2UubG9nRXJyb3IoYHNvdjogJHtlcnJ9YCk7CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2bS5wcmVtaXNlcyA9IGRhdGE7CiAgICAgICAgdm0udGFibGVTdGF0ZSA9IGZhbHNlOwogICAgICAgIGxldCB0ZW1wX2ZpbGwgPSBhbmd1bGFyLmNvcHkodm0ucHJlbWlzZXNbMF0pOwogICAgICAgIGNvbnNvbGUubG9nKHZtLnByZW1pc2VzKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmZvckVhY2gocHJlbWlzZSA9PiB7CiAgICAgICAgICBwcmVtaXNlLm1hcmtfYXNfZG9uZSA9IGZhbHNlOwogICAgICAgICAgcHJlbWlzZS5mZW1hX3NyYyA9ICRzY2UudHJ1c3RBc1Jlc291cmNlVXJsKGAvL2ZlbWEubWFwcy5hcmNnaXMuY29tL2FwcHMvRW1iZWQvaW5kZXguaHRtbD93ZWJtYXA9Y2JlMDg4ZTdjODcwNDQ2NGFhMGZjMzRlYjk5ZTdmMzAmZXh0ZW50PSR7cHJlbWlzZS5mZW1hX2V4dGVudH0mem9vbT10cnVlJnNjYWxlPXRydWUmc2VhcmNoPWZhbHNlJnNlYXJjaGV4dGVudD10cnVlJmRpc2FibGVfc2Nyb2xsPXRydWUmbGVnZW5kbD10cnVlJmxlZ2VuZGxheWVycz10cnVlJnRoZW1lPWxpZ2h0Jm1hcmtlcj0ke3ByZW1pc2UubG9uZ2l0dWRlfTske3ByZW1pc2UubGF0aXR1ZGV9Ozs7O2ApCiAgICAgICAgICBpZiAocHJlbWlzZS5sYXRpdHVkZSE9JycgJiYgcHJlbWlzZS5sYXRpdHVkZSE9JycpewogICAgICAgICAgICBwcmVtaXNlLnBvc2l0aW9uID0gW3ByZW1pc2UubGF0aXR1ZGUsIHByZW1pc2UubG9uZ2l0dWRlXTsKICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5nb1RvUHJvcGVydHlXb3JrZmxvdyA9IGZ1bmN0aW9uKCl7CiAgICAgICRzdGF0ZS5nbygncHJvcGVydHknLCB7cHJvcGVydGllczogdm0ucHJlbWlzZXN9KTsKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVybV9saWNfZGF0ZQogICAgICAgICAgICA6CiAgICAgICAgICAgICIxOTg2LTA2LTIzIgogICAgICAgICAgICBwZXJtX2xpY19ubwogICAgICAgICAgICBwZXJtX2xpY19zdGF0dXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgICBlcnJvclNlcnZpY2UubG9nRXJyb3IoYHNvdjogJHtlcnJ9YCk7CiAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
