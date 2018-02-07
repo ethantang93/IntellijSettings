@@ -57,7 +57,12 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1518035334526" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1518039444954">
+        <mark key="[" line="199" column="88" />
+        <mark key="]" line="199" column="92" />
+        <mark key="." line="199" column="92" />
+        <mark key="^" line="199" column="92" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="28" column="27" />
@@ -461,13 +466,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -479,31 +484,31 @@
         <text encoding="base64">ICAgICAgSW50YWtlU2VydmljZS5nZXRBbGxQcm9wZXJ0aWVzKCkKICAgICAgICAgIC50aGVuKGRhdGEgPT4gewogICAgICAgICAgICB2bS5udW1iZXJfb2ZfcHJvcGVydGllcyA9IGRhdGEubGVuZ3RoOwogICAgICAgICAgICBsb2NhbFN0b3JhZ2VTZXJ2aWNlLnNldCgncHJvcGVydGllcycsIGRhdGEpOwogICAgICAgICAgfSkKICAgICAgICAgIC5jYXRjaChlcnIgPT4gewogICAgICAgICAgICBlcnJvclNlcnZpY2UubG9nRXJyb3IoYHNvdjogJHtlcnJ9YCk7CiAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVSS5zZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBVSS5zZXRQZW4oKQogICAgICAgIFVJLmVuYWJsZVBlbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2V0SnNvbiA9IGFzc2V0SnNvbi5nZXQoImFzc2V0X2luZm8iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBVSS5lbmFibGVSZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBVSS5zZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVSS5kaXNhYmxlUmVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBVSS5zZXRQZW4oKQogICAgICAgIFVJLmVuYWJsZVBlbigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFVJLmRpc2FibGVSZWN0KCk7CiAgICBVSS5lbmFibGVSZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBVSS5lbmFibGVSZWN0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29kbnNvbGUubG9nKGRvYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBVSS5kaXNhYmxlUmVjdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9hPgo=</text>
+        <text encoding="base64">ICAgIFVJLmRpc2FibGVSZWN0KCk7CiAgICBVSS5lbmFibGVSZWN0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGEgPgo=</text>
+        <text encoding="base64">ICAgICAgY29kbnNvbGUubG9nKGRvYyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NlRGVsZWdhdGVQcm92aWRlci5yZXNvdXJjZVVybFdoaXRlbGlzdChbJ3NlbGYnLCAnLy9mZW1hLm1hcHMuYXJjZ2lzLmNvbS9hcHBzL0VtYmVkL2luZGV4Lmh0bWw/d2VibWFwPWNiZTA4OGU3Yzg3MDQ0NjRhYTBmYzM0ZWI5OWU3ZjMwJmV4dGVudD0qKiZ6b29tPXRydWUmc2NhbGU9dHJ1ZSZzZWFyY2g9ZmFsc2Umc2VhcmNoZXh0ZW50PXRydWUmZGlzYWJsZV9zY3JvbGw9dHJ1ZSZsZWdlbmRsPXRydWUmbGVnZW5kbGF5ZXJzPXRydWUmdGhlbWU9bGlnaHQmbWFya2VyPSoqJ10pOwo=</text>
+        <text encoding="base64">PC9hPgo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
