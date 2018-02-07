@@ -21,6 +21,12 @@
         <mark key="." line="31" column="11" />
         <mark key="^" line="31" column="11" />
       </file>
+      <file name="$USER_HOME$/es-tools/schema/asset_hub/sov_quote.sh" timestamp="1518043312179">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.html" timestamp="1516212794702">
         <mark key="[" line="8" column="64" />
         <mark key="]" line="8" column="75" />
@@ -44,6 +50,12 @@
         <mark key="]" line="3" column="149" />
         <mark key="^" line="3" column="149" />
         <mark key="." line="3" column="149" />
+      </file>
+      <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_alias.json" timestamp="1518043569534">
+        <mark key="[" line="2" column="111" />
+        <mark key="]" line="2" column="115" />
+        <mark key="." line="2" column="115" />
+        <mark key="^" line="2" column="115" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/IntakeController.java" timestamp="1517353783418">
         <mark key="[" line="129" column="37" />
@@ -98,6 +110,12 @@
         <mark key="]" line="2" column="51" />
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/es-tools/share/scripts/install.sh" timestamp="1518043744443">
+        <mark key="[" line="64" column="34" />
+        <mark key="]" line="64" column="38" />
+        <mark key="." line="64" column="38" />
+        <mark key="^" line="64" column="38" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" timestamp="1517955448683">
         <mark key="[" line="18" column="0" />
@@ -222,6 +240,11 @@
         <mark key="^" line="34" column="29" />
         <mark key="." line="34" column="29" />
       </file>
+      <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_mapping.json" timestamp="1518043590982">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDao.java" timestamp="1515774238770">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -307,7 +330,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518027643678">
+      <file name="/Dummy.txt" timestamp="1518043028329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1517948927056">
@@ -466,13 +489,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>warn</text>
+        <text>sov</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>warn</text>
+        <text>sov</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -481,34 +504,34 @@
         <text />
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBxdWVyeSB0aGUgcXVvdGUgZGF0YSBieSB7cHJvcGVydHlJZH0K</text>
+        <text encoding="base64">ICBsb2cgIkNyZWF0aW5nIGluZGV4IGFuZCBhbGlhcyBmb3IgYXNzZXRfaHViIHNvdiIKICAke0lOU1RBTExfRElSfS9zY2hlbWEvYXNzZXRfaHViL3Nvdi5zaCAyPiYxIHwgdGVlIC1hICRMT0dGSUxFCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oImQzIHJlc3VsdCBpcyA6e30iLCBkM3Jlc3VsdHNTdHIpOwo=</text>
+        <text encoding="base64">ICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgImFzc2V0X2luZm8iOiB7ICJ0eXBlIjogIm9iamVjdCIsICJlbmFibGVkIjogZmFsc2UgfQogICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oImQzIHJlc3VsdCBpcyA6e30iLCBkM3Jlc3VsdHNTdHIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBtb3ZlIHRoZSBub2RlcyBpbnRvIHNvdiBub2RlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKChPYmplY3ROb2RlKSBwcm9wZXJ0eUpzb24pLnJlbW92ZShub2Rlc1RvUmVtb3ZlKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBtb3ZlIHRoZSBub2RlcyBpbnRvIHNvdiBub2RlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IG5vZGVzVG9SZW1vdmUgPSBBcnJheXMuYXNMaXN0KCJ2YWx1YXRpb24iLCAicHJvdGVjdGlvbiIsICJvY2N1cGFuY3kiLCAiZXhwb3N1cmUiLCAiY29uc3RydWN0aW9uIiwgImNvdmVyYWdlcyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKChPYmplY3ROb2RlKSBwcm9wZXJ0eUpzb24pLnJlbW92ZShub2Rlc1RvUmVtb3ZlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKChPYmplY3ROb2RlKSBwcm9wZXJ0eUpzb24pLnNldCgic292Iiwgc292Tm9kZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IG5vZGVzVG9SZW1vdmUgPSBBcnJheXMuYXNMaXN0KCJ2YWx1YXRpb24iLCAicHJvdGVjdGlvbiIsICJvY2N1cGFuY3kiLCAiZXhwb3N1cmUiLCAiY29uc3RydWN0aW9uIiwgImNvdmVyYWdlcyIpOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKChPYmplY3ROb2RlKSBwcm9wZXJ0eUpzb24pLnNldCgic292Iiwgc292Tm9kZSk7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IG5vZGVzVG9SZW1vdmUgPSBBcnJheXMuYXNMaXN0KCJ2YWx1YXRpb24iLCAicHJvdGVjdGlvbiIsICJvY2N1cGFuY3kiLCAiZXhwb3N1cmUiLCAiY29uc3RydWN0aW9uIiwgImNvdmVyYWdlcyIpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKChPYmplY3ROb2RlKSBzb3ZOb2RlKS5zZXQoInZhbHVhdGlvbiIsIHByb3BlcnR5SnNvbi5nZXQoInZhbHVhdGlvbiIpKTsKICAgICAgICAgICAgICAgICAgICAgICAgKChPYmplY3ROb2RlKSBzb3ZOb2RlKS5zZXQoInByb3RlY3Rpb24iLCBwcm9wZXJ0eUpzb24uZ2V0KCJwcm90ZWN0aW9uIikpOwogICAgICAgICAgICAgICAgICAgICAgICAoKE9iamVjdE5vZGUpIHNvdk5vZGUpLnNldCgib2NjdXBhbmN5IiwgcHJvcGVydHlKc29uLmdldCgib2NjdXBhbmN5IikpOwogICAgICAgICAgICAgICAgICAgICAgICAoKE9iamVjdE5vZGUpIHNvdk5vZGUpLnNldCgiZXhwb3N1cmUiLCBwcm9wZXJ0eUpzb24uZ2V0KCJleHBvc3VyZSIpKTsKICAgICAgICAgICAgICAgICAgICAgICAgKChPYmplY3ROb2RlKSBzb3ZOb2RlKS5zZXQoImNvbnN0cnVjdGlvbiIsIHByb3BlcnR5SnNvbi5nZXQoImNvbnN0cnVjdGlvbiIpKTsKICAgICAgICAgICAgICAgICAgICAgICAgKChPYmplY3ROb2RlKSBzb3ZOb2RlKS5zZXQoImNvdmVyYWdlcyIsIHByb3BlcnR5SnNvbi5nZXQoImNvdmVyYWdlcyIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKChPYmplY3ROb2RlKSBwcm9wZXJ0eUpzb24pLnNldCgic292Iiwgc292Tm9kZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
