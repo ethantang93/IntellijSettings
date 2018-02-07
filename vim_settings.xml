@@ -189,6 +189,7 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1518026903361" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" timestamp="1517872455996">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="159" column="61" />
@@ -300,7 +301,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517956219968">
+      <file name="/Dummy.txt" timestamp="1518026906752">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1517948927056">
