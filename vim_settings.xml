@@ -23,8 +23,8 @@
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" timestamp="1518121555763">
         <mark key="[" line="12" column="62" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/es-tools/schema/asset_hub/sov_quote.sh" timestamp="1518043312179">
         <mark key="[" line="3" column="5" />
@@ -215,17 +215,6 @@
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1518045725434" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" timestamp="1518119677771">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="131" column="46" />
-        <mark key="]" line="131" column="51" />
-        <mark key="^" line="131" column="51" />
-        <mark key="." line="131" column="51" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/intake.service.js" timestamp="1517950503888">
-        <mark key="'" line="271" column="12" />
-        <mark key="[" line="268" column="320" />
-        <mark key="]" line="268" column="320" />
-        <mark key="." line="268" column="320" />
-        <mark key="^" line="268" column="320" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
         <mark key="[" line="134" column="22" />
@@ -286,13 +275,6 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.template.html" timestamp="1517934778920">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="28" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/index.js" timestamp="1515193091176">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="32" />
@@ -311,11 +293,11 @@
         <mark key="." line="11" column="152" />
         <mark key="^" line="11" column="152" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/risk360.analytics.template.html" timestamp="1515182428960">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="16" column="39" />
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/risk360.analytics.template.html" timestamp="1518126285116">
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="50" />
+        <mark key="." line="21" column="50" />
+        <mark key="^" line="21" column="94" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-create.controller.js" timestamp="1515799423236">
         <mark key="[" line="11" column="44" />
@@ -329,7 +311,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518119689775">
+      <file name="/Dummy.txt" timestamp="1518126356195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1517948927056">
@@ -378,12 +360,6 @@
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/config/states.js" timestamp="1517939931780">
-        <mark key="[" line="551" column="21" />
-        <mark key="]" line="551" column="21" />
-        <mark key="^" line="557" column="20" />
-        <mark key="." line="551" column="21" />
       </file>
       <file name="$USER_HOME$/acord-test/node_modules/pdfjs-dist/build/pdf.js" timestamp="1517959428426">
         <mark key="'" line="454" column="36" />
@@ -487,14 +463,14 @@
       <jump line="454" column="36" filename="$USER_HOME$/acord-test/node_modules/pdfjs-dist/build/pdf.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPlRvdGFsIEluc3VyZWQgVmFsdWU8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG5nLWJpbmQ9IickJyArIHByZW1pc2UudmFsdWF0aW9uLnRvdGFsX2luc3VyZWRfdmFsdWUgfHwgJ04vQSciPjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD5BbW91bnQ8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG5nLWJpbmQ9IickJytwcmVtaXNlLmNvdmVyYWdlcy5hbW91bnQgfHwgJ04vQSciPjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD5DYXVzZSBvZiBMb3NzPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBuZy1iaW5kPSJwcmVtaXNlLmNvdmVyYWdlcy5jYXVzZV9vZl9sb3NzIHx8ICdOL0EnIj48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+RGVkdWN0aWJsZTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgbmctYmluZD0iJyQnK3ByZW1pc2UuY292ZXJhZ2VzLmRlZHVjdGlibGUgfHwgJ04vQSciPjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD5EZWR1Y3RpYmxlIFR5cGU8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG5nLWJpbmQ9InByZW1pc2UuY292ZXJhZ2VzLmRlZHVjdGlibGVfdHlwZSB8fCAnTi9BJyI+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPkJsYW5rZXQgTnVtYmVyPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBuZy1iaW5kPSJwcmVtaXNlLmNvdmVyYWdlcy5ibGFua2V0X251bWJlciB8fCAnTi9BJyAiPjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD5Db2luc3VyYW5jZSBQZXJjZW50YWdlPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBuZy1iaW5kPSJwcmVtaXNlLmNvdmVyYWdlcy5jb2luc3VyYW5jZV9wZXJjZW50YWdlIHx8ICdOL0EnIj48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+Q29uZGl0aW9uIHRvIEFwcGx5PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBuZy1iaW5kPSJwcmVtaXNlLmNvdmVyYWdlcy5mb3Jtc19hbmRfY29uZGl0aW9uc190b19hcHBseSB8fCAnTi9BJyI+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPkluZmxhdGlvbiBHdWFyZDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgbmctYmluZD0icHJlbWlzZS5jb3ZlcmFnZXMuaW5mbGF0aW9uX2d1YXJkIHx8ICdOL0EnIj48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+U3ViamVjdCBvZiBDb3ZlcmFnZTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgbmctYmluZD0icHJlbWlzZS5jb3ZlcmFnZXMuc3ViamVjdF9vZl9jb3ZlcmFnZSB8fCAnTi9BJyI+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KCiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD5WYWx1YXRpb248L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG5nLWJpbmQ9IickJytwcmVtaXNlLmNvdmVyYWdlcy52YWx1YXRpb24gfHwgJ04vQSciPjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdHI+CgogICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+QnVpbGRpbmcgVmFsdWU8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG5nLWJpbmQ9IickJytwcmVtaXNlLnZhbHVhdGlvbi5idWlsZGluZ192YWx1ZSB8fCAnTi9BJyI+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KCiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD5CdXNpbmVzcyBJbmNvbWU8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG5nLWJpbmQ9IickJytwcmVtaXNlLnZhbHVhdGlvbi5idXNpbmVzc19pbmNvbWV8fCAnTi9BJyI+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPkJ1cyBQZXJzIFByb3A8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG5nLWJpbmQ9InByZW1pc2UudmFsdWF0aW9uLmJ1c2luZXNzX3BlcnNvbmFsX3Byb3BlcnR5IHx8ICdOL0EnIj48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>valuation</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
