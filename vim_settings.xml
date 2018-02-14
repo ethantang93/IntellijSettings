@@ -162,6 +162,11 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1518643282427">
+        <mark key="[" line="378" column="0" />
+        <mark key="]" line="378" column="0" />
+        <mark key="." line="378" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="33" />
@@ -186,11 +191,11 @@
         <mark key="^" line="185" column="67" />
         <mark key="." line="185" column="67" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/AssetService.java" timestamp="1518639959546">
-        <mark key="[" line="73" column="59" />
-        <mark key="]" line="73" column="59" />
-        <mark key="." line="73" column="59" />
-        <mark key="^" line="73" column="59" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/AssetService.java" timestamp="1518643156184">
+        <mark key="[" line="78" column="95" />
+        <mark key="]" line="78" column="114" />
+        <mark key="." line="78" column="114" />
+        <mark key="^" line="78" column="114" />
       </file>
       <file name="$USER_HOME$/ui/.gitignore" timestamp="1517604405863">
         <mark key="[" line="47" column="0" />
@@ -278,7 +283,12 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="5" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" timestamp="1518640283282" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" timestamp="1518642768631">
+        <mark key="[" line="596" column="39" />
+        <mark key="]" line="596" column="52" />
+        <mark key="^" line="596" column="52" />
+        <mark key="." line="596" column="52" />
+      </file>
       <file name="$USER_HOME$/acord-test/src/pdfView.js" timestamp="1517439173308">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -509,14 +519,14 @@
       <jump line="213" column="34" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UPDATE_DELETE_MARK_BY_TRANSACTIONID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>tra</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
@@ -531,13 +541,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXNzZXREYW8udXBkYXRlKGV4aXN0QXNzZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXNzZXREYW8udXBkYXRlKGV4aXN0QXNzZXQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlzaWJsZTogZmFsc2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmlzaWJsZTogZmFsc2UK</text>
