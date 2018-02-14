@@ -312,7 +312,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518627834370">
+      <file name="/Dummy.txt" timestamp="1518629278357">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1517948927056">
@@ -350,7 +350,12 @@
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" timestamp="1518626471571" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" timestamp="1518629672212">
+        <mark key="[" line="46" column="114" />
+        <mark key="]" line="46" column="119" />
+        <mark key="^" line="46" column="119" />
+        <mark key="." line="46" column="119" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
         <mark key="]" line="14" column="47" />
@@ -366,11 +371,11 @@
       <file name="$USER_HOME$/acord-test/node_modules/pdfjs-dist/build/pdf.js" timestamp="1517959428426">
         <mark key="'" line="454" column="36" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/entity/Asset.java" timestamp="1518627102405">
-        <mark key="[" line="34" column="61" />
-        <mark key="]" line="34" column="60" />
-        <mark key="^" line="34" column="60" />
-        <mark key="." line="34" column="60" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/entity/Asset.java" timestamp="1518629230955">
+        <mark key="[" line="51" column="26" />
+        <mark key="]" line="51" column="27" />
+        <mark key="^" line="51" column="27" />
+        <mark key="." line="51" column="27" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
         <mark key="[" line="15" column="80" />
@@ -489,13 +494,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>=</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
