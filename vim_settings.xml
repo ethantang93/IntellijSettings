@@ -369,12 +369,12 @@
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" timestamp="1518641420642">
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" timestamp="1518645568605">
         <mark key="'" line="213" column="34" />
-        <mark key="[" line="215" column="67" />
-        <mark key="]" line="215" column="67" />
-        <mark key="^" line="215" column="67" />
-        <mark key="." line="215" column="67" />
+        <mark key="[" line="44" column="123" />
+        <mark key="]" line="44" column="124" />
+        <mark key="^" line="44" column="124" />
+        <mark key="." line="44" column="124" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
@@ -519,14 +519,14 @@
       <jump line="213" column="34" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>tra</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
