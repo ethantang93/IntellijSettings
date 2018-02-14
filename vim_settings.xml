@@ -184,6 +184,12 @@
         <mark key="^" line="185" column="67" />
         <mark key="." line="185" column="67" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/AssetService.java" timestamp="1518638119049">
+        <mark key="[" line="73" column="37" />
+        <mark key="]" line="73" column="37" />
+        <mark key="." line="73" column="37" />
+        <mark key="^" line="73" column="37" />
+      </file>
       <file name="$USER_HOME$/ui/.gitignore" timestamp="1517604405863">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="5" />
@@ -499,14 +505,14 @@
       <jump line="132" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>is_delete</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXNzZXREYW8udXBkYXRlKGV4aXN0QXNzZXQpOwo=</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>is_delete</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
@@ -518,10 +524,10 @@
         <text encoding="base64">YnVzaW5lc3NfcGVyc29uYWxfcHJvcGVydHkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXNzZXREYW8udXBkYXRlKGV4aXN0QXNzZXQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlzaWJsZTogZmFsc2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmlzaWJsZTogZmFsc2UK</text>
