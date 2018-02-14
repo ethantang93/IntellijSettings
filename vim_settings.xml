@@ -339,6 +339,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/liquibase/liquibase-bin/conf/com.datacubes/datacubes.changelog.xml" timestamp="1518648737976">
+        <mark key="[" line="1714" column="16" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/index.js" timestamp="1514564128707">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="3" column="54" />
@@ -369,12 +372,12 @@
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" timestamp="1518645568605">
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" timestamp="1518646939589">
         <mark key="'" line="213" column="34" />
-        <mark key="[" line="44" column="123" />
-        <mark key="]" line="44" column="124" />
-        <mark key="^" line="44" column="124" />
-        <mark key="." line="44" column="124" />
+        <mark key="[" line="48" column="190" />
+        <mark key="]" line="48" column="191" />
+        <mark key="^" line="48" column="188" />
+        <mark key="." line="48" column="191" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
@@ -397,6 +400,9 @@
       <file name="$USER_HOME$/acord-test/node_modules/pdfjs-dist/build/pdf.js" timestamp="1517959428426">
         <mark key="'" line="454" column="36" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" timestamp="1518647333914">
+        <mark key="[" line="49" column="14" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/entity/Asset.java" timestamp="1518638895097">
         <mark key="[" line="71" column="30" />
         <mark key="]" line="71" column="47" />
@@ -417,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="32" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
       <jump line="351" column="32" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
       <jump line="350" column="32" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
       <jump line="360" column="32" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
@@ -517,16 +522,17 @@
       <jump line="120" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
       <jump line="132" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
       <jump line="213" column="34" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" />
+      <jump line="1916" column="0" filename="$USER_HOME$/liquibase/liquibase-bin/conf/com.datacubes/datacubes.changelog.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxjaGFuZ2VTZXQgYXV0aG9yPSJldGhhbiIgaWQ9Ik1WUC0yNjM0Ij4KICAgICAgICA8YWRkQ29sdW1uIHRhYmxlTmFtZT0iYXNzZXQiPgogICAgICAgICAgICA8Y29sdW1uIGRlZmF1bHRWYWx1ZT0iMCIgbmFtZT0iZGVsZXRlX2ZsYWciIHR5cGU9IkJPT0xFQU4iLz4KICAgICAgICA8L2FkZENvbHVtbj4KICAgICAgICA8cm9sbGJhY2s+CiAgICAgICAgICAgIDxkcm9wQ29sdW1uIHRhYmxlTmFtZT0iYXNzZXQiIGNvbHVtbk5hbWU9ImRlbGV0ZV9mbGFnIi8+CiAgICAgICAgPC9yb2xsYmFjaz4KICAgIDwvY2hhbmdlU2V0Pgo=</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
@@ -534,35 +540,35 @@
       <register name="o" type="4">
         <text>kkkkkjjjjjdd6j</text>
       </register>
-      <register name="0" type="4">
-        <text>UPDATE_DELETE_MARK_BY_TRANSACTIONID</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8cm9sbGJhY2s+CiAgICAgICAgICAgIDxkcm9wQ29sdW1uIHRhYmxlTmFtZT0iaW50YWtlIiBjb2x1bW5OYW1lPSJhZGRlZF9vbl9kYXRlIi8+CiAgICAgICAgICAgIDxkcm9wQ29sdW1uIHRhYmxlTmFtZT0iaW50YWtlIiBjb2x1bW5OYW1lPSJwb2xpY3lfZGF0ZSIvPgogICAgICAgICAgICA8ZHJvcENvbHVtbiB0YWJsZU5hbWU9ImludGFrZSIgY29sdW1uTmFtZT0iYXBwbGljYXRpb25fdHlwZSIvPgogICAgICAgICAgICA8ZHJvcENvbHVtbiB0YWJsZU5hbWU9ImludGFrZSIgY29sdW1uTmFtZT0icHJvZHVjZXIiLz4KICAgICAgICA8L3JvbGxiYWNrPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxjaGFuZ2VTZXQgYXV0aG9yPSJldGhhbiIgaWQ9Ik1WUC0yNjM0Ij4KICAgICAgICA8YWRkQ29sdW1uIHRhYmxlTmFtZT0iYXNzZXQiPgogICAgICAgICAgICA8Y29sdW1uIGRlZmF1bHRWYWx1ZT0iMCIgbmFtZT0iZGVsZXRlX2ZsYWciIHR5cGU9IkJPT0xFQU4iLz4KICAgICAgICA8L2FkZENvbHVtbj4KICAgICAgICA8cm9sbGJhY2s+CiAgICAgICAgICAgIDxkcm9wQ29sdW1uIHRhYmxlTmFtZT0iYXNzZXQiIGNvbHVtbk5hbWU9ImRlbGV0ZV9mbGFnIi8+CiAgICAgICAgPC9yb2xsYmFjaz4KICAgIDwvY2hhbmdlU2V0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXNzZXREYW8udXBkYXRlKGV4aXN0QXNzZXQpOwo=</text>
+        <text encoding="base64">PT09PT09PQoKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlzaWJsZTogZmFsc2UK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlzaWJsZTogZmFsc2UK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlzaWJsZTogZmFsc2UK</text>
+        <text encoding="base64">ICAgIDxjaGFuZ2VTZXQgYXV0aG9yPSJyYW1lc2giIGlkPSJNVlAtMjYzNCI+CiAgICAgICAgPGFkZENvbHVtbiB0YWJsZU5hbWU9ImFzc2V0Ij4KICAgICAgICAgICAgPGNvbHVtbiBkZWZhdWx0VmFsdWU9IjAiIG5hbWU9ImRlbGV0ZV9mbGFnIiB0eXBlPSJCT09MRUFOIi8+CiAgICAgICAgPC9hZGRDb2x1bW4+CiAgICAgICAgPHJvbGxiYWNrPgogICAgICAgICAgICA8ZHJvcENvbHVtbiB0YWJsZU5hbWU9ImFzc2V0IiBjb2x1bW5OYW1lPSJkZWxldGVfZmxhZyIvPgogICAgICAgIDwvcm9sbGJhY2s+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlzaWJsZTogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRyb3BDb2x1bW4gdGFibGVOYW1lPSJpbnRha2UiIGNvbHVtbk5hbWU9InBvbGljeV9kYXRlIi8+CiAgICAgICAgICAgIDxkcm9wQ29sdW1uIHRhYmxlTmFtZT0iaW50YWtlIiBjb2x1bW5OYW1lPSJhcHBsaWNhdGlvbl90eXBlIi8+CiAgICAgICAgICAgIDxkcm9wQ29sdW1uIHRhYmxlTmFtZT0iaW50YWtlIiBjb2x1bW5OYW1lPSJwcm9kdWNlciIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlzaWJsZTogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
