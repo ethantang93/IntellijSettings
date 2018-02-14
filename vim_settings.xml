@@ -374,12 +374,12 @@
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" timestamp="1518646939589">
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" timestamp="1518649827894">
         <mark key="'" line="213" column="34" />
-        <mark key="[" line="48" column="190" />
-        <mark key="]" line="48" column="191" />
-        <mark key="^" line="48" column="188" />
-        <mark key="." line="48" column="191" />
+        <mark key="[" line="40" column="113" />
+        <mark key="]" line="40" column="113" />
+        <mark key="^" line="46" column="100" />
+        <mark key="." line="40" column="113" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
@@ -528,13 +528,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
