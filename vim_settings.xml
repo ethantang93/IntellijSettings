@@ -312,7 +312,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518200457036">
+      <file name="/Dummy.txt" timestamp="1518623984433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1517948927056">
@@ -364,12 +364,6 @@
       </file>
       <file name="$USER_HOME$/acord-test/node_modules/pdfjs-dist/build/pdf.js" timestamp="1517959428426">
         <mark key="'" line="454" column="36" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" timestamp="1518455538374">
-        <mark key="[" line="82" column="42" />
-        <mark key="]" line="82" column="41" />
-        <mark key="." line="82" column="41" />
-        <mark key="^" line="82" column="41" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
         <mark key="[" line="15" column="80" />
