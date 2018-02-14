@@ -350,11 +350,11 @@
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" timestamp="1518631761333">
-        <mark key="[" line="48" column="169" />
-        <mark key="]" line="48" column="189" />
-        <mark key="^" line="48" column="189" />
-        <mark key="." line="48" column="189" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" timestamp="1518632608313">
+        <mark key="[" line="50" column="159" />
+        <mark key="]" line="202" column="51" />
+        <mark key="^" line="202" column="51" />
+        <mark key="." line="202" column="51" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
