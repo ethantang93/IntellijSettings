@@ -350,17 +350,23 @@
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" timestamp="1518632608313">
-        <mark key="[" line="50" column="159" />
-        <mark key="]" line="202" column="51" />
-        <mark key="^" line="202" column="51" />
-        <mark key="." line="202" column="51" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" timestamp="1518636848817">
+        <mark key="[" line="205" column="38" />
+        <mark key="]" line="205" column="47" />
+        <mark key="^" line="205" column="47" />
+        <mark key="." line="205" column="47" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
         <mark key="]" line="14" column="47" />
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDao.java" timestamp="1518636859463">
+        <mark key="[" line="18" column="74" />
+        <mark key="]" line="19" column="59" />
+        <mark key="^" line="19" column="59" />
+        <mark key="." line="19" column="59" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
         <mark key="[" line="5" column="21" />
@@ -494,13 +500,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>is_delete</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>is_delete</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
