@@ -21,7 +21,6 @@
         <mark key="^" line="15" column="81" />
         <mark key="." line="15" column="81" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/CompanyController.java" timestamp="1518713094022" />
       <file name="$USER_HOME$/es-tools/schema/asset_hub/sov_quote.sh" timestamp="1518043312179">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="9" />
@@ -163,10 +162,11 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1518643282427">
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="378" column="0" />
-        <mark key="." line="378" column="0" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1518726520821">
+        <mark key="[" line="134" column="12" />
+        <mark key="]" line="134" column="11" />
+        <mark key="." line="134" column="11" />
+        <mark key="^" line="134" column="11" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
         <mark key="[" line="27" column="25" />
@@ -278,6 +278,12 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="5" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/CompanySearchApiClient.java" timestamp="1518727847664">
+        <mark key="[" line="24" column="110" />
+        <mark key="]" line="24" column="102" />
+        <mark key="." line="24" column="102" />
+        <mark key="^" line="24" column="102" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" timestamp="1518648889694">
         <mark key="[" line="591" column="0" />
         <mark key="]" line="591" column="0" />
@@ -332,6 +338,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchHdpClient.java" timestamp="1518727737774">
+        <mark key="[" line="18" column="91" />
+        <mark key="]" line="18" column="100" />
+        <mark key="^" line="18" column="100" />
+        <mark key="." line="18" column="100" />
       </file>
       <file name="$USER_HOME$/liquibase/liquibase-bin/conf/com.datacubes/datacubes.changelog.xml" timestamp="1518649136830">
         <mark key="[" line="1715" column="39" />
@@ -410,6 +422,9 @@
         <mark key="]" line="99" column="18" />
         <mark key="." line="99" column="18" />
         <mark key="^" line="99" column="18" />
+      </file>
+      <file name="/fragment.java" timestamp="1518726593197">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -516,13 +531,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>limit</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>limit</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
