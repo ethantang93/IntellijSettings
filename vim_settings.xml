@@ -278,11 +278,11 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="5" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/CompanySearchApiClient.java" timestamp="1518729770828">
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
-        <mark key="^" line="25" column="29" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/CompanySearchApiClient.java" timestamp="1518732558922">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+        <mark key="^" line="27" column="107" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" timestamp="1518648889694">
         <mark key="[" line="591" column="0" />
@@ -331,8 +331,10 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518730085368">
+      <file name="/Dummy.txt" timestamp="1518732567931">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1517948927056">
         <mark key="[" line="13" column="0" />
@@ -531,13 +533,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toSTring</text>
+        <text>(</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>toSTring</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
