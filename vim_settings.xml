@@ -278,11 +278,11 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="5" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/CompanySearchApiClient.java" timestamp="1518732558922">
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="21" />
-        <mark key="." line="27" column="21" />
-        <mark key="^" line="27" column="107" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/CompanySearchApiClient.java" timestamp="1518733509675">
+        <mark key="[" line="37" column="59" />
+        <mark key="]" line="37" column="59" />
+        <mark key="." line="37" column="59" />
+        <mark key="^" line="37" column="59" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" timestamp="1518648889694">
         <mark key="[" line="591" column="0" />
@@ -331,7 +331,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518732567931">
+      <file name="/Dummy.txt" timestamp="1518733516794">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
