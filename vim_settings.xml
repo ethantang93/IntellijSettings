@@ -168,11 +168,11 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1519057441554">
-        <mark key="[" line="145" column="86" />
-        <mark key="]" line="145" column="89" />
-        <mark key="^" line="145" column="89" />
-        <mark key="." line="145" column="89" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1519063439927">
+        <mark key="[" line="146" column="121" />
+        <mark key="]" line="146" column="131" />
+        <mark key="^" line="146" column="131" />
+        <mark key="." line="146" column="131" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
         <mark key="[" line="27" column="25" />
@@ -284,11 +284,11 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="5" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/CompanySearchApiClient.java" timestamp="1519057402507">
-        <mark key="[" line="19" column="76" />
-        <mark key="]" line="19" column="76" />
-        <mark key="^" line="19" column="73" />
-        <mark key="." line="19" column="76" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/CompanySearchApiClient.java" timestamp="1519063503961">
+        <mark key="[" line="28" column="123" />
+        <mark key="]" line="28" column="134" />
+        <mark key="^" line="28" column="134" />
+        <mark key="." line="28" column="134" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" timestamp="1518648889694">
         <mark key="[" line="591" column="0" />
