@@ -168,11 +168,11 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1519056547993">
-        <mark key="[" line="148" column="107" />
-        <mark key="]" line="148" column="112" />
-        <mark key="^" line="148" column="112" />
-        <mark key="." line="148" column="112" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1519057441554">
+        <mark key="[" line="145" column="86" />
+        <mark key="]" line="145" column="89" />
+        <mark key="^" line="145" column="89" />
+        <mark key="." line="145" column="89" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
         <mark key="[" line="27" column="25" />
@@ -284,11 +284,11 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="5" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/CompanySearchApiClient.java" timestamp="1519056670576">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="18" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/CompanySearchApiClient.java" timestamp="1519057402507">
+        <mark key="[" line="19" column="76" />
+        <mark key="]" line="19" column="76" />
+        <mark key="^" line="19" column="73" />
+        <mark key="." line="19" column="76" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" timestamp="1518648889694">
         <mark key="[" line="591" column="0" />
@@ -337,7 +337,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518736011930">
+      <file name="/Dummy.txt" timestamp="1519057521890">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -538,14 +538,14 @@
       <jump line="1916" column="0" filename="$USER_HOME$/liquibase/liquibase-bin/conf/com.datacubes/datacubes.changelog.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeS5wdXQoIiIsIHN0YXRlKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>zip</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
@@ -557,31 +557,31 @@
         <text encoding="base64">ICAgICAgICA8cm9sbGJhY2s+CiAgICAgICAgICAgIDxkcm9wQ29sdW1uIHRhYmxlTmFtZT0iaW50YWtlIiBjb2x1bW5OYW1lPSJhZGRlZF9vbl9kYXRlIi8+CiAgICAgICAgICAgIDxkcm9wQ29sdW1uIHRhYmxlTmFtZT0iaW50YWtlIiBjb2x1bW5OYW1lPSJwb2xpY3lfZGF0ZSIvPgogICAgICAgICAgICA8ZHJvcENvbHVtbiB0YWJsZU5hbWU9ImludGFrZSIgY29sdW1uTmFtZT0iYXBwbGljYXRpb25fdHlwZSIvPgogICAgICAgICAgICA8ZHJvcENvbHVtbiB0YWJsZU5hbWU9ImludGFrZSIgY29sdW1uTmFtZT0icHJvZHVjZXIiLz4KICAgICAgICA8L3JvbGxiYWNrPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeS5wdXQoIiIsIHN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5wdXQoInN0YXRlIiwgc3RhdGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKc29uTm9kZSBQcm94eVNlYXJjaFRvTXZwSGRwKFN0cmluZyBjb21wYW55TmFtZSwgU3RyaW5nIHppcCwgU3RyaW5nIHNlYXJjaFNvdXJjZSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5wdXQoImNpdHkiLCBjaXR5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBzdGF0ZSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpLmFzVGV4dCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBjaXR5ID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpLnRleHRWYWx1ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5wdXQoIiIsIHN0YXRlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocmVzcG9uc2VFbnRpdHlCb2R5KCkuYXNUZXh0KCkpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBKc29uTm9kZSBQcm94eVNlYXJjaFRvTXZwSGRwKFN0cmluZyBjb21wYW55TmFtZSwgU3RyaW5nIHppcCwgU3RyaW5nIHNlYXJjaFNvdXJjZSl7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHppcCA9IGQzY29tcGFueS5nZXQoInppcCIpIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpLmFzVGV4dCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRyYW5zYWN0aW9uSWQgPSBhc3NldC5nZXRUcmFuc2FjdGlvbklkKCk7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJ0cmFuc2FjdGlvbiBpZCBpcyB7fSIsIHRyYW5zYWN0aW9uSWQpOwogICAgICAgICAgICBJbnRha2VBY3Rpb24gaW50YWtlQWN0aW9uID0gaW50YWtlQWN0aW9uU2VydmljZS5nZXQodHJhbnNhY3Rpb25JZCk7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJnb3QgaW50YWtlIGFjdGlvbiBhbmQgc2V0dGluZyBpdCB0aGUgNCAoZGVsZXRlZCkgc3RhdHVzIik7CiAgICAgICAgICAgIGludGFrZUFjdGlvbi5zZXRTdGF0dXMoNCk7CiAgICAgICAgICAgIGludGFrZUFjdGlvblNlcnZpY2UudXBkYXRlKGludGFrZUFjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpLnRleHRWYWx1ZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
