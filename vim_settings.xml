@@ -199,10 +199,10 @@
         <mark key="." line="185" column="67" />
       </file>
       <file name="$USER_HOME$/ui/.gitignore" timestamp="1517604405863">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="5" />
-        <mark key="^" line="47" column="5" />
-        <mark key="." line="47" column="5" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="5" />
+        <mark key="^" line="46" column="5" />
+        <mark key="." line="46" column="5" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/clients.template.html" timestamp="1516212495187">
         <mark key="[" line="23" column="99" />
@@ -432,7 +432,6 @@
         <mark key="." line="99" column="18" />
         <mark key="^" line="99" column="18" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/OverviewClient.java" timestamp="1519071771704" />
       <file name="/fragment.java" timestamp="1518726593197">
         <mark key="[" line="0" column="0" />
       </file>
