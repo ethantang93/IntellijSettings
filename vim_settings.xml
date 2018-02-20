@@ -60,6 +60,7 @@
         <mark key="^" line="3" column="149" />
         <mark key="." line="3" column="149" />
       </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/properties/properties.workflow.template.html" timestamp="1519167121489" />
       <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_alias.json" timestamp="1518043569534">
         <mark key="[" line="2" column="111" />
         <mark key="]" line="2" column="115" />
@@ -78,7 +79,7 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1518455287722">
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1519167198203">
         <mark key="[" line="107" column="28" />
         <mark key="]" line="107" column="28" />
         <mark key="^" line="62" column="24" />
@@ -338,7 +339,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519075142667">
+      <file name="/Dummy.txt" timestamp="1519167291516">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
