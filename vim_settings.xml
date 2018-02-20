@@ -79,7 +79,7 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1519167198203">
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1519170206102">
         <mark key="[" line="107" column="28" />
         <mark key="]" line="107" column="28" />
         <mark key="^" line="62" column="24" />
@@ -169,12 +169,7 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1519159218083">
-        <mark key="[" line="142" column="78" />
-        <mark key="]" line="142" column="78" />
-        <mark key="^" line="142" column="77" />
-        <mark key="." line="142" column="78" />
-      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1519159218083" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="33" />
@@ -229,9 +224,7 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" timestamp="1518119677771">
-        <mark key="'" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1519170283314" />
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
         <mark key="[" line="134" column="22" />
         <mark key="]" line="134" column="32" />
@@ -414,9 +407,6 @@
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
-      </file>
-      <file name="$USER_HOME$/acord-test/node_modules/pdfjs-dist/build/pdf.js" timestamp="1517959428426">
-        <mark key="'" line="454" column="36" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" timestamp="1518647333914">
         <mark key="[" line="49" column="14" />
