@@ -9,6 +9,12 @@
         <mark key="^" line="15" column="164" />
         <mark key="." line="15" column="164" />
       </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord.controller.js" timestamp="1519251314975">
+        <mark key="[" line="139" column="42" />
+        <mark key="]" line="139" column="42" />
+        <mark key="^" line="135" column="44" />
+        <mark key="." line="139" column="42" />
+      </file>
       <file name="$USER_HOME$/ui/.idea/codeStyleSettings.xml" timestamp="1517604687887">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="9" />
@@ -310,6 +316,12 @@
         <mark key="]" line="591" column="0" />
         <mark key="." line="591" column="0" />
       </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-file.template.html" timestamp="1519250432986">
+        <mark key="[" line="3" column="97" />
+        <mark key="]" line="3" column="95" />
+        <mark key="^" line="3" column="95" />
+        <mark key="." line="3" column="95" />
+      </file>
       <file name="$USER_HOME$/acord-test/src/pdfView.js" timestamp="1517439173308">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -352,7 +364,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519244150489">
+      <file name="/Dummy.txt" timestamp="1519250758291">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -416,11 +428,6 @@
         <mark key="]" line="14" column="47" />
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDao.java" timestamp="1518641187607">
-        <mark key="]" line="19" column="80" />
-        <mark key="^" line="19" column="80" />
-        <mark key="." line="19" column="80" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
         <mark key="[" line="5" column="21" />
@@ -551,13 +558,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>top</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>top</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
@@ -569,31 +576,31 @@
         <text encoding="base64">ICAgICAgICA8cm9sbGJhY2s+CiAgICAgICAgICAgIDxkcm9wQ29sdW1uIHRhYmxlTmFtZT0iaW50YWtlIiBjb2x1bW5OYW1lPSJhZGRlZF9vbl9kYXRlIi8+CiAgICAgICAgICAgIDxkcm9wQ29sdW1uIHRhYmxlTmFtZT0iaW50YWtlIiBjb2x1bW5OYW1lPSJwb2xpY3lfZGF0ZSIvPgogICAgICAgICAgICA8ZHJvcENvbHVtbiB0YWJsZU5hbWU9ImludGFrZSIgY29sdW1uTmFtZT0iYXBwbGljYXRpb25fdHlwZSIvPgogICAgICAgICAgICA8ZHJvcENvbHVtbiB0YWJsZU5hbWU9ImludGFrZSIgY29sdW1uTmFtZT0icHJvZHVjZXIiLz4KICAgICAgICA8L3JvbGxiYWNrPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4vcGRmX3Rlc3QuanMiPgo=</text>
+        <text encoding="base64">ICAgIHZtLnNldFN0eWxlID0gZnVuY3Rpb24oJGV2ZW50KXtWCiAgICAgIHZhciBlbGVtID0gJGV2ZW50LnRhcmdldDsKICAgICAgY29uc29sZS5sb2coZWxlbSk7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImFzc2V0cy9qcy9wZGYuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBpZD0ib3ZlcmxheTEiIG5nLWNsaWNrPSJ2bS5hZGRDbGlja0xpc3RlbmVyKCkiIHJ1ZSI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByaWdodDogNXB4Owo=</text>
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">UERGSlMud29ya2VyU3JjID0gJy4uLy4uLy4uL2Fzc2V0cy9qcy9wZGYuanMnOwoKUERGSlNBbm5vdGF0ZS5TdG9yZUFkYXB0ZXIuZ2V0QW5ub3RhdGlvbnMgPSAoZG9jdW1lbnRJZCwgcGFnZU51bWJlcikgPT4gewogICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICByZXNvbHZlKGFubm90YXRpb25zKTsKfSk7Cn07CgpQREZKUy5nZXREb2N1bWVudChET0NVTUVOVF9JRCkudGhlbigocGRmKSA9PiB7CiAgICBQcm9taXNlLmFsbChbCiAgICBwZGYuZ2V0UGFnZSgxKSwKICAgIFBERkpTQW5ub3RhdGUuZ2V0QW5ub3RhdGlvbnMoMSkKXSkKICAgIC50aGVuKChbcGFnZSwgYW5ub3RhdGlvbnNdKSA9PiB7CiAgICBkYXRhLnBhZ2UgPSBwYWdlOwpkYXRhLmFubm90YXRpb25zID0gYW5ub3RhdGlvbnM7CnJlbmRlcigpOwp9KTsKfSk7CgpsZXQgZGF0YSA9IHsKICAgIHBhZ2U6IG51bGwsCiAgICBhbm5vdGF0aW9uczogbnVsbAp9Owpjb25zdCBzY2FsZSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzY2FsZScpOwpjb25zdCByb3RhdGlvbiA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb3RhdGlvbicpOwoKc2NhbGUub25jaGFuZ2UgPSByZW5kZXI7CnJvdGF0aW9uLm9uY2hhbmdlID0gcmVuZGVyOwoKZnVuY3Rpb24gcmVuZGVyKCkgewogICAgbGV0IHZpZXdwb3J0ID0gZGF0YS5wYWdlLmdldFZpZXdwb3J0KHNjYWxlLnZhbHVlLCByb3RhdGlvbi52YWx1ZSk7CiAgICBsZXQgY2FudmFzID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NhbnZhcycpOwogICAgbGV0IHN2ZyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzdmcnKTsKICAgIGxldCBjYW52YXNDb250ZXh0ID0gY2FudmFzLmdldENvbnRleHQoJzJkJyk7CgogICAgY2FudmFzLmhlaWdodCA9IHZpZXdwb3J0LmhlaWdodDsKICAgIGNhbnZhcy53aWR0aCA9IHZpZXdwb3J0LndpZHRoOwogICAgY2FudmFzLnN0eWxlLm1hcmdpblRvcCA9ICgodmlld3BvcnQuaGVpZ2h0IC8gMikgKiAtMSkgKyAncHgnOwogICAgY2FudmFzLnN0eWxlLm1hcmdpbkxlZnQgPSAoKHZpZXdwb3J0LndpZHRoIC8gMikgKiAtMSkgKyAncHgnOwoKICAgIHN2Zy5zZXRBdHRyaWJ1dGUoJ2hlaWdodCcsIHZpZXdwb3J0LmhlaWdodCk7CiAgICBzdmcuc2V0QXR0cmlidXRlKCd3aWR0aCcsIHZpZXdwb3J0LndpZHRoKTsKICAgIHN2Zy5zdHlsZS5tYXJnaW5Ub3AgPSAoKHZpZXdwb3J0LmhlaWdodCAvIDIpICogLTEpICsgJ3B4JzsKICAgIHN2Zy5zdHlsZS5tYXJnaW5MZWZ0ID0gKCh2aWV3cG9ydC53aWR0aCAvIDIpICogLTEpICsgJ3B4JzsKCiAgICBkYXRhLnBhZ2UucmVuZGVyKHtjYW52YXNDb250ZXh0LCB2aWV3cG9ydH0pOwogICAgUERGSlNBbm5vdGF0ZS5yZW5kZXIoc3ZnLCB2aWV3cG9ydCwgewogICAgICAgIGRvY3VtZW50SWQ6IERPQ1VNRU5UX0lELAogICAgICAgIHBhZ2VOdW1iZXI6IDEsCiAgICAgICAgYW5ub3RhdGlvbnM6IGRhdGEuYW5ub3RhdGlvbnMKICAgIH0pOwp9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFubm90YXRpb25zIGZyb20gJy4vYW5ub3RhdGlvbnMnOwo=</text>
+        <text encoding="base64">PHNjcmlwdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFBERkpTQW5ub3RhdGUgZnJvbSAnLi9wZGZqcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgfSk7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCcuL2Fjb3JkJykuZGVmYXVsdCgpOwo=</text>
+        <text encoding="base64">ICAgIGlmcmFtZSB7CiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgYmxhY2s7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL19fYnVpbGRfXy9iYXNpYy5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGg0PnRoaXMgaXMgYSB0ZXN0PC9oND4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL19fYnVpbGRfXy9zaGFyZWQuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGg0PnRoaXMgaXMgYSB0ZXN0PC9oND4K</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
