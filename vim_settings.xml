@@ -244,10 +244,10 @@
         <mark key="." line="18" column="46" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1519170283314" />
-      <file name="$USER_HOME$/ui/app/gulpfile.js" timestamp="1519413170561">
-        <mark key="[" line="101" column="27" />
-        <mark key="]" line="30" column="23" />
-        <mark key="." line="30" column="23" />
+      <file name="$USER_HOME$/ui/app/gulpfile.js" timestamp="1519413997972">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
         <mark key="^" line="30" column="23" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
@@ -555,14 +555,14 @@
       <jump line="0" column="30" filename="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-overview.template.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlcikK</text>
+      <register name="&quot;" type="4">
+        <text>172.30.36.134</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>172.30.36.134</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
