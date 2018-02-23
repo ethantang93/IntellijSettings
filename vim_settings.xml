@@ -21,7 +21,6 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/ui/app/remote_auth.sh" timestamp="1519411197744" />
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-main.template.html" timestamp="1519245702242">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="14" column="14" />
@@ -51,6 +50,7 @@
         <mark key="." line="8" column="75" />
         <mark key="^" line="8" column="75" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-payroll.template.html" timestamp="1519427338719" />
       <file name="$USER_HOME$/ui/webroot/app/account/account-users.controller.js" timestamp="1516213186665">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
@@ -74,7 +74,6 @@
         <mark key="^" line="3" column="149" />
         <mark key="." line="3" column="149" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/properties/properties.workflow.template.html" timestamp="1519167121489" />
       <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_alias.json" timestamp="1518043569534">
         <mark key="[" line="2" column="111" />
         <mark key="]" line="2" column="115" />
@@ -188,7 +187,6 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1519159218083" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="33" />
@@ -243,7 +241,6 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1519170283314" />
       <file name="$USER_HOME$/ui/app/gulpfile.js" timestamp="1519413997972">
         <mark key="[" line="31" column="21" />
         <mark key="]" line="31" column="21" />
@@ -345,10 +342,11 @@
         <mark key="." line="2069" column="99" />
         <mark key="^" line="2070" column="36" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-payroll.controller.js" timestamp="1519424815440">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-payroll.controller.js" timestamp="1519427795094">
+        <mark key="[" line="185" column="40" />
+        <mark key="]" line="182" column="35" />
+        <mark key="." line="185" column="40" />
+        <mark key="^" line="182" column="35" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/underwriting-sov-view.template.html" timestamp="1512161355396">
         <mark key="[" line="11" column="149" />
@@ -374,7 +372,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519422768368">
+      <file name="/Dummy.txt" timestamp="1519428149108">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -560,14 +558,14 @@
       <jump line="0" column="30" filename="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-overview.template.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihkYXRhID0+IHsK</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
