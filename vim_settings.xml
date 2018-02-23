@@ -244,11 +244,11 @@
         <mark key="." line="18" column="46" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1519170283314" />
-      <file name="$USER_HOME$/ui/app/gulpfile.js" timestamp="1519412099042">
+      <file name="$USER_HOME$/ui/app/gulpfile.js" timestamp="1519413170561">
         <mark key="[" line="101" column="27" />
-        <mark key="]" line="108" column="47" />
-        <mark key="." line="108" column="47" />
-        <mark key="^" line="31" column="31" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="23" />
+        <mark key="^" line="30" column="23" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
         <mark key="[" line="134" column="22" />
