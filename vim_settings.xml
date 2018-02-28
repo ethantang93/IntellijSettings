@@ -33,12 +33,6 @@
         <mark key="^" line="15" column="81" />
         <mark key="." line="15" column="81" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/CompanyController.java" timestamp="1518734966896">
-        <mark key="[" line="51" column="34" />
-        <mark key="]" line="51" column="53" />
-        <mark key="^" line="51" column="53" />
-        <mark key="." line="51" column="53" />
-      </file>
       <file name="$USER_HOME$/es-tools/schema/asset_hub/sov_quote.sh" timestamp="1518043312179">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="9" />
@@ -51,7 +45,6 @@
         <mark key="." line="8" column="75" />
         <mark key="^" line="8" column="75" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-payroll.template.html" timestamp="1519427338719" />
       <file name="$USER_HOME$/ui/webroot/app/account/account-users.controller.js" timestamp="1516213186665">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
@@ -315,9 +308,9 @@
         <mark key="^" line="72" column="5" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" timestamp="1518648889694">
-        <mark key="[" line="591" column="0" />
-        <mark key="]" line="591" column="0" />
-        <mark key="." line="591" column="0" />
+        <mark key="[" line="620" column="0" />
+        <mark key="]" line="620" column="0" />
+        <mark key="." line="620" column="0" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-file.template.html" timestamp="1519250432986">
         <mark key="[" line="3" column="97" />
