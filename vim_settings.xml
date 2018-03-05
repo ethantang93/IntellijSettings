@@ -9,11 +9,11 @@
         <mark key="^" line="13" column="55" />
         <mark key="." line="13" column="55" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord.controller.js" timestamp="1520024441804">
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="207" column="7" />
-        <mark key="." line="207" column="7" />
-        <mark key="^" line="207" column="7" />
+      <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord.controller.js" timestamp="1520279251630">
+        <mark key="[" line="174" column="56" />
+        <mark key="]" line="174" column="56" />
+        <mark key="." line="174" column="56" />
+        <mark key="^" line="174" column="56" />
       </file>
       <file name="$USER_HOME$/ui/.idea/codeStyleSettings.xml" timestamp="1517604687887">
         <mark key="[" line="12" column="24" />
@@ -27,7 +27,6 @@
         <mark key="^" line="0" column="96" />
         <mark key="." line="0" column="89" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/loss-run/lossrun-canvas.service.js" timestamp="1520023530232" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" timestamp="1518197756026">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="15" column="81" />
@@ -248,6 +247,7 @@
         <mark key="." line="31" column="21" />
         <mark key="^" line="31" column="31" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1520279543837" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake.service.js" timestamp="1519425841616">
         <mark key="[" line="159" column="33" />
         <mark key="m" line="160" column="11" />
@@ -579,13 +579,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>premise</text>
