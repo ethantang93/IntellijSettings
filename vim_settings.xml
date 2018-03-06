@@ -9,12 +9,6 @@
         <mark key="^" line="13" column="55" />
         <mark key="." line="13" column="55" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord.controller.js" timestamp="1520280914916">
-        <mark key="[" line="174" column="56" />
-        <mark key="]" line="174" column="56" />
-        <mark key="." line="174" column="56" />
-        <mark key="^" line="174" column="56" />
-      </file>
       <file name="$USER_HOME$/ui/.idea/codeStyleSettings.xml" timestamp="1517604687887">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="9" />
@@ -22,10 +16,7 @@
         <mark key="." line="12" column="9" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-main.template.html" timestamp="1520282619661">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="14" />
         <mark key="^" line="0" column="96" />
-        <mark key="." line="14" column="14" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" timestamp="1518197756026">
         <mark key="[" line="15" column="31" />
@@ -181,7 +172,7 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.controller.js" timestamp="1517872893827">
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.controller.js" timestamp="1520366205808">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="43" />
         <mark key="." line="14" column="43" />
@@ -211,12 +202,6 @@
         <mark key="^" line="185" column="67" />
         <mark key="." line="185" column="67" />
       </file>
-      <file name="$USER_HOME$/ui/.gitignore" timestamp="1517604405863">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="5" />
-        <mark key="^" line="46" column="5" />
-        <mark key="." line="46" column="5" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/clients.template.html" timestamp="1516212495187">
         <mark key="[" line="23" column="99" />
         <mark key="]" line="23" column="120" />
@@ -241,13 +226,18 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/ui/app/gulpfile.js" timestamp="1519662878917">
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="31" column="21" />
-        <mark key="." line="31" column="21" />
+      <file name="$USER_HOME$/ui/app/gulpfile.js" timestamp="1520365011766">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" timestamp="1520279543837" />
+      <file name="$USER_HOME$/ui/app/js/config/states.js" timestamp="1520365461226">
+        <mark key="[" line="563" column="95" />
+        <mark key="]" line="563" column="95" />
+        <mark key="." line="563" column="95" />
+        <mark key="^" line="563" column="27" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake.service.js" timestamp="1519425841616">
         <mark key="[" line="159" column="33" />
         <mark key="m" line="160" column="11" />
@@ -272,23 +262,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/intake.service.js" timestamp="1520024379593">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="181" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/ui/server_auth.js" timestamp="1519412078575">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="75" column="23" />
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/acord/_acord.scss" timestamp="1520025452206">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="35" column="4" />
-        <mark key="^" line="35" column="4" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDao.java" timestamp="1515774238770">
         <mark key="[" line="10" column="0" />
@@ -462,11 +440,11 @@
         <mark key="." line="99" column="18" />
         <mark key="^" line="99" column="18" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/shared/tools/asset.service.js" timestamp="1520024595900">
-        <mark key="[" line="89" column="40" />
-        <mark key="]" line="89" column="45" />
-        <mark key="." line="89" column="45" />
-        <mark key="^" line="89" column="45" />
+      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/risk360.analytics.template.html" timestamp="1520365717573">
+        <mark key="[" line="45" column="67" />
+        <mark key="]" line="45" column="66" />
+        <mark key="^" line="45" column="66" />
+        <mark key="." line="45" column="66" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-overview.template.html" timestamp="1519407851560">
         <mark key="[" line="13" column="27" />
@@ -579,16 +557,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>premise</text>
+        <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="o" type="4">
         <text>kkkkkjjjjjdd6j</text>
@@ -630,10 +608,10 @@
       </register>
     </registers>
     <search>
-      <last-search>premise</last-search>
+      <last-search encoding="base64">XDwnXD4=</last-search>
       <last-offset />
-      <last-pattern>premise</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -645,6 +623,7 @@
         <entry>acord</entry>
         <entry>**</entry>
         <entry>premise</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
