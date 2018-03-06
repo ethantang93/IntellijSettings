@@ -437,8 +437,11 @@
         <mark key="." line="99" column="18" />
         <mark key="^" line="99" column="18" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/shared/tools/asset.service.js" timestamp="1520378813669">
-        <mark key="[" line="204" column="37" />
+      <file name="$USER_HOME$/ui/app/features/shared/tools/asset.service.js" timestamp="1520379725328">
+        <mark key="[" line="205" column="41" />
+        <mark key="]" line="205" column="40" />
+        <mark key="^" line="205" column="40" />
+        <mark key="." line="205" column="40" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-overview.template.html" timestamp="1519407851560">
         <mark key="[" line="13" column="27" />
@@ -550,14 +553,14 @@
       <jump line="0" column="30" filename="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-overview.template.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>overview</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
