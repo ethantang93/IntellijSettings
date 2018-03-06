@@ -226,18 +226,6 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/ui/app/gulpfile.js" timestamp="1520365011766">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="31" column="31" />
-      </file>
-      <file name="$USER_HOME$/ui/app/js/config/states.js" timestamp="1520365461226">
-        <mark key="[" line="563" column="95" />
-        <mark key="]" line="563" column="95" />
-        <mark key="." line="563" column="95" />
-        <mark key="^" line="563" column="27" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake.service.js" timestamp="1519425841616">
         <mark key="[" line="159" column="33" />
         <mark key="m" line="160" column="11" />
@@ -439,12 +427,6 @@
         <mark key="]" line="99" column="18" />
         <mark key="." line="99" column="18" />
         <mark key="^" line="99" column="18" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/risk360.analytics.template.html" timestamp="1520365717573">
-        <mark key="[" line="45" column="67" />
-        <mark key="]" line="45" column="66" />
-        <mark key="^" line="45" column="66" />
-        <mark key="." line="45" column="66" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-overview.template.html" timestamp="1519407851560">
         <mark key="[" line="13" column="27" />
