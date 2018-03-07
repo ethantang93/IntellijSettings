@@ -84,12 +84,6 @@
         <mark key="." line="2" column="115" />
         <mark key="^" line="2" column="115" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/IntakeController.java" timestamp="1517353783418">
-        <mark key="[" line="129" column="37" />
-        <mark key="]" line="129" column="39" />
-        <mark key="^" line="129" column="39" />
-        <mark key="." line="129" column="39" />
-      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeatureDaoImpl.java" timestamp="1515710807979">
         <mark key="[" line="20" column="58" />
         <mark key="]" line="20" column="58" />
@@ -250,7 +244,6 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/ui/app/js/config/states.js" timestamp="1520440298770" />
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
         <mark key="[" line="134" column="22" />
         <mark key="]" line="134" column="32" />
@@ -343,7 +336,6 @@
         <mark key="." line="2069" column="99" />
         <mark key="^" line="2070" column="36" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill.controller.js" timestamp="1520440054151" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-payroll.controller.js" timestamp="1519432295504">
         <mark key="[" line="93" column="12" />
         <mark key="]" line="93" column="15" />
@@ -374,7 +366,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520440054828">
+      <file name="/Dummy.txt" timestamp="1520455168471">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
