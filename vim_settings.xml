@@ -9,6 +9,11 @@
         <mark key="^" line="13" column="55" />
         <mark key="." line="13" column="55" />
       </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/intake-list.controller.js" timestamp="1520401889845">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+      </file>
       <file name="$USER_HOME$/ui/.idea/codeStyleSettings.xml" timestamp="1517604687887">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="9" />
@@ -566,13 +571,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>residential_units</text>
+        <text>risk360.analytics</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>residential_units</text>
+        <text>risk360.analytics</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
