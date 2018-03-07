@@ -139,6 +139,12 @@
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/sov/sov-overview.template.html" timestamp="1520381743021">
+        <mark key="[" line="124" column="60" />
+        <mark key="]" line="124" column="77" />
+        <mark key="^" line="124" column="77" />
+        <mark key="." line="124" column="77" />
+      </file>
       <file name="$USER_HOME$/es-tools/share/scripts/install.sh" timestamp="1518043744443">
         <mark key="[" line="64" column="34" />
         <mark key="]" line="64" column="38" />
@@ -401,6 +407,12 @@
         <mark key="." line="1" column="49" />
         <mark key="^" line="1" column="49" />
       </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/sov/sov-overview.controller.js" timestamp="1520381451338">
+        <mark key="[" line="37" column="290" />
+        <mark key="]" line="42" column="51" />
+        <mark key="^" line="42" column="51" />
+        <mark key="." line="42" column="51" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-reassign-modal.template.html" timestamp="1511997554345">
         <mark key="[" line="45" column="106" />
         <mark key="]" line="45" column="106" />
@@ -437,11 +449,11 @@
         <mark key="." line="99" column="18" />
         <mark key="^" line="99" column="18" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/shared/tools/asset.service.js" timestamp="1520379725328">
-        <mark key="[" line="205" column="41" />
-        <mark key="]" line="205" column="40" />
-        <mark key="^" line="205" column="40" />
-        <mark key="." line="205" column="40" />
+      <file name="$USER_HOME$/ui/app/features/shared/tools/asset.service.js" timestamp="1520380661708">
+        <mark key="[" line="204" column="52" />
+        <mark key="]" line="209" column="0" />
+        <mark key="^" line="204" column="29" />
+        <mark key="." line="209" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-overview.template.html" timestamp="1519407851560">
         <mark key="[" line="13" column="27" />
@@ -554,13 +566,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>residential_units</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>residential_units</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -572,33 +584,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgYS5kb3dubG9hZCA9ICdsb3NzLXJ1bicgKyBleHRlbnNpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcihsZXQgaSA9IDA7IGkgPCBsZW5ndGg7IGkrKyl7CiAgICAgICAgICAgICAgICAgICAgbGV0IGRpY3QgPSAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBsZW5ndGggPSBkYXRhLmxlbmd0aDsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQk8L2Rpdj4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>.ng-dirty {
 	color: red !important;
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgZXhwb3J0QWNvcmQsCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGV4cG9ydEFjb3JkKGFzc2V0SWQpIHsKICAgICAgcmV0dXJuICRxKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAkaHR0cC5nZXQoYCR7RU5WLkJBU0VfVVJMfSR7RU5WLkFQSV9BU1NFVFN9YWNvcmQvJHthc3NldElkfS9leGNlbGAse3Jlc3BvbnNlVHlwZTogImJsb2IiLG1ldGhvZDogIkdFVCJ9KQogICAgICAgICAgICAudGhlbihyZXNwb25zZSA9PnsKICAgICAgICAgICAgICBjb25zdCBmaWxlVVJMID0gVVJMLmNyZWF0ZU9iamVjdFVSTChyZXNwb25zZS5kYXRhKTsKICAgICAgICAgICAgICBjb25zdCBhID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnYScpOwoKICAgICAgICAgICAgICBjb25zdCBkaXNwb3NpdGlvbiA9IHJlc3BvbnNlLmhlYWRlcnMoIiIpOwogICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRpc3Bvc2l0aW9uKTsKICAgICAgICAgICAgICBpZiAoZGlzcG9zaXRpb24uaW5jbHVkZXMoJ2ZpbGVuYW1lPScpKSB7CiAgICAgICAgICAgICAgICBjb25zdCBmaWxlbmFtZSA9IGRpc3Bvc2l0aW9uLnNwbGl0KCdmaWxlbmFtZT0nKVsxXTsKICAgICAgICAgICAgICAgIGNvbnN0IHJlID0gLywvZzsKICAgICAgICAgICAgICAgIGNvbnN0IGZpbGVuYW1lX2Zvcm1hdHRlZCA9IGZpbGVuYW1lLnJlcGxhY2UocmUsICcnKTsKICAgICAgICAgICAgICAgIGNvbnN0IG1hdGNoID0gZmlsZW5hbWVfZm9ybWF0dGVkLm1hdGNoKC9cLlx3KyQvKTsKICAgICAgICAgICAgICAgIGlmIChtYXRjaCAhPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICBhLmRvd25sb2FkID0gZmlsZW5hbWVfZm9ybWF0dGVkLnN1YnN0cigwLCBtYXRjaC5pbmRleCkgKyBleHRlbnNpb247CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICBhLmRvd25sb2FkID0gZmlsZW5hbWVfZm9ybWF0dGVkICsgZXh0ZW5zaW9uOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBhLmRvd25sb2FkID0gJ2xvc3MtcnVuJyArIGV4dGVuc2lvbjsKICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgIGEuaHJlZiA9IGZpbGVVUkw7CiAgICAgICAgICAgICAgYS50YXJnZXQgPSAnX2JsYW5rJzsKICAgICAgICAgICAgICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOwogICAgICAgICAgICAgIGEuY2xpY2soKTsKICAgICAgICAgICAgICByZXNvbHZlKCkKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmNhdGNoKGVycj0+ewogICAgICAgICAgICAgIHJlamVjdChlcnIpOwogICAgICAgICAgICB9KQogICAgICB9KQogICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdm0uZXhwb3J0QWNvcmQgPSBmdW5jdGlvbiBleHBvcnRBY29yZCgpewogICAgICAgIEludGFrZVNlcnZpY2UuZXhwb3J0QWNvcmQodm0uYXNzZXRJZCkKICAgICAgICAudGhlbihyZXM9PnsKICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7CiAgICAgICAgfSkKICAgICAgICAuY2F0Y2goZXJyPT57CiAgICAgICAgICBjb25zb2xlLmVycm9yKGVycik7CiAgICAgICAgfSkKICAgICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
