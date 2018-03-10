@@ -3,693 +3,298 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-main.template.html" timestamp="1519419105437">
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="55" />
-        <mark key="^" line="13" column="55" />
-        <mark key="." line="13" column="55" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/intake-list.controller.js" timestamp="1520401889845">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-      </file>
-      <file name="$USER_HOME$/ui/.idea/codeStyleSettings.xml" timestamp="1517604687887">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="9" />
-        <mark key="^" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-main.template.html" timestamp="1520369771723">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="0" column="96" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill.directives.js" timestamp="1520439141054">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" timestamp="1518197756026">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="81" />
-        <mark key="^" line="15" column="81" />
-        <mark key="." line="15" column="81" />
-      </file>
-      <file name="$USER_HOME$/es-tools/schema/asset_hub/sov_quote.sh" timestamp="1518043312179">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-        <mark key="^" line="3" column="9" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-edit.template.html" timestamp="1520370054256">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="7" column="124" />
-        <mark key="." line="7" column="124" />
-        <mark key="^" line="7" column="124" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.html" timestamp="1516212794702">
-        <mark key="[" line="8" column="64" />
-        <mark key="]" line="8" column="75" />
-        <mark key="." line="8" column="75" />
-        <mark key="^" line="8" column="75" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/account/account-users.controller.js" timestamp="1516213186665">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="155" column="42" />
-        <mark key="." line="148" column="0" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/acord/index.js" timestamp="1519244560437">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/entity/ClientFeatures.java" timestamp="1515713529675">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="31" column="27" />
-        <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/shared/nav/subnavViewIntake.html" timestamp="1516055530612">
-        <mark key="[" line="3" column="142" />
-        <mark key="]" line="3" column="149" />
-        <mark key="^" line="3" column="149" />
-        <mark key="." line="3" column="149" />
-      </file>
-      <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_alias.json" timestamp="1518043569534">
-        <mark key="[" line="2" column="111" />
-        <mark key="]" line="2" column="115" />
-        <mark key="." line="2" column="115" />
-        <mark key="^" line="2" column="115" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeatureDaoImpl.java" timestamp="1515710807979">
-        <mark key="[" line="20" column="58" />
-        <mark key="]" line="20" column="58" />
-        <mark key="." line="20" column="58" />
-        <mark key="^" line="20" column="58" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1519170206102">
-        <mark key="[" line="107" column="28" />
-        <mark key="]" line="107" column="28" />
-        <mark key="^" line="62" column="24" />
-        <mark key="." line="107" column="28" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
-        <mark key="[" line="27" column="69" />
-        <mark key="]" line="28" column="27" />
-        <mark key="^" line="28" column="27" />
-        <mark key="." line="28" column="27" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/FeatureService.java" timestamp="1515774706552">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="36" column="19" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/acord/pdf_test.js" timestamp="1519245354970">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/config/prod/config-prod.properties" timestamp="1517955782862">
-        <mark key="[" line="76" column="91" />
-        <mark key="]" line="76" column="106" />
-        <mark key="." line="76" column="106" />
-        <mark key="^" line="76" column="106" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/assets/sass/materialize/_dropdown.scss" timestamp="1516051734209">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="9" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1518130044401">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="21" column="129" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun.controller.js" timestamp="1519429895167">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/property_hub_template.json" timestamp="1517242337411">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="51" />
-        <mark key="." line="2" column="51" />
-        <mark key="^" line="2" column="51" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/sov/sov-overview.template.html" timestamp="1520381743021">
-        <mark key="[" line="124" column="60" />
-        <mark key="]" line="124" column="77" />
-        <mark key="^" line="124" column="77" />
-        <mark key="." line="124" column="77" />
-      </file>
-      <file name="$USER_HOME$/es-tools/share/scripts/install.sh" timestamp="1518043744443">
-        <mark key="[" line="64" column="34" />
-        <mark key="]" line="64" column="38" />
-        <mark key="." line="64" column="38" />
-        <mark key="^" line="64" column="38" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/super-admin/client-create.template.html" timestamp="1515799312233">
-        <mark key="[" line="12" column="107" />
-        <mark key="]" line="12" column="117" />
-        <mark key="^" line="12" column="117" />
-        <mark key="." line="12" column="117" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.controller.js" timestamp="1515798637681">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="26" column="5" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="11" column="35" />
-      </file>
-      <file name="$USER_HOME$/acord-test/src/App.js" timestamp="1517959409418">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="3" column="40" />
-        <mark key="." line="3" column="40" />
-        <mark key="^" line="3" column="40" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/shared/tools/clients.service.js" timestamp="1516138538805">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="5" />
-        <mark key="^" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeatureDao.java" timestamp="1515710815683">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="31" />
-        <mark key="^" line="6" column="30" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.controller.js" timestamp="1520366205808">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-        <mark key="^" line="14" column="43" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-company-info-view.html" timestamp="1520439430360">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="27" column="33" />
-        <mark key="." line="27" column="33" />
-        <mark key="^" line="27" column="33" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord.controller.js" timestamp="1514564085922">
-        <mark key="[" line="3" column="179" />
-        <mark key="]" line="3" column="180" />
-        <mark key="^" line="3" column="189" />
-        <mark key="." line="3" column="180" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-edit.template.html" timestamp="1518199036196">
-        <mark key="[" line="16" column="116" />
-        <mark key="]" line="16" column="116" />
-        <mark key="." line="16" column="116" />
-        <mark key="^" line="16" column="117" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/account/user.service.js" timestamp="1516143100171">
-        <mark key="[" line="185" column="67" />
-        <mark key="]" line="185" column="67" />
-        <mark key="^" line="185" column="67" />
-        <mark key="." line="185" column="67" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/super-admin/clients.template.html" timestamp="1516212495187">
-        <mark key="[" line="23" column="99" />
-        <mark key="]" line="23" column="120" />
-        <mark key="^" line="23" column="120" />
-        <mark key="." line="23" column="120" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDaoImpl.java" timestamp="1515774405231">
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="26" />
-        <mark key="^" line="31" column="26" />
-        <mark key="." line="31" column="26" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/account/account-user-detail.html" timestamp="1515794015588">
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="24" column="5" />
-        <mark key="^" line="24" column="5" />
-        <mark key="." line="24" column="5" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/account/account-assign-user-client.controller.js" timestamp="1516142490389">
-        <mark key="[" line="18" column="70" />
-        <mark key="]" line="18" column="46" />
-        <mark key="^" line="18" column="46" />
-        <mark key="." line="18" column="46" />
-      </file>
-      <file name="$USER_HOME$/ui/app/js/config/states.js" timestamp="1520638172020">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
-        <mark key="[" line="134" column="22" />
-        <mark key="]" line="134" column="32" />
-        <mark key="." line="134" column="32" />
-        <mark key="^" line="134" column="32" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.view.html" timestamp="1517852672220">
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="34" column="29" />
-        <mark key="^" line="34" column="29" />
-        <mark key="." line="34" column="29" />
-      </file>
-      <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_mapping.json" timestamp="1518043590982">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/ui/server_auth.js" timestamp="1519412078575">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="75" column="23" />
-        <mark key="." line="75" column="23" />
-        <mark key="^" line="75" column="23" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDao.java" timestamp="1515774238770">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/account/account-assign-user-client.html" timestamp="1516146905772">
-        <mark key="[" line="13" column="83" />
-        <mark key="]" line="13" column="83" />
-        <mark key="^" line="13" column="89" />
-        <mark key="." line="13" column="83" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/account/account-users.template.html" timestamp="1516147973938">
-        <mark key="[" line="41" column="71" />
-        <mark key="]" line="41" column="83" />
-        <mark key="." line="41" column="83" />
-        <mark key="^" line="41" column="83" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-        <mark key="^" line="4" column="25" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/pom.xml" timestamp="1517333837761">
-        <mark key="[" line="87" column="19" />
-        <mark key="]" line="87" column="20" />
-        <mark key="^" line="88" column="16" />
-        <mark key="." line="87" column="20" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.controller.js" timestamp="1517852616947">
-        <mark key="[" line="72" column="5" />
-        <mark key="]" line="72" column="5" />
-        <mark key="." line="72" column="5" />
-        <mark key="^" line="72" column="5" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" timestamp="1520021904456">
-        <mark key="[" line="499" column="69" />
-        <mark key="]" line="499" column="85" />
-        <mark key="." line="499" column="85" />
-        <mark key="^" line="499" column="85" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-file.template.html" timestamp="1519250432986">
-        <mark key="[" line="3" column="97" />
-        <mark key="]" line="3" column="95" />
-        <mark key="^" line="3" column="95" />
-        <mark key="." line="3" column="95" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-component.html" timestamp="1520439644074">
-        <mark key="[" line="0" column="70" />
-      </file>
-      <file name="$USER_HOME$/acord-test/src/pdfView.js" timestamp="1517439173308">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="21" column="11" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/index.js" timestamp="1515193091176">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-      </file>
-      <file name="$USER_HOME$/mvp-deploy/aws/standalone/template-d3app.json" timestamp="1516814305024">
-        <mark key="[" line="2069" column="99" />
-        <mark key="]" line="2069" column="99" />
-        <mark key="." line="2069" column="99" />
-        <mark key="^" line="2070" column="36" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-payroll.controller.js" timestamp="1519432295504">
-        <mark key="[" line="93" column="12" />
-        <mark key="]" line="93" column="15" />
-        <mark key="." line="93" column="15" />
-        <mark key="^" line="93" column="15" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/underwriting-sov-view.template.html" timestamp="1512161355396">
-        <mark key="[" line="11" column="149" />
-        <mark key="]" line="11" column="152" />
-        <mark key="." line="11" column="152" />
-        <mark key="^" line="11" column="152" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/risk360.analytics.template.html" timestamp="1518126285116">
-        <mark key="[" line="21" column="50" />
-        <mark key="]" line="21" column="50" />
-        <mark key="." line="21" column="50" />
-        <mark key="^" line="21" column="94" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/super-admin/client-create.controller.js" timestamp="1515799423236">
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="53" />
-        <mark key="^" line="11" column="53" />
-        <mark key="." line="11" column="53" />
-      </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" timestamp="1515711598465">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-        <mark key="^" line="20" column="26" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1520530894646">
+      <file name="/start_script.py" timestamp="1501271009992">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1517948927056">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/Python Console" timestamp="1520444488710">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchHdpClient.java" timestamp="1518727737774">
-        <mark key="[" line="18" column="91" />
-        <mark key="]" line="18" column="100" />
-        <mark key="^" line="18" column="100" />
-        <mark key="." line="18" column="100" />
+      <file name="/fragment.py" timestamp="1520374679765">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/liquibase/liquibase-bin/conf/com.datacubes/datacubes.changelog.xml" timestamp="1518649136830">
-        <mark key="[" line="1715" column="39" />
-        <mark key="]" line="1715" column="41" />
-        <mark key="." line="1715" column="41" />
-        <mark key="^" line="1715" column="41" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/properties.ini" timestamp="1520358113825">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="35" column="61" />
+        <mark key="^" line="35" column="61" />
+        <mark key="." line="35" column="61" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/index.js" timestamp="1514564128707">
-        <mark key="[" line="2" column="63" />
-        <mark key="]" line="3" column="54" />
-        <mark key="^" line="3" column="54" />
-        <mark key="." line="3" column="54" />
+      <file name="/a.dummy" timestamp="1506466416996">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="^" line="147" column="13" />
-        <mark key="." line="156" column="0" />
+      <file name="$USER_HOME$/mvp-hdp/scripts/lossrun/JugadFeatures.py" timestamp="1520442818986" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1520544650091">
+        <mark key="'" line="38" column="42" />
+        <mark key="[" line="82" column="59" />
+        <mark key="]" line="82" column="62" />
+        <mark key="^" line="82" column="62" />
+        <mark key="." line="82" column="62" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1517871684719">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="5" column="40" />
-        <mark key="." line="5" column="40" />
-        <mark key="^" line="5" column="39" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/rest_client.py" timestamp="1520358593145" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1520543295215">
+        <mark key="[" line="111" column="88" />
+        <mark key="]" line="83" column="79" />
+        <mark key="^" line="83" column="79" />
+        <mark key="." line="83" column="79" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-mapping.controller.js" timestamp="1512161870268">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="1" column="49" />
-        <mark key="." line="1" column="49" />
-        <mark key="^" line="1" column="49" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/usps.py" timestamp="1520550382034" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/elasticsearch_client.py" timestamp="1520465071352">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/sov/sov-overview.controller.js" timestamp="1520381451338">
-        <mark key="[" line="37" column="290" />
-        <mark key="]" line="42" column="51" />
-        <mark key="^" line="42" column="51" />
-        <mark key="." line="42" column="51" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/es_client.py" timestamp="1520364123476">
+        <mark key="[" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-reassign-modal.template.html" timestamp="1511997554345">
-        <mark key="[" line="45" column="106" />
-        <mark key="]" line="45" column="106" />
-        <mark key="." line="45" column="106" />
-        <mark key="^" line="45" column="106" />
+      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1520531899520">
+        <mark key="'" line="34" column="45" />
+        <mark key="[" line="651" column="0" />
+        <mark key="]" line="656" column="36" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="14" column="47" />
-        <mark key="." line="14" column="47" />
-        <mark key="^" line="14" column="47" />
+      <file name="/Dummy.txt" timestamp="1520465029260">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-        <mark key="^" line="5" column="22" />
+      <file name="/code.py" timestamp="1506718000990">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/index.js" timestamp="1520440509988">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1520640021365">
+        <mark key="'" line="159" column="29" />
+        <mark key="[" line="192" column="34" />
+        <mark key="]" line="192" column="18" />
+        <mark key="." line="192" column="18" />
+        <mark key="^" line="192" column="18" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/asset-list.controller.js" timestamp="1520369718788">
-        <mark key="[" line="143" column="25" />
-        <mark key="]" line="143" column="28" />
-        <mark key="." line="143" column="28" />
-        <mark key="^" line="143" column="28" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/datacubes_cache.py" timestamp="1520445559030" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/api_keys.ini" timestamp="1520548177129">
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="5" column="61" />
+        <mark key="." line="5" column="61" />
+        <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
-        <mark key="[" line="15" column="80" />
-        <mark key="]" line="15" column="88" />
-        <mark key="." line="15" column="88" />
-        <mark key="^" line="15" column="88" />
+      <file name="$USER_HOME$/mvp-hdp/scripts/dnb/dnb_duns_api.py" timestamp="1520269701873">
+        <mark key="[" line="73" column="85" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/HdpPropertyClient.java" timestamp="1519840162689">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="99" column="18" />
-        <mark key="." line="99" column="18" />
-        <mark key="^" line="99" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" timestamp="1518477915050">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/shared/tools/asset.service.js" timestamp="1520380661708">
-        <mark key="[" line="204" column="52" />
-        <mark key="]" line="209" column="0" />
-        <mark key="^" line="204" column="29" />
-        <mark key="." line="209" column="0" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company_matcher.py" timestamp="1520459794147">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="75" column="69" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1520462671506">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="15" />
-        <mark key="^" line="16" column="15" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1520542357933">
+        <mark key="p" line="57" column="0" />
+        <mark key="'" line="124" column="13" />
+        <mark key="[" line="132" column="16" />
+        <mark key="]" line="132" column="16" />
+        <mark key="." line="132" column="16" />
+        <mark key="^" line="142" column="9" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-overview.template.html" timestamp="1519407851560">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="39" />
-        <mark key="." line="13" column="39" />
-        <mark key="^" line="13" column="39" />
+      <file name="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/fort_worth/fort_worth.py" timestamp="1499713957508">
+        <mark key="[" line="75" column="13" />
+      </file>
+      <file name="$USER_HOME$/mvp-hdp/scripts/dnb/properties.py" timestamp="1520546199528">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/address/d3validation.py" timestamp="1520351079766">
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="34" column="16" />
+        <mark key="^" line="34" column="16" />
+        <mark key="." line="34" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="32" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
-      <jump line="360" column="32" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
-      <jump line="158" column="18" filename="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/IntakeController.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/api/HdpPropertyDto.java" />
-      <jump line="10" column="61" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/api/HdpPropertyRiskViewDto.java" />
-      <jump line="86" column="52" filename="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/util/ValidationHelper.java" />
-      <jump line="300" column="10" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/IntakeService.java" />
-      <jump line="0" column="11" filename="/a.dummy" />
-      <jump line="36" column="5" filename="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" />
-      <jump line="473" column="0" filename="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/AssetController.java" />
-      <jump line="40" column="3" filename="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PropertyController.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/underwritingRisk360PrefilledApplicationView.html" />
-      <jump line="39" column="7" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/underwritingRisk360PrefilledApplicationView.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/underwritingRisk360PrefilledMainView.html" />
-      <jump line="0" column="14" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/underwritingRisk360PrefilledContactView.html" />
-      <jump line="5" column="235" filename="$USER_HOME$/ui/webroot/app/underwriting/asset-list.controller.js" />
-      <jump line="63" column="18" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" />
-      <jump line="28" column="5" filename="$USER_HOME$/ui/webroot/app/account/account-user-delete.html" />
-      <jump line="0" column="3" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/wccc-description-lookup.js" />
-      <jump line="49" column="48" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/prefill.controller.js" />
-      <jump line="3" column="8" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
-      <jump line="106" column="8" filename="$USER_HOME$/ui/webroot/app/use-case/use-case.service.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
-      <jump line="23" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
-      <jump line="21" column="7" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
-      <jump line="76" column="38" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" />
-      <jump line="31" column="20" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.controller.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.controller.js" />
-      <jump line="104" column="45" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" />
-      <jump line="579" column="0" filename="$USER_HOME$/ui/webroot/app/config/states.js" />
-      <jump line="115" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
-      <jump line="39" column="52" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
-      <jump line="62" column="60" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
-      <jump line="225" column="32" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
-      <jump line="43" column="18" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
-      <jump line="111" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
-      <jump line="134" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
-      <jump line="148" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
-      <jump line="152" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
-      <jump line="222" column="27" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
-      <jump line="61" column="47" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/ClientService.java" />
-      <jump line="37" column="105" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/entity/Client.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
-      <jump line="12" column="56" filename="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.controller.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.controller.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.controller.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.controller.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.controller.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.controller.js" />
-      <jump line="19" column="15" filename="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" />
-      <jump line="256" column="5" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.controller.js" />
-      <jump line="51" column="21" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
-      <jump line="44" column="18" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" />
-      <jump line="61" column="57" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchClient.java" />
-      <jump line="8" column="1" filename="$USER_HOME$/acord-test/src/annotate.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/acord-test/src/annotate.js" />
-      <jump line="19" column="22" filename="$USER_HOME$/acord-test/src/annotate.js" />
-      <jump line="26" column="23" filename="$USER_HOME$/acord-test/src/annotate.js" />
-      <jump line="1" column="4" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" />
-      <jump line="1" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.template.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.template.html" />
-      <jump line="271" column="12" filename="$USER_HOME$/ui/webroot/app/underwriting/intake.service.js" />
-      <jump line="454" column="36" filename="$USER_HOME$/acord-test/node_modules/pdfjs-dist/build/pdf.js" />
-      <jump line="14" column="55" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="15" column="57" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="19" column="55" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="23" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="27" column="55" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="31" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="35" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="39" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="43" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="47" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="51" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="56" column="55" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="61" column="55" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="66" column="55" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="70" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="80" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="88" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="92" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="96" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="100" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="104" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="112" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="116" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="120" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="132" column="51" filename="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" />
-      <jump line="213" column="34" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/AssetDaoImpl.java" />
-      <jump line="1916" column="0" filename="$USER_HOME$/liquibase/liquibase-bin/conf/com.datacubes/datacubes.changelog.xml" />
-      <jump line="0" column="30" filename="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-overview.template.html" />
+      <jump line="21" column="10" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/san_antonio/san_antonio.py" />
+      <jump line="239" column="4" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/san_antonio/san_antonio.py" />
+      <jump line="171" column="4" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/san_antonio/san_antonio.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/san_antonio/san_antonio.py" />
+      <jump line="107" column="10" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/san_antonio/san_antonio.py" />
+      <jump line="106" column="8" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/san_antonio/san_antonio.py" />
+      <jump line="90" column="12" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/san_antonio/san_antonio.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/datacubes-lib/datacubes_lib/dc_s3.py" />
+      <jump line="122" column="24" filename="$USER_HOME$/datacubes-lib/datacubes_lib/dc_s3.py" />
+      <jump line="16" column="22" filename="$USER_HOME$/datacubes-lib/datacubes_lib/dc_s3.py" />
+      <jump line="35" column="23" filename="$USER_HOME$/datacubes-lib/datacubes_lib/dc_s3.py" />
+      <jump line="36" column="20" filename="$USER_HOME$/datacubes-lib/datacubes_lib/dc_s3.py" />
+      <jump line="56" column="35" filename="$USER_HOME$/ingestion-transform/scripts/curated/food_inspections/TX/san_antonio/san_antonio_food_inspections.py" />
+      <jump line="103" column="25" filename="$USER_HOME$/ingestion-transform/scripts/curated/food_inspections/TX/san_antonio/san_antonio_food_inspections.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/ingestion-transform/scripts/curated/food_inspections/TX/san_antonio/san_antonio_food_inspections.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/ingestion-transform/scripts/curated/food_inspections/TX/san_antonio/san_antonio_food_inspections.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/ingestion-transform/scripts/curated/food_inspections/TX/san_antonio/san_antonio_food_inspections.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/ingestion-transform/scripts/curated/food_inspections/TX/san_antonio/san_antonio_food_inspections.py" />
+      <jump line="87" column="31" filename="$USER_HOME$/ingestion-transform/scripts/curated/food_inspections/TX/san_antonio/san_antonio_food_inspections.py" />
+      <jump line="178" column="0" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/harris/harris.py" />
+      <jump line="82" column="28" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/harris/harris.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/harris/harris.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/ingestion-transform/scripts/curated/food_inspections/TX/el_paso/el_paso_restaurant_inspections.py" />
+      <jump line="107" column="14" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/williamson/williamson.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/grayson/grayson.py" />
+      <jump line="34" column="61" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/el_paso/el_paso.py" />
+      <jump line="29" column="17" filename="$USER_HOME$/data-ingestion/data/raw/food_inspection/TX/grayson/grayson.py" />
+      <jump line="15" column="40" filename="$USER_HOME$/data-ingestion/data/raw/railroad_commission/TX/plumber_arc.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/data-ingestion/data/raw/railroad_commission/TX/plumber_arc.py" />
+      <jump line="9" column="28" filename="$USER_HOME$/data-ingestion/data/raw/railroad_commission/TX/plumber_arc.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/data-ingestion/data/raw/railroad_commission/TX/plumber_arc.py" />
+      <jump line="4" column="10" filename="$USER_HOME$/ingestion-transform/scripts/curated/railroad_commission/TX/plumber_arc.py" />
+      <jump line="108" column="106" filename="$USER_HOME$/ingestion-transform/scripts/curated/railroad_commission/TX/registered_transport_units.py" />
+      <jump line="90" column="16" filename="$USER_HOME$/ingestion-transform/scripts/curated/railroad_commission/TX/registered_transport_units.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/ingestion-transform/scripts/curated/railroad_commission/TX/registered_transport_units.py" />
+      <jump line="126" column="24" filename="$USER_HOME$/data-ingestion/data/raw/railroad_commission/TX/enforcement_actions.py" />
+      <jump line="52" column="36" filename="$USER_HOME$/ingestion-transform/scripts/curated/railroad_commission/TX/enforcement_actions.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/ingestion-transform/scripts/curated/railroad_commission/TX/enforcement_actions.py" />
+      <jump line="34" column="12" filename="$USER_HOME$/ingestion-transform/scripts/curated/railroad_commission/TX/active_operators.py" />
+      <jump line="62" column="14" filename="$USER_HOME$/ingestion-transform/scripts/analytics/hazardous_materials/hazardous_materials.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/ingestion-transform/scripts/analytics/hazardous_materials/hazardous_materials.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/ingestion-transform/scripts/analytics/hazardous_materials/hazardous_materials.py" />
+      <jump line="0" column="15" filename="$USER_HOME$/ingestion-transform/scripts/analytics/work_under_above_15ft/data_preparation/data_getter.py" />
+      <jump line="189" column="15" filename="$USER_HOME$/ingestion-transform/scripts/curated/Pacer/bankruptcy_matcher.py" />
+      <jump line="192" column="64" filename="$USER_HOME$/ingestion-transform/scripts/curated/Pacer/bankruptcy_matcher.py" />
+      <jump line="17" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
+      <jump line="34" column="45" filename="$USER_HOME$/mvp-hdp/scripts/server.py" />
+      <jump line="20" column="41" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" />
+      <jump line="48" column="24" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" />
+      <jump line="19" column="68" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" />
+      <jump line="24" column="3" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" />
+      <jump line="61" column="4" filename="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" />
+      <jump line="35" column="12" filename="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" />
+      <jump line="156" column="21" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" />
+      <jump line="5" column="14" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" />
+      <jump line="80" column="38" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" />
+      <jump line="81" column="16" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" />
+      <jump line="82" column="15" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" />
+      <jump line="83" column="16" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" />
+      <jump line="84" column="16" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" />
+      <jump line="85" column="16" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" />
+      <jump line="32" column="23" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="33" column="17" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="34" column="7" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="35" column="10" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="36" column="13" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="37" column="16" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="40" column="21" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="38" column="55" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="39" column="36" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="57" column="12" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="41" column="59" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="42" column="36" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="58" column="33" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="79" column="28" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="38" column="42" filename="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" />
+      <jump line="124" column="13" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" />
+      <jump line="164" column="49" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" />
+      <jump line="159" column="29" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhOiB7Cg==</text>
-      </register>
-      <register name="j" type="4">
-        <text>jjjjhjkkkkkk</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkKICAgIHJlcyA9IGRuYi5tYXRjaChjb21wYW55X25hbWU9Indob2xlIGZvb2RzIiwgY2l0eT0nc2NoYXVtYnVyZycsIHN0YXRlPSdJTCcsIHppcF9jb2RlPSc2MDE3MycpCiAgICBlbmQgPSBkYXRldGltZS5kYXRldGltZS5ub3coKQogICAgbG9nZ2VyLmRlYnVnKCJUb29rICIgKyBzdHIoKGVuZCAtIHN0YXJ0KS50b3RhbF9zZWNvbmRzKCkgKiAxMDAwKSArICIgbXMiICsgInRvIGdldCByZXNwb25zZSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwnXD4=</text>
+        <text>&quot;</text>
       </register>
       <register name="o" type="4">
-        <text>kkkkkjjjjjdd6j</text>
+        <keys>
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYS5kb3dubG9hZCA9ICdsb3NzLXJ1bicgKyBleHRlbnNpb247Cg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkKICAgIHJlcyA9IGRuYi5tYXRjaChjb21wYW55X25hbWU9Indob2xlIGZvb2RzIiwgY2l0eT0nc2NoYXVtYnVyZycsIHN0YXRlPSdJTCcsIHppcF9jb2RlPSc2MDE3MycpCiAgICBlbmQgPSBkYXRldGltZS5kYXRldGltZS5ub3coKQogICAgbG9nZ2VyLmRlYnVnKCJUb29rICIgKyBzdHIoKGVuZCAtIHN0YXJ0KS50b3RhbF9zZWNvbmRzKCkgKiAxMDAwKSArICIgbXMiICsgInRvIGdldCByZXNwb25zZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhOiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcihsZXQgaSA9IDA7IGkgPCBsZW5ndGg7IGkrKyl7CiAgICAgICAgICAgICAgICAgICAgbGV0IGRpY3QgPSAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEpCg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkKICAgIHJlcyA9IGRuYi5tYXRjaChjb21wYW55X25hbWU9Indob2xlIGZvb2RzIiwgY2l0eT0nc2NoYXVtYnVyZycsIHN0YXRlPSdJTCcsIHppcF9jb2RlPSc2MDE3MycpCiAgICBlbmQgPSBkYXRldGltZS5kYXRldGltZS5ub3coKQogICAgbG9nZ2VyLmRlYnVnKCJUb29rICIgKyBzdHIoKGVuZCAtIHN0YXJ0KS50b3RhbF9zZWNvbmRzKCkgKiAxMDAwKSArICIgbXMiICsgInRvIGdldCByZXNwb25zZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBsZW5ndGggPSBkYXRhLmxlbmd0aDsK</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoNSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkKICAgIHJlcyA9IGRuYi5tYXRjaChjb21wYW55X25hbWU9Indob2xlIGZvb2RzIiwgY2l0eT0nc2NoYXVtYnVyZycsIHN0YXRlPSdJTCcsIHppcF9jb2RlPSc2MDE3MycpCiAgICBlbmQgPSBkYXRldGltZS5kYXRldGltZS5ub3coKQogICAgbG9nZ2VyLmRlYnVnKCJUb29rICIgKyBzdHIoKGVuZCAtIHN0YXJ0KS50b3RhbF9zZWNvbmRzKCkgKiAxMDAwKSArICIgbXMiICsgInRvIGdldCByZXNwb25zZSIpCiAgICBzdGFydCA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpCiAgICB0aW1lLnNsZWVwKDUpCiAgICByZXMgPSBkbmIubWF0Y2goY29tcGFueV9uYW1lPSJ3aG9sZSBmb29kcyIsIGNpdHk9J3NjaGF1bWJ1cmcnLCBzdGF0ZT0nSUwnLCB6aXBfY29kZT0nNjAxNzMnKQogICAgZW5kID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkKICAgIGxvZ2dlci5kZWJ1ZygiVG9vayAiICsgc3RyKChlbmQgLSBzdGFydCkudG90YWxfc2Vjb25kcygpICogMTAwMCkgKyAiIG1zIiArICJ0byBnZXQgcmVzcG9uc2UiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGpzb24uZHVtcHMoZG5iLmNvbnZlcnRfbWF0Y2hfcmVzcG9uc2UocmVzKSxpbmRlbnQ9NCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0aF9oZWFkZXJzID0geydBdXRob3JpemF0aW9uJzogJ2xkOGl3cWozR0NCNzZ5dWxLWmczOVI4UU9ZQ1Zyb3ZiYVVFZFlhUXZpVE9LNW03M24zYm50U28ybGZaNnlFaTlsRGNTWTAyNFljUyd9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.ng-dirty {
-	color: red !important;
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudG9rZW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwb3J0QWNvcmQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set relativenumber</text>
+        <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwnXD4=</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getUserId</entry>
-        <entry encoding="base64">XDxwcmVtaXNlXD4=</entry>
-        <entry encoding="base64">XDxpbnB1dFw+</entry>
-        <entry encoding="base64">XDxwbGFjZWhvbGRlclw+</entry>
-        <entry>acord</entry>
-        <entry>**</entry>
-        <entry>premise</entry>
-        <entry encoding="base64">XDwnXD4=</entry>
+        <entry>while</entry>
+        <entry>with</entry>
+        <entry>open</entry>
+        <entry>header</entry>
+        <entry>/header</entry>
+        <entry>local</entry>
+        <entry encoding="base64">XDxzdGFydGluZ19pbmRleFw+</entry>
+        <entry>output_field_names</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry>''</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
-        <entry>kyy</entry>
-        <entry>reg</entry>
-        <entry>set relativenumber</entry>
-        <entry>set number relative number</entry>
+        <entry>w</entry>
+        <entry>s/&quot;/'/g</entry>
+        <entry>s/''/req['fein']/g</entry>
+        <entry>s/&quot;/'/gs</entry>
+        <entry>%s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
   </component>
 </application>
