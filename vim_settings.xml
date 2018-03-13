@@ -439,12 +439,12 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1520964999997">
-        <mark key="'" line="152" column="25" />
-        <mark key="[" line="144" column="83" />
-        <mark key="]" line="144" column="84" />
-        <mark key="." line="144" column="84" />
-        <mark key="^" line="144" column="84" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1520966336035">
+        <mark key="'" line="150" column="25" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="169" column="92" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
@@ -513,7 +513,7 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1520960375275">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1520966529168">
         <mark key="'" line="161" column="29" />
         <mark key="[" line="198" column="37" />
         <mark key="]" line="198" column="36" />
@@ -692,14 +692,14 @@
       <jump line="108" column="25" filename="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IHRpbWVyKCkK</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>==</text>
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="/" type="4">
         <text>street_addr1</text>
@@ -711,31 +711,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICdpbmZvZ3JvdXBfaWQnIGluIGl0ZW0yOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0xWydpbmZvZ3JvdXBfaWQnXSA9IGl0ZW0yWydpbmZvZ3JvdXBfaWQnXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgJ2R1bnNfbnVtYmVyJyBpbiBpdGVtMjoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdGVtMVsnZHVuc19udW1iZXInXSA9IGl0ZW0yWydkdW5zX251bWJlciddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXhfZm9yX2RlbGV0aW9uLmFwcGVuZChqKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IHRpbWVyKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlRvdGFsIHRpbWUgPT0gPiAiICsgc3RyKGVuZC1zdGFydCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tcGFyaXNvbl9saXN0LnJlbW92ZShpdGVtMikK</text>
+        <text encoding="base64">ICAgICAgICBlbmQgPSB0aW1lcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tcGFyaXNvbl9saXN0LnJlbW92ZShpdGVtMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGksIGoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXhfZm9yX2RlbGV0aW9uLmFwcGVuZChqKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tcGFyaXNvbl9saXN0LnJlbW92ZShpdGVtMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiPSIqMTAKICAgICAgICBwcmludCBsZW4oc2VsZi5pbmZvZ3JvdXBfcmVzcG9uc2UpCiAgICAgICAgcHJpbnQganNvbi5kdW1wcyhzZWxmLmluZm9ncm91cF9yZXNwb25zZSkKICAgICAgICBwcmludCAiPSIqMTAKICAgICAgICBwcmludCBsZW4oc2VsZi5kbmJfcmVzcG9uc2UpCiAgICAgICAgcHJpbnQganNvbi5kdW1wcyhzZWxmLmRuYl9yZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tcGFyaXNvbl9saXN0LnJlbW92ZShpdGVtMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoc2VsZi5lc19yZXNwb25zZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/street_addr1/company_name/g</text>
