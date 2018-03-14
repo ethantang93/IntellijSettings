@@ -62,8 +62,8 @@
         <mark key="^" line="3" column="149" />
         <mark key="." line="3" column="149" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1520543295215">
-        <mark key="[" line="111" column="88" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1521010359728">
+        <mark key="[" line="134" column="0" />
         <mark key="]" line="83" column="79" />
         <mark key="^" line="83" column="79" />
         <mark key="." line="83" column="79" />
@@ -445,7 +445,7 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1520981853014">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521010122141">
         <mark key="'" line="160" column="25" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
