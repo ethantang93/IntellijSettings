@@ -445,12 +445,8 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1520979752157">
-        <mark key="'" line="158" column="25" />
-        <mark key="[" line="187" column="47" />
-        <mark key="]" line="187" column="63" />
-        <mark key="." line="187" column="63" />
-        <mark key="^" line="187" column="63" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1520981853014">
+        <mark key="'" line="160" column="25" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
