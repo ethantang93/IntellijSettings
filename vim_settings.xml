@@ -161,6 +161,12 @@
         <mark key="^" line="12" column="117" />
         <mark key="." line="12" column="117" />
       </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/intake-new-modal.template.html" timestamp="1521130779613">
+        <mark key="[" line="12" column="140" />
+        <mark key="]" line="12" column="140" />
+        <mark key="^" line="12" column="86" />
+        <mark key="." line="12" column="140" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.controller.js" timestamp="1515798637681">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="26" column="5" />
@@ -196,7 +202,6 @@
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1521051562679" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="33" />
@@ -244,11 +249,6 @@
         <mark key="]" line="18" column="46" />
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
-      </file>
-      <file name="$USER_HOME$/ui/app/js/config/states.js" timestamp="1520638172020">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
         <mark key="[" line="134" column="22" />
@@ -372,7 +372,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521051541856">
+      <file name="/Dummy.txt" timestamp="1521130113459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -429,6 +429,12 @@
         <mark key="]" line="45" column="106" />
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
+      </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/intake-new-modal.controller.js" timestamp="1521130214012">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="30" column="5" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="30" column="5" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
@@ -587,14 +593,14 @@
       <jump line="0" column="30" filename="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-overview.template.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhOiB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGlkPSIi</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IGlkPSIi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
