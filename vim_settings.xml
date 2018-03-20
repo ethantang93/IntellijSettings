@@ -156,11 +156,11 @@
         <mark key="^" line="12" column="117" />
         <mark key="." line="12" column="117" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/intake-new-modal.template.html" timestamp="1521575241752">
-        <mark key="[" line="12" column="140" />
-        <mark key="]" line="12" column="140" />
-        <mark key="^" line="12" column="86" />
-        <mark key="." line="12" column="140" />
+      <file name="$USER_HOME$/ui/app/features/underwriting/intake-new-modal.template.html" timestamp="1521584992293">
+        <mark key="[" line="59" column="14" />
+        <mark key="]" line="60" column="11" />
+        <mark key="^" line="60" column="11" />
+        <mark key="." line="60" column="11" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.controller.js" timestamp="1515798637681">
         <mark key="[" line="8" column="0" />
@@ -209,8 +209,8 @@
         <mark key="^" line="3" column="189" />
         <mark key="." line="3" column="180" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/intake-reassign-modal.controller.js" timestamp="1521575396662">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/ui/app/features/underwriting/intake-reassign-modal.controller.js" timestamp="1521585016566">
+        <mark key="[" line="8" column="34" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -366,7 +366,9 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/intake-reassign-modal.template.html" timestamp="1521575297512" />
+      <file name="$USER_HOME$/ui/app/features/underwriting/intake-reassign-modal.template.html" timestamp="1521584995264">
+        <mark key="[" line="48" column="29" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" timestamp="1515711598465">
         <mark key="[" line="20" column="26" />
         <mark key="]" line="20" column="26" />
@@ -431,11 +433,11 @@
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/intake-new-modal.controller.js" timestamp="1521575357170">
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="30" column="5" />
-        <mark key="^" line="15" column="7" />
-        <mark key="." line="30" column="5" />
+      <file name="$USER_HOME$/ui/app/features/underwriting/intake-new-modal.controller.js" timestamp="1521585023786">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="12" column="31" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
@@ -607,14 +609,14 @@
       <jump line="0" column="30" filename="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-overview.template.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBuZy1tb2RlbD0idm0uc3RhdGUiIHBsYWNlaG9sZGVyPSJzdGF0ZSIgY2xhc3M9ImZvcm0tY29udHJvbCB0ZXh0LWluZGVudCIgdHlwZT0ic2VhcmNoIi8+Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>Started</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -623,36 +625,34 @@
         <text>kkkkkjjjjjdd6j</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYS5kb3dubG9hZCA9ICdsb3NzLXJ1bicgKyBleHRlbnNpb247Cg==</text>
+        <text encoding="base64">ICAgIHZtLmRpc3BsYXllZENvbGxlY3Rpb24gPSBbXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRzY29wZS4kd2F0Y2goJ3ZtLnNlYXJjaENvbVN0cicsIHNlYXJjaFN0cmluZyA9PiB7CiAgICAgIGlmICghc2VhcmNoU3RyaW5nIHx8IHNlYXJjaFN0cmluZy5sZW5ndGggPT09IDApIHsKICAgICAgICByZXR1cm4gMDsKICAgICAgfQoKICAgICAgdm0uc2VhcmNoU3RhcnRlZCA9IHRydWU7CiAgICAgIENvbXBhbnlTZXJ2aWNlLmdldENvbXBhbmllcyh7CiAgICAgICAgc2VhcmNoOiBzZWFyY2hTdHJpbmcsCiAgICAgICAgbGltaXQ6IDUwCiAgICAgIH0pCiAgICAgIC50aGVuKGNvbXBhbmllcyA9PiB7CiAgICAgICAgaWYoY29tcGFuaWVzLmxlbmd0aCA9PT0gMCl7CiAgICAgICAgICB2bS5ub1Jlc3VsdHNGb3VuZCA9IHRydWU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHZtLm5vUmVzdWx0c0ZvdW5kID0gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICB2bS5yb3dDb2xsZWN0aW9uID0gY29tcGFuaWVzOwogICAgICB9KQogICAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgICAkZGNNb2RhbC5zaG93QWxlcnQoJ09vcHMsIHNlYXJjaCBmYWlsZWQhJywgZXJyLm1lc3NhZ2UpOwogICAgICB9KTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBuZy1tb2RlbD0idm0uc3RhdGUiIHBsYWNlaG9sZGVyPSJzdGF0ZSIgY2xhc3M9ImZvcm0tY29udHJvbCB0ZXh0LWluZGVudCIgdHlwZT0ic2VhcmNoIi8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRzY29wZS4kd2F0Y2goJ3ZtLnNlYXJjaENvbVN0cicsIHNlYXJjaFN0cmluZyA9PiB7CiAgICAgIGlmICghc2VhcmNoU3RyaW5nIHx8IHNlYXJjaFN0cmluZy5sZW5ndGggPT09IDApIHsKICAgICAgICByZXR1cm4gMDsKICAgICAgfQoKICAgICAgdm0uc2VhcmNoU3RhcnRlZCA9IHRydWU7CiAgICAgIENvbXBhbnlTZXJ2aWNlLmdldENvbXBhbmllcyh7CiAgICAgICAgc2VhcmNoOiBzZWFyY2hTdHJpbmcsCiAgICAgICAgbGltaXQ6IDUwCiAgICAgIH0pCiAgICAgIC50aGVuKGNvbXBhbmllcyA9PiB7CiAgICAgICAgaWYoY29tcGFuaWVzLmxlbmd0aCA9PT0gMCl7CiAgICAgICAgICB2bS5ub1Jlc3VsdHNGb3VuZCA9IHRydWU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHZtLm5vUmVzdWx0c0ZvdW5kID0gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICB2bS5yb3dDb2xsZWN0aW9uID0gY29tcGFuaWVzOwogICAgICB9KQogICAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgICAkZGNNb2RhbC5zaG93QWxlcnQoJ09vcHMsIHNlYXJjaCBmYWlsZWQhJywgZXJyLm1lc3NhZ2UpOwogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBuZy1tb2RlbD0idm0uY2l0eSIgcGxhY2Vob2xkZXI9ImNpdHkiIGNsYXNzPSJmb3JtLWNvbnRyb2wgdGV4dC1pbmRlbnQiIHR5cGU9InNlYXJjaCIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBuZy1tb2RlbD0idm0uc3RyZWV0IiBwbGFjZWhvbGRlcj0ic3RyZWV0IiBjbGFzcz0iZm9ybS1jb250cm9sIHRleHQtaW5kZW50IiB0eXBlPSJzZWFyY2giLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcihsZXQgaSA9IDA7IGkgPCBsZW5ndGg7IGkrKyl7CiAgICAgICAgICAgICAgICAgICAgbGV0IGRpY3QgPSAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEpCg==</text>
+        <text encoding="base64">ICAgICRzY29wZS4kd2F0Y2goJ3ZtLnNlYXJjaENvbVN0cicsIHNlYXJjaFN0cmluZyA9PiB7CiAgICAgIGlmICghc2VhcmNoU3RyaW5nIHx8IHNlYXJjaFN0cmluZy5sZW5ndGggPT09IDApIHsKICAgICAgICByZXR1cm4gMDsKICAgICAgfQoKICAgICAgdm0uc2VhcmNoU3RhcnRlZCA9IHRydWU7CiAgICAgIENvbXBhbnlTZXJ2aWNlLmdldENvbXBhbmllcyh7CiAgICAgICAgc2VhcmNoOiBzZWFyY2hTdHJpbmcsCiAgICAgICAgbGltaXQ6IDUwCiAgICAgIH0pCiAgICAgIC50aGVuKGNvbXBhbmllcyA9PiB7CiAgICAgICAgaWYoY29tcGFuaWVzLmxlbmd0aCA9PT0gMCl7CiAgICAgICAgICB2bS5ub1Jlc3VsdHNGb3VuZCA9IHRydWU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHZtLm5vUmVzdWx0c0ZvdW5kID0gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICB2bS5yb3dDb2xsZWN0aW9uID0gY29tcGFuaWVzOwogICAgICB9KQogICAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgICAkZGNNb2RhbC5zaG93QWxlcnQoJ09vcHMsIHNlYXJjaCBmYWlsZWQhJywgZXJyLm1lc3NhZ2UpOwogICAgICB9KTsKICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBsZW5ndGggPSBkYXRhLmxlbmd0aDsK</text>
+        <text encoding="base64">ICAgICRzY29wZS4kd2F0Y2goJ3ZtLnNlYXJjaENvbVN0cicsIHNlYXJjaFN0cmluZyA9PiB7CiAgICAgIGlmICghc2VhcmNoU3RyaW5nIHx8IHNlYXJjaFN0cmluZy5sZW5ndGggPT09IDApIHsKICAgICAgICByZXR1cm4gMDsKICAgICAgfQoKICAgICAgdm0uc2VhcmNoU3RhcnRlZCA9IHRydWU7CiAgICAgIENvbXBhbnlTZXJ2aWNlLmdldENvbXBhbmllcyh7CiAgICAgICAgc2VhcmNoOiBzZWFyY2hTdHJpbmcsCiAgICAgICAgbGltaXQ6IDUwCiAgICAgIH0pCiAgICAgIC50aGVuKGNvbXBhbmllcyA9PiB7CiAgICAgICAgaWYoY29tcGFuaWVzLmxlbmd0aCA9PT0gMCl7CiAgICAgICAgICB2bS5ub1Jlc3VsdHNGb3VuZCA9IHRydWU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHZtLm5vUmVzdWx0c0ZvdW5kID0gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICB2bS5yb3dDb2xsZWN0aW9uID0gY29tcGFuaWVzOwogICAgICB9KQogICAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgICAkZGNNb2RhbC5zaG93QWxlcnQoJ09vcHMsIHNlYXJjaCBmYWlsZWQhJywgZXJyLm1lc3NhZ2UpOwogICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhOiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcihsZXQgaSA9IDA7IGkgPCBsZW5ndGg7IGkrKyl7CiAgICAgICAgICAgICAgICAgICAgbGV0IGRpY3QgPSAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBsZW5ndGggPSBkYXRhLmxlbmd0aDsK</text>
       </register>
-      <register name="9" type="4">
-        <text>.ng-dirty {
-	color: red !important;
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
