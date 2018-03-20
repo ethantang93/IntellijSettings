@@ -222,12 +222,12 @@
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/es_client.py" timestamp="1520364123476">
         <mark key="[" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1521125778064">
+      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1521561261487">
         <mark key="'" line="674" column="32" />
-        <mark key="[" line="670" column="36" />
-        <mark key="]" line="673" column="32" />
-        <mark key="^" line="673" column="32" />
-        <mark key="." line="673" column="32" />
+        <mark key="[" line="671" column="118" />
+        <mark key="]" line="672" column="43" />
+        <mark key="^" line="672" column="43" />
+        <mark key="." line="672" column="43" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/index.js" timestamp="1515193091176">
         <mark key="[" line="7" column="33" />
@@ -449,12 +449,12 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521126276457">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521561337920">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="226" column="40" />
-        <mark key="]" line="226" column="42" />
-        <mark key="^" line="226" column="42" />
-        <mark key="." line="226" column="42" />
+        <mark key="[" line="47" column="121" />
+        <mark key="]" line="47" column="126" />
+        <mark key="^" line="47" column="126" />
+        <mark key="." line="47" column="126" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
@@ -551,13 +551,13 @@
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1521063543372">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1521561355175">
         <mark key="p" line="57" column="0" />
         <mark key="'" line="156" column="13" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-        <mark key="^" line="161" column="119" />
+        <mark key="[" line="174" column="28" />
+        <mark key="]" line="175" column="23" />
+        <mark key="." line="175" column="23" />
+        <mark key="^" line="175" column="23" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
