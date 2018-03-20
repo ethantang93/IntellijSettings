@@ -62,10 +62,11 @@
         <mark key="^" line="3" column="149" />
         <mark key="." line="3" column="149" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1521010359728">
-        <mark key="]" line="83" column="79" />
-        <mark key="^" line="83" column="79" />
-        <mark key="." line="83" column="79" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1521563248560">
+        <mark key="[" line="132" column="82" />
+        <mark key="]" line="132" column="82" />
+        <mark key="^" line="128" column="76" />
+        <mark key="." line="132" column="82" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
         <mark key="[" line="27" column="69" />
@@ -168,9 +169,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1521059421440">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1520374679765">
         <mark key="[" line="0" column="0" />
       </file>
@@ -222,12 +220,12 @@
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/es_client.py" timestamp="1520364123476">
         <mark key="[" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1521561261487">
+      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1521564603104">
         <mark key="'" line="674" column="32" />
-        <mark key="[" line="671" column="118" />
-        <mark key="]" line="672" column="43" />
-        <mark key="^" line="672" column="43" />
-        <mark key="." line="672" column="43" />
+        <mark key="[" line="668" column="43" />
+        <mark key="]" line="668" column="52" />
+        <mark key="^" line="668" column="52" />
+        <mark key="." line="668" column="52" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/index.js" timestamp="1515193091176">
         <mark key="[" line="7" column="33" />
@@ -449,12 +447,12 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521561337920">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521564384650">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="47" column="121" />
-        <mark key="]" line="47" column="126" />
-        <mark key="^" line="47" column="126" />
-        <mark key="." line="47" column="126" />
+        <mark key="[" line="216" column="70" />
+        <mark key="]" line="216" column="74" />
+        <mark key="^" line="216" column="74" />
+        <mark key="." line="216" column="74" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
@@ -498,7 +496,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521059990991">
+      <file name="/Dummy.txt" timestamp="1521562234398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -551,13 +549,13 @@
         <mark key="." line="45" column="106" />
         <mark key="^" line="45" column="106" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1521561355175">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1521564097648">
         <mark key="p" line="57" column="0" />
         <mark key="'" line="156" column="13" />
-        <mark key="[" line="174" column="28" />
-        <mark key="]" line="175" column="23" />
-        <mark key="." line="175" column="23" />
-        <mark key="^" line="175" column="23" />
+        <mark key="[" line="175" column="9" />
+        <mark key="]" line="177" column="29" />
+        <mark key="." line="177" column="29" />
+        <mark key="^" line="177" column="29" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
         <mark key="[" line="14" column="42" />
@@ -704,14 +702,14 @@
       <jump line="674" column="32" filename="$USER_HOME$/mvp-hdp/scripts/server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnKicqMTAgKyAnc2VuZGluZyByZXF1ZXN0IHRvIHVwZGF0ZScpCg==</text>
+      <register name="&quot;" type="4">
+        <text>if 'fein' in req</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>if 'fein' in req</text>
       </register>
       <register name="/" type="4">
         <text>street_addr1</text>
@@ -737,35 +735,35 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y29tcGFueSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0xID0gc2VsZi5tZXJnZV90d29fZGljdHMoaXRlbTEsIGl0ZW0yKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnKicqMTAgKyAnc2VuZGluZyByZXF1ZXN0IHRvIHVwZGF0ZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZlaW4nOiBmZWluCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgJ2luZm9ncm91cF9pZCcgaW4gaXRlbTE6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdGVtMlsnaW5mb2dyb3VwX2lkJ10gPSBpdGVtMVsnaW5mb2dyb3VwX2lkJ10KICAgICAgICAgICAgICAgICAgICAgICAgaWYgJ2R1bnNfbnVtYmVyJyBpbiBpdGVtMToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0yWydkdW5zX251bWJlciddID0gaXRlbTFbJ2R1bnNfbnVtYmVyJ10KICAgICAgICAgICAgICAgICAgICAgICAgaWYgJ2luZm9ncm91cF9pZCcgaW4gaXRlbTI6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdGVtMVsnaW5mb2dyb3VwX2lkJ10gPSBpdGVtMlsnaW5mb2dyb3VwX2lkJ10KICAgICAgICAgICAgICAgICAgICAgICAgaWYgJ2R1bnNfbnVtYmVyJyBpbiBpdGVtMjoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0xWydkdW5zX251bWJlciddID0gaXRlbTJbJ2R1bnNfbnVtYmVyJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maW5hbF9yZXNwb25zZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgJ2luZm9ncm91cF9pZCcgaW4gaXRlbTE6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdGVtMlsnaW5mb2dyb3VwX2lkJ10gPSBpdGVtMVsnaW5mb2dyb3VwX2lkJ10KICAgICAgICAgICAgICAgICAgICAgICAgaWYgJ2R1bnNfbnVtYmVyJyBpbiBpdGVtMToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0yWydkdW5zX251bWJlciddID0gaXRlbTFbJ2R1bnNfbnVtYmVyJ10KICAgICAgICAgICAgICAgICAgICAgICAgaWYgJ2luZm9ncm91cF9pZCcgaW4gaXRlbTI6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdGVtMVsnaW5mb2dyb3VwX2lkJ10gPSBpdGVtMlsnaW5mb2dyb3VwX2lkJ10KICAgICAgICAgICAgICAgICAgICAgICAgaWYgJ2R1bnNfbnVtYmVyJyBpbiBpdGVtMjoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0xWydkdW5zX251bWJlciddID0gaXRlbTJbJ2R1bnNfbnVtYmVyJ10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcGFueVsnJ10gPSBjb21wYW55LnBvcCgnJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdlaW4yJzogJycsCiAgICAgICAgICAgICAgICAnZWluMyc6ICcnLAogICAgICAgICAgICAgICAgJ2VpbjQnOiAnJywKICAgICAgICAgICAgICAgICdlaW41JzogJycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsIGNvbXBhbnlbJ3ByaW1hcnknXQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnKicqMTAgKyAnc2VuZGluZyByZXF1ZXN0IHRvIHVwZGF0ZScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsIGNvbXBhbnlbJ2NvdW50eV9maXBzJ10K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsIGNvbXBhbnlbJ3dlYnNpdGUnXQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maW5hbF9yZXNwb25zZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiZmluYWwgcmVzdWx0IHdpdGggbGVuZ3RoOnt9LCBcbnt9Ii5mb3JtYXQoZmluYWxfcmVzcG9uc2VbJ2NvdW50J10sIGpzb24uZHVtcHMoZmluYWxfcmVzcG9uc2VbJ2RvY3VtZW50cyddKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcGFueVsnJ10gPSBjb21wYW55LnBvcCgnJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbF9yZXNwb25zZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsIGNvbXBhbnlbJ3ByaW1hcnknXQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/street_addr1/company_name/g</text>
