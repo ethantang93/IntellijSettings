@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-main.template.html" timestamp="1519419105437">
@@ -224,6 +224,12 @@
         <mark key="." line="16" column="116" />
         <mark key="^" line="16" column="117" />
       </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company_matcher.py" timestamp="1521733810780">
+        <mark key="[" line="91" column="32" />
+        <mark key="]" line="91" column="32" />
+        <mark key="." line="91" column="32" />
+        <mark key="^" line="71" column="58" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/account/user.service.js" timestamp="1516143100171">
         <mark key="[" line="185" column="67" />
         <mark key="]" line="185" column="67" />
@@ -283,11 +289,11 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521658847959">
-        <mark key="[" line="235" column="34" />
-        <mark key="]" line="235" column="50" />
-        <mark key="." line="235" column="50" />
-        <mark key="^" line="235" column="50" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521733064383">
+        <mark key="[" line="243" column="19" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
+        <mark key="^" line="231" column="0" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDao.java" timestamp="1515774238770">
         <mark key="[" line="10" column="0" />
@@ -391,7 +397,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521657894606">
+      <file name="/Dummy.txt" timestamp="1521732824607">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -625,13 +631,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>whole foods</text>
+        <text>documents</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>whole foods</text>
+        <text>documents</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -640,7 +646,7 @@
         <text>kkkkkjjjjjdd6j</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBoYXNfZmVhdHVyZShzZWxmLCBpbnRha2VJZCwgZmVhdHVyZU5hbWUpOgogICAgICAgIHN0b3J5SWQgPSBzZWxmLmdldF9zdG9yeV9pZChpbnRha2VJZCkKICAgICAgICBjbGllbnRfcXVlcnkgPSAiU0VMRUNUIGNsaWVudF9pZCBmcm9tIGRhdGFjdWJlcy5zdG9yeV9hc3NpZ25tZW50IHdoZXJlIHN0b3J5X2lkPSciKyBzdHIoc3RvcnlJZCkrIiciCiAgICAgICAgY2xpZW50X3Jlc3VsdCA9IHNlbGYuZGIucXVlcnkoY2xpZW50X3F1ZXJ5KQogICAgICAgIGlmIGxlbihjbGllbnRfcmVzdWx0KSA+IDA6CiAgICAgICAgICAgIGNsaWVudElkID0gY2xpZW50X3Jlc3VsdFswXVsnY2xpZW50X2lkJ10KICAgICAgICAgICAgZmVhdHVyZU5hbWUgPSBmZWF0dXJlTmFtZQogICAgICAgICAgICBmZWF0dXJlX3F1ZXJ5ID0gIlNFTEVDVCAqIGZyb20gZGF0YWN1YmVzLmNsaWVudF9mZWF0dXJlcyB3aGVyZSBjbGllbnRfaWQ9JyIrIGNsaWVudElkKyInIEFORCBmZWF0dXJlX2lkPSAoIFNFTEVDVCBmZWF0dXJlX2lkIGZyb20gZGF0YWN1YmVzLmZlYXR1cmVzIHdoZXJlIGZlYXR1cmVfbmFtZT0nIitmZWF0dXJlTmFtZSsiJykiCiAgICAgICAgICAgIGZlYXR1cmVfcmVzdWx0ID0gc2VsZi5kYi5xdWVyeShmZWF0dXJlX3F1ZXJ5KQogICAgICAgICAgICBpZiBsZW4oZmVhdHVyZV9yZXN1bHQpPjA6CiAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgIGRlZiBzZWFyY2goc2VsZiwgY29tcGFueV9uYW1lLCBzdHJlZXQsIGNpdHksIHN0YXRlLCB6aXBfY29kZSwgZmVpbj1Ob25lLCBpbmZvZ3JvdXBfZW5hYmxlZD1UcnVlLCBkbmJfZW5hYmxlZD1UcnVlKToKICAgICAgICByZXR1cm4gc2VsZi5zZXRfc2VhcmNoX3Njb3BlKGluZm9ncm91cD1pbmZvZ3JvdXBfZW5hYmxlZCwgZG5iPWRuYl9lbmFibGVkKVwKICAgICAgICAgICAgLnBhcmFsbGVsX2NhbGxzKGNvbXBhbnlfbmFtZT1jb21wYW55X25hbWUsIHN0cmVldD1zdHJlZXQsIGNpdHk9Y2l0eSwgc3RhdGU9c3RhdGUsIHppcF9jb2RlPXppcF9jb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmVpbj1mZWluKVwKICAgICAgICAgICAgLmNsZWFuX2RhdGEoKVwKICAgICAgICAgICAgLnJlbW92ZV9kdXBsaWNhdGVzKClcCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkYi5jbG9zZSgpCg==</text>
