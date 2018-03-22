@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-main.template.html" timestamp="1519419105437">
@@ -224,11 +224,11 @@
         <mark key="." line="16" column="116" />
         <mark key="^" line="16" column="117" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company_matcher.py" timestamp="1521733810780">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company_matcher.py" timestamp="1521744783188">
         <mark key="[" line="91" column="32" />
-        <mark key="]" line="91" column="32" />
-        <mark key="." line="91" column="32" />
-        <mark key="^" line="71" column="58" />
+        <mark key="]" line="84" column="68" />
+        <mark key="." line="84" column="68" />
+        <mark key="^" line="84" column="68" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/account/user.service.js" timestamp="1516143100171">
         <mark key="[" line="185" column="67" />
@@ -289,11 +289,11 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521733064383">
-        <mark key="[" line="243" column="19" />
-        <mark key="]" line="231" column="0" />
-        <mark key="." line="231" column="0" />
-        <mark key="^" line="231" column="0" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521744880034">
+        <mark key="[" line="222" column="45" />
+        <mark key="]" line="222" column="45" />
+        <mark key="." line="222" column="45" />
+        <mark key="^" line="222" column="45" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDao.java" timestamp="1515774238770">
         <mark key="[" line="10" column="0" />
@@ -631,13 +631,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>documents</text>
+        <text>o</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>documents</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
