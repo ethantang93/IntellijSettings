@@ -425,6 +425,12 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1521752670687">
+        <mark key="[" line="247" column="55" />
+        <mark key="]" line="248" column="11" />
+        <mark key="^" line="248" column="11" />
+        <mark key="." line="248" column="11" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="0" />
