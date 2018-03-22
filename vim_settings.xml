@@ -467,6 +467,11 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1521747720566">
+        <mark key="[" line="208" column="31" />
+        <mark key="]" line="208" column="31" />
+        <mark key="." line="208" column="31" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="22" />
@@ -631,13 +636,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>&quot;41ea767b-3414-4268-96ba-e143e4388cbb</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>&quot;41ea767b-3414-4268-96ba-e143e4388cbb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -649,31 +654,31 @@
         <text encoding="base64">ICAgIGRlZiBzZWFyY2goc2VsZiwgY29tcGFueV9uYW1lLCBzdHJlZXQsIGNpdHksIHN0YXRlLCB6aXBfY29kZSwgZmVpbj1Ob25lLCBpbmZvZ3JvdXBfZW5hYmxlZD1UcnVlLCBkbmJfZW5hYmxlZD1UcnVlKToKICAgICAgICByZXR1cm4gc2VsZi5zZXRfc2VhcmNoX3Njb3BlKGluZm9ncm91cD1pbmZvZ3JvdXBfZW5hYmxlZCwgZG5iPWRuYl9lbmFibGVkKVwKICAgICAgICAgICAgLnBhcmFsbGVsX2NhbGxzKGNvbXBhbnlfbmFtZT1jb21wYW55X25hbWUsIHN0cmVldD1zdHJlZXQsIGNpdHk9Y2l0eSwgc3RhdGU9c3RhdGUsIHppcF9jb2RlPXppcF9jb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmVpbj1mZWluKVwKICAgICAgICAgICAgLmNsZWFuX2RhdGEoKVwKICAgICAgICAgICAgLnJlbW92ZV9kdXBsaWNhdGVzKClcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGIuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgTm90Rm91bmRFcnJvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZU5hbWUgPSBmZWF0dXJlTmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50SWQgPSBjbGllbnRfcmVzdWx0WzBdWydjbGllbnRfaWQnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oY2xpZW50X3Jlc3VsdCkgPiAwOgo=</text>
+        <text encoding="base64">ZnJvbSBlbGFzdGljc2VhcmNoLmV4Y2VwdGlvbnMgaW1wb3J0IE5vdEZvdW5kRXJyb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfcmVzdWx0ID0gc2VsZi5kYi5xdWVyeShjbGllbnRfcXVlcnkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfcXVlcnkgPSAiU0VMRUNUIGNsaWVudF9pZCBmcm9tIGRhdGFjdWJlcy5zdG9yeV9hc3NpZ25tZW50IHdoZXJlIHN0b3J5X2lkPSciKyBzdHIoc3RvcnlJZCkrIiciCg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5jbG9zZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yeUlkID0gc2VsZi5nZXRfc3RvcnlfaWQoaW50YWtlSWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGIuY2xvc2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
