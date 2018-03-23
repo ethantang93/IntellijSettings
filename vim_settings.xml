@@ -161,6 +161,9 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="4" column="23" />
       </file>
+      <file name="/Python Console" timestamp="1521838562909">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
         <mark key="[" line="134" column="22" />
         <mark key="]" line="134" column="32" />
@@ -445,7 +448,7 @@
       <file name="$USER_HOME$/ui/app/features/underwriting/intake-reassign-modal.template.html" timestamp="1521584995264">
         <mark key="[" line="48" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521835023464">
+      <file name="/Dummy.txt" timestamp="1521838506784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -467,19 +470,19 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1521836718376">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1521839693996">
         <mark key="'" line="251" column="139" />
-        <mark key="[" line="280" column="21" />
-        <mark key="]" line="281" column="28" />
-        <mark key="." line="281" column="28" />
-        <mark key="^" line="281" column="28" />
+        <mark key="[" line="259" column="113" />
+        <mark key="]" line="259" column="113" />
+        <mark key="^" line="259" column="135" />
+        <mark key="." line="259" column="113" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1521836680324">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1521837954362">
         <mark key="'" line="20" column="22" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="28" column="90" />
-        <mark key="^" line="28" column="0" />
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="6142" />
+        <mark key="." line="24" column="6142" />
+        <mark key="^" line="24" column="6142" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1517871684719">
         <mark key="[" line="5" column="40" />
@@ -663,16 +666,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>a</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>[/.get(</text>
+        <text>[/(/g</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -720,8 +723,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgRGljdFF1ZXJ5OgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBkaWN0aW9uYXJ5KToKICAgICAgICBzZWxmLmRpY3Rpb25hcnkgPSBkaWN0aW9uYXJ5CiAgICAgICAgc2VsZi52YWx1ZSA9IE5vbmUKICAgIGRlZiBnZXQoc2VsZiwga2V5LCBkZWZhdWx0PU5vbmUpOgogICAgICAgIGlmIGlzaW5zdGFuY2Uoa2V5LCBzdHIpOgogICAgICAgICAgICBpZiBzZWxmLnZhbHVlOgogICAgICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShzZWxmLnZhbHVlLCBsaXN0KToKICAgICAgICAgICAgICAgICAgICBzZWxmLnZhbHVlID0gW3YuZ2V0KGtleSwgZGVmYXVsdCkgaWYgdiBlbHNlIE5vbmUgZm9yIHYgaW4gc2VsZi52YWx1ZV0KICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgc2VsZi52YWx1ZSA9IHNlbGYudmFsdWUuZ2V0KGtleSwgZGVmYXVsdCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYudmFsdWUgPSBzZWxmLmRpY3Rpb25hcnkuZ2V0KGtleSwgZGVmYXVsdCkKICAgICAgICBlbGlmIGlzaW5zdGFuY2Uoa2V5LCBpbnQpOgogICAgICAgICAgICBzZWxmLnZhbHVlID0gc2VsZi52YWx1ZVtrZXldCgogICAgICAgIHJldHVybiBzZWxmCiAgICBkZWYgcmVzdWx0KHNlbGYpOgogICAgICAgIGlmIGlzaW5zdGFuY2Uoc2VsZi52YWx1ZSwgc3RyKSBvciBpc2luc3RhbmNlKHNlbGYudmFsdWUsIGludCkgb3IgaXNpbnN0YW5jZShzZWxmLnZhbHVlLCBmbG9hdCkgb3IgaXNpbnN0YW5jZShzZWxmLnZhbHVlLCB1bmljb2RlKToKICAgICAgICAgICAgcmV0dXJuIHNlbGYudmFsdWUKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gTm9uZQo=</text>
+      <register name="0" type="4">
+        <text>DictQuery(company)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -751,15 +754,15 @@
         <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHNlbGYuZGljdGlvbmFyeS5nZXQoa2V5KSwgbGlzdCk6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/[/.get(</text>
+        <text>s/[/(/g</text>
       </register>
     </registers>
     <search>
-      <last-search>[/.get(</last-search>
+      <last-search>[/(/g</last-search>
       <last-offset />
-      <last-pattern>[/.get(</last-pattern>
+      <last-pattern>[/(/g</last-pattern>
       <last-replace />
-      <last-substitute>[/.get(</last-substitute>
+      <last-substitute>[/(/g</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -776,6 +779,7 @@
         <entry>']*['/\//g</entry>
         <entry>['/.get('/g</entry>
         <entry>[/.get(</entry>
+        <entry>[/(/g</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -786,6 +790,7 @@
         <entry>s/']*['/\//g</entry>
         <entry>s/['/.get('/g</entry>
         <entry>s/[/.get(</entry>
+        <entry>s/[/(/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
