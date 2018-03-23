@@ -361,11 +361,11 @@
         <mark key="." line="2069" column="99" />
         <mark key="^" line="2070" column="36" />
       </file>
-      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1521821554187">
-        <mark key="[" line="603" column="68" />
-        <mark key="]" line="606" column="31" />
-        <mark key="^" line="606" column="31" />
-        <mark key="." line="606" column="31" />
+      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1521822447802">
+        <mark key="[" line="603" column="40" />
+        <mark key="]" line="603" column="42" />
+        <mark key="^" line="603" column="42" />
+        <mark key="." line="603" column="42" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-payroll.controller.js" timestamp="1519432295504">
         <mark key="[" line="93" column="12" />
@@ -645,14 +645,14 @@
       <jump line="0" column="30" filename="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-overview.template.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRJZCA9IHJlcXVlc3QuaGVhZGVycy5nZXQoImNsaWVudElkIikK</text>
+      <register name="&quot;" type="4">
+        <text>res_code</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>_detailed</text>
+        <text>res_code</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -664,28 +664,28 @@
         <text encoding="base64">ICAgICAgICBjbGllbnRJZCA9IHJlcXVlc3QuaGVhZGVycy5nZXQoImNsaWVudElkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJtb2dyYXBoaWMgPSBGaXJtb2dyYXBoaWMoKQo=</text>
+        <text encoding="base64">ICAgIHJlc19jb2RlID0gMjAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXEgPSBqc29uLmxvYWRzKHJlcXVlc3QuZGF0YSkK</text>
+        <text encoding="base64">ICAgIHJlc19jb2RlID0gMjAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcGFueS51cGRhdGUoY29tcGFueV9kZXRhaWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaXJtb2dyYXBoaWMgPSBGaXJtb2dyYXBoaWMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGVsYXN0aWNzZWFyY2gK</text>
+        <text encoding="base64">ICAgICAgICByZXEgPSBqc29uLmxvYWRzKHJlcXVlc3QuZGF0YSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVzID0gZWxhc3RpY3NlYXJjaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcGFueS51cGRhdGUoY29tcGFueV9kZXRhaWwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBjb21wYW55Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVsYXN0aWNzZWFyY2gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVzID0gZWxhc3RpY3NlYXJjaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgY29tcGFueQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBjb21wYW55Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
