@@ -266,6 +266,9 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="4" column="23" />
       </file>
+      <file name="/Python Console" timestamp="1521757036358">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
         <mark key="[" line="134" column="22" />
         <mark key="]" line="134" column="32" />
@@ -289,11 +292,11 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521749337140">
-        <mark key="[" line="229" column="12" />
-        <mark key="]" line="229" column="66" />
-        <mark key="." line="229" column="66" />
-        <mark key="^" line="229" column="66" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521759243643">
+        <mark key="[" line="241" column="62" />
+        <mark key="]" line="224" column="10" />
+        <mark key="." line="224" column="10" />
+        <mark key="^" line="224" column="10" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDao.java" timestamp="1515774238770">
         <mark key="[" line="10" column="0" />
@@ -397,7 +400,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521732824607">
+      <file name="/Dummy.txt" timestamp="1521758871940">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -425,11 +428,11 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1521752670687">
-        <mark key="[" line="247" column="55" />
-        <mark key="]" line="248" column="11" />
-        <mark key="^" line="248" column="11" />
-        <mark key="." line="248" column="11" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1521755963386">
+        <mark key="[" line="250" column="13" />
+        <mark key="]" line="250" column="13" />
+        <mark key="." line="250" column="13" />
+        <mark key="^" line="253" column="59" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
         <mark key="[" line="156" column="0" />
@@ -642,13 +645,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>res</text>
+        <text>company</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>company</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -660,31 +663,31 @@
         <text encoding="base64">ICAgIGRlZiBzZWFyY2goc2VsZiwgY29tcGFueV9uYW1lLCBzdHJlZXQsIGNpdHksIHN0YXRlLCB6aXBfY29kZSwgZmVpbj1Ob25lLCBpbmZvZ3JvdXBfZW5hYmxlZD1UcnVlLCBkbmJfZW5hYmxlZD1UcnVlKToKICAgICAgICByZXR1cm4gc2VsZi5zZXRfc2VhcmNoX3Njb3BlKGluZm9ncm91cD1pbmZvZ3JvdXBfZW5hYmxlZCwgZG5iPWRuYl9lbmFibGVkKVwKICAgICAgICAgICAgLnBhcmFsbGVsX2NhbGxzKGNvbXBhbnlfbmFtZT1jb21wYW55X25hbWUsIHN0cmVldD1zdHJlZXQsIGNpdHk9Y2l0eSwgc3RhdGU9c3RhdGUsIHppcF9jb2RlPXppcF9jb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmVpbj1mZWluKVwKICAgICAgICAgICAgLmNsZWFuX2RhdGEoKVwKICAgICAgICAgICAgLnJlbW92ZV9kdXBsaWNhdGVzKClcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVzX2NvbXBhbnlfYXBpID0gRXNDb21wYW55U2VhcmNoKCkKICAgICAgICBzZWxmLmluZm9ncm91cEFwaSA9IEluZm9ncm91cEFwaSgpCiAgICAgICAgc2VsZi5kbmJBcGkgPSBEbmJBcGkoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBjb21wYW55Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgY29tcGFueQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgTm90Rm91bmRFcnJvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">CiAgICBkZWYgdXBkYXRlX2RpY3Rfd2l0aF9uZXdfZmllbGRzKHNlbGYsIHgsIHkpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlbGFzdGljc2VhcmNoLmV4Y2VwdGlvbnMgaW1wb3J0IE5vdEZvdW5kRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbXBhbnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5kbmJfZW5hYmxlZDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW55ID0gY29tcGFueVsnT3JkZXJQcm9kdWN0UmVzcG9uc2UnXVsnT3JkZXJQcm9kdWN0UmVzcG9uc2VEZXRhaWwnXVsnUHJvZHVjdCddWydPcmdhbml6YXRpb24nXQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
