@@ -292,7 +292,7 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521823353960">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1521824017107">
         <mark key="[" line="237" column="54" />
         <mark key="]" line="237" column="65" />
         <mark key="." line="237" column="65" />
@@ -428,11 +428,11 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1521755963386">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1521824078031">
         <mark key="[" line="250" column="13" />
-        <mark key="]" line="250" column="13" />
-        <mark key="." line="250" column="13" />
-        <mark key="^" line="253" column="59" />
+        <mark key="]" line="249" column="117" />
+        <mark key="." line="249" column="117" />
+        <mark key="^" line="249" column="117" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
         <mark key="[" line="156" column="0" />
