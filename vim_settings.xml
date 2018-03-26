@@ -476,12 +476,12 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1522095744412">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1522098185144">
         <mark key="'" line="251" column="139" />
-        <mark key="[" line="163" column="22" />
-        <mark key="]" line="165" column="136" />
-        <mark key="^" line="165" column="136" />
-        <mark key="." line="165" column="136" />
+        <mark key="[" line="315" column="56" />
+        <mark key="]" line="315" column="56" />
+        <mark key="^" line="315" column="56" />
+        <mark key="." line="315" column="56" />
       </file>
       <file name="$USER_HOME$/mvp-hdp/deprecated/server.py" timestamp="1522013794634" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1521837954362">
@@ -672,14 +672,14 @@
       <jump line="251" column="139" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRuYl9jb24K</text>
+      <register name="&quot;" type="4">
+        <text>60173</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>scope</text>
+        <text>60173</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
@@ -700,9 +700,12 @@
         <text encoding="base64">ICAgICAgICAgICAgZm9yIGNvbXBhbnkgaW4gc2VsZi5maW5hbF9yZXNwb25zZVsnY29tcGFuaWVzJ106CiAgICAgICAgICAgICAgICBwYXlsb2FkID0gewogICAgICAgICAgICAgICAgICAgICdjaXR5JzogY2Fwd29yZHMoY29tcGFueVsnY2l0eSddKSwKICAgICAgICAgICAgICAgICAgICAnY29tcGFueUlkJzogY29tcGFueVsnY29tcGFueV9pZCddLAogICAgICAgICAgICAgICAgICAgICdlaW5fMSc6IGNvbXBhbnlbJ2Vpbl8xJ10gaWYgJ2Vpbl8xJyBpbiBjb21wYW55IGVsc2UgJycsCiAgICAgICAgICAgICAgICAgICAgJ2Vpbl8yJzogY29tcGFueVsnZWluXzInXSBpZiAnZWluXzInIGluIGNvbXBhbnkgZWxzZSAnJywKICAgICAgICAgICAgICAgICAgICAnZWluXzMnOiBjb21wYW55WydlaW5fMyddIGlmICdlaW5fMycgaW4gY29tcGFueSBlbHNlICcnLAogICAgICAgICAgICAgICAgICAgICdlaW5fNCc6IGNvbXBhbnlbJ2Vpbl80J10gaWYgJ2Vpbl80JyBpbiBjb21wYW55IGVsc2UgJycsCiAgICAgICAgICAgICAgICAgICAgJ2Vpbl81JzogY29tcGFueVsnZWluXzUnXSBpZiAnZWluXzUnIGluIGNvbXBhbnkgZWxzZSAnJywKICAgICAgICAgICAgICAgICAgICAnbmFtZSc6IGNhcHdvcmRzKGNvbXBhbnlbJ2NvbXBhbnlfbmFtZSddKSwKICAgICAgICAgICAgICAgICAgICAnc3RhdGUnOiBjb21wYW55WydzdGF0ZSddLAogICAgICAgICAgICAgICAgICAgICdzdHJlZXRBZGRyMSc6IGNhcHdvcmRzKGNvbXBhbnlbJ3N0cmVldF9hZGRyMSddKSwKICAgICAgICAgICAgICAgICAgICAnc3RyZWV0QWRkcjInOiBjYXB3b3Jkcyhjb21wYW55WydzdHJlZXRfYWRkcjInXSkgaWYgJ3N0cmVldF9hZGRyMicgaW4gY29tcGFueSBlbHNlICcnLAogICAgICAgICAgICAgICAgICAgICd6aXAnOiBjb21wYW55Wyd6aXAnXQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmVzdWx0LmFwcGVuZChwYXlsb2FkKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdJTCcgaW4gc3RhdGVzKQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGRuYl9jb24K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>NJ
 NEW MEXICO	NM
 NEW YORK	NY
@@ -725,26 +728,23 @@ WEST VIRGINIA	WV
 WISCONSIN	WI
 WYOMING	W</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAnemlwJzogJzgwMTI5Jwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J3dhbmVyIGNvbnN0cnVjdGlvbicsIHppcF9jb2RlPSc4MDEyOScpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi52YWx1ZToKICAgICAgICAgICAgcmV0dXJuIHNlbGYK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgRGljdFF1ZXJ5KGRpY3QpOgogICAgZGVmIGdldChzZWxmLCBwYXRoLCBkZWZhdWx0PU5vbmUpOgogICAgICAgIGtleXMgPSBwYXRoLnNwbGl0KCIvIikKICAgICAgICB2YWwgPSBOb25lCgogICAgICAgIGZvciBrZXkgaW4ga2V5czoKICAgICAgICAgICAgaWYgdmFsOgogICAgICAgICAgICAgICAgaWYgaXNpbnN0YW5jZSh2YWwsIGxpc3QpOgogICAgICAgICAgICAgICAgICAgIHZhbCA9IFt2LmdldChrZXksIGRlZmF1bHQpIGlmIHYgZWxzZSBOb25lIGZvciB2IGluIHZhbF0KICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgdmFsID0gdmFsLmdldChrZXksIGRlZmF1bHQpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICB2YWwgPSBkaWN0LmdldChzZWxmLCBrZXksIGRlZmF1bHQpCgogICAgICAgICAgICBpZiBub3QgdmFsOgogICAgICAgICAgICAgICAgcmV0dXJuICcnCgogICAgICAgIHJldHVybiB2YWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/[/(/g</text>
