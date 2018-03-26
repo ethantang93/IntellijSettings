@@ -470,12 +470,12 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1522014612446">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1522078540048">
         <mark key="'" line="251" column="139" />
-        <mark key="[" line="156" column="138" />
-        <mark key="]" line="156" column="57" />
-        <mark key="^" line="156" column="57" />
-        <mark key="." line="156" column="57" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="24" />
+        <mark key="^" line="159" column="73" />
+        <mark key="." line="159" column="24" />
       </file>
       <file name="$USER_HOME$/mvp-hdp/deprecated/server.py" timestamp="1522013794634" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1521837954362">
@@ -666,14 +666,14 @@
       <jump line="251" column="139" filename="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
