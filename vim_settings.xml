@@ -9,6 +9,12 @@
         <mark key="^" line="13" column="55" />
         <mark key="." line="13" column="55" />
       </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/intake-list.controller.js" timestamp="1522178046626">
+        <mark key="[" line="160" column="30" />
+        <mark key="]" line="160" column="37" />
+        <mark key="." line="160" column="37" />
+        <mark key="^" line="160" column="37" />
+      </file>
       <file name="$USER_HOME$/ui/.idea/codeStyleSettings.xml" timestamp="1517604687887">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="9" />
@@ -222,10 +228,11 @@
         <mark key="^" line="3" column="189" />
         <mark key="." line="3" column="180" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/intake-reassign-modal.controller.js" timestamp="1521585016566">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/ui/app/features/underwriting/intake-reassign-modal.controller.js" timestamp="1522177942937">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="15" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.2.RELEASE/spring-web-4.3.2.RELEASE-sources.jar!/org/springframework/web/client/RestOperations.java" timestamp="1521822049145" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-edit.template.html" timestamp="1518199036196">
@@ -381,8 +388,11 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/intake-reassign-modal.template.html" timestamp="1521584995264">
-        <mark key="[" line="48" column="29" />
+      <file name="$USER_HOME$/ui/app/features/underwriting/intake-reassign-modal.template.html" timestamp="1522177907921">
+        <mark key="[" line="39" column="73" />
+        <mark key="]" line="39" column="74" />
+        <mark key="." line="39" column="74" />
+        <mark key="^" line="39" column="72" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" timestamp="1515711598465">
         <mark key="[" line="20" column="26" />
@@ -624,13 +634,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>I</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>I</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -642,31 +652,31 @@
         <text encoding="base64">ICAgICAgICBFbGFzdGljU2VhcmNoSGRwQ2xpZW50IGVzPW5ldyBFbGFzdGljU2VhcmNoSGRwQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZTogdm0uc3RhdGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdGF0ZTogdm0uc3RhdGUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaXR5OiB2bS5jaXR5LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjaXR5OiB2bS5jaXR5LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlZXQ6IHZtLnN0cmVldCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdHJlZXQ6IHZtLnN0cmVldCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSnNvbk5vZGUgZDNjb21wYW55ID0gb3ZlcnZpZXdDbGllbnQuZ2V0KGNvbXBhbnlJZCwgImQzY29tcGFueSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZTogdm0uc3RhdGUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaXR5OiB2bS5jaXR5LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiY2xpZW50IGlkIGlzICIgKyBjbGllbnRJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJlZXQ6IHZtLnN0cmVldCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiY29udGFpbnMgY2xpZW50aWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSnNvbk5vZGUgZDNjb21wYW55ID0gb3ZlcnZpZXdDbGllbnQuZ2V0KGNvbXBhbnlJZCwgImQzY29tcGFueSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJnZXR0aW5nIGNsaWVudCBpZCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzYyBpcyBub3QgbnVsbCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiY2xpZW50IGlkIGlzICIgKyBjbGllbnRJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
