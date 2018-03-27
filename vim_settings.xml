@@ -56,11 +56,11 @@
         <mark key="^" line="3" column="149" />
         <mark key="." line="3" column="149" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1522170415663">
-        <mark key="[" line="0" column="12" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1522181265561">
+        <mark key="[" line="86" column="45" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
-        <mark key="^" line="146" column="43" />
+        <mark key="^" line="147" column="43" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
         <mark key="[" line="27" column="69" />
