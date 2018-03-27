@@ -56,6 +56,12 @@
         <mark key="^" line="3" column="149" />
         <mark key="." line="3" column="149" />
       </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1522103230294">
+        <mark key="[" line="155" column="4" />
+        <mark key="]" line="154" column="9" />
+        <mark key="." line="154" column="9" />
+        <mark key="^" line="154" column="9" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="28" column="27" />
@@ -244,6 +250,11 @@
         <mark key="]" line="1715" column="41" />
         <mark key="." line="1715" column="41" />
         <mark key="^" line="1715" column="41" />
+      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/api_keys.ini" timestamp="1522102527321">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
         <mark key="[" line="156" column="0" />
@@ -470,9 +481,9 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1522099845161">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1522102166198">
         <mark key="'" line="251" column="139" />
-        <mark key="[" line="32" column="0" />
+        <mark key="[" line="31" column="0" />
         <mark key="]" line="32" column="160" />
         <mark key="^" line="315" column="56" />
         <mark key="." line="315" column="56" />
@@ -509,11 +520,11 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1522100790321">
-        <mark key="[" line="162" column="69" />
-        <mark key="]" line="163" column="24" />
-        <mark key="." line="163" column="24" />
-        <mark key="^" line="163" column="24" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1522102176752">
+        <mark key="[" line="161" column="62" />
+        <mark key="]" line="161" column="67" />
+        <mark key="." line="161" column="67" />
+        <mark key="^" line="161" column="67" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
         <mark key="[" line="5" column="21" />
@@ -667,13 +678,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,AK,AZ,AR,CA,CO,CT,DE,FL,GA,HI,ID,IL,IN,IA,KS,KY,LA,ME,MD,MA,MI,MN,MS,MO,MT,NE,NV,NH,NJ,NM,NY,NC,ND,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VT,VA,WA,WV,WI,</text>
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>,AK,AZ,AR,CA,CO,CT,DE,FL,GA,HI,ID,IL,IN,IA,KS,KY,LA,ME,MD,MA,MI,MN,MS,MO,MT,NE,NV,NH,NJ,NM,NY,NC,ND,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VT,VA,WA,WV,WI,</text>
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
@@ -691,54 +702,34 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJMb2FkaW5nIFN0YXRlcyBpbmZvcm1hdGlvbiB0byByZXN0cmljdCBDb21wYW55IFNlYXJjaCBzY29wZSFcbiBhbGxvd2luZyBzZWFyY2ggd2l0aGluIHt9IHN0YXRlcyBsaXN0ZWQgYmVsb3cuIFxue30iLmZvcm1hdChsZW4oc3RhdGVzKSwgc3RhdGVzKSkK</text>
+        <text encoding="base64">ICAgIHN0YXRlcyA9IGRuYl9jb25maWcuZ2V0KCdzZWFyY2hfc3RhdGVzJywgJ3N0YXRlcycpLnNwbGl0KCcsJykKICAgIGxvZ2dlci5pbmZvKCJMb2FkaW5nIFN0YXRlcyBpbmZvcm1hdGlvbiB0byByZXN0cmljdCBDb21wYW55IFNlYXJjaCBzY29wZSFcbiBhbGxvd2luZyBzZWFyY2ggd2l0aGluIHt9IHN0YXRlcyBsaXN0ZWQgYmVsb3cuIFxue30iLmZvcm1hdChsZW4oc3RhdGVzKSwgc3RhdGVzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXNfcmVzID0gZXNfcmVzCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW5pZXMgPSByZXNwb25zZVsnZG9jdW1lbnRzJ10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW5pZXMgPSBbJyddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhdGVzX2NvbmZpZyA9IENvbmZpZ1BhcnNlci5Db25maWdQYXJzZXIoKQpoZXJlID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykpCmxvY2FsX3BhdGggPSBvcy5wYXRoLmpvaW4oaGVyZSwgJ2FwaV9rZXlzLmluaScpCnN0YXRlc19jb25maWcucmVhZChsb2NhbF9wYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHJlc3VsdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYudmVyYm9zZToKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiUmVzcG9uc2UgZnJvbSBJbmZvZ3JvdXAgaXMgYmVsb3c6IFxue30iLmZvcm1hdChqc29uLmR1bXBzKGpzb24ubG9hZHMoaW5mb2dyb3VwX3Jlc3BvbnNlLnRleHQpKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RhdGVzX2NvbmZpZy5yZWFkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXNfcmVzID0gZXNfcmVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdJTCcgaW4gc3RhdGVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRuYl9jb24K</text>
+        <text encoding="base64">c3RhdGVzX2NvbmZpZyA9IENvbmZpZ1BhcnNlci5Db25maWdQYXJzZXIoKQpoZXJlID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykpCmxvY2FsX3BhdGggPSBvcy5wYXRoLmpvaW4oaGVyZSwgJ2FwaV9rZXlzLmluaScpCnN0YXRlc19jb25maWcucmVhZChsb2NhbF9wYXRoKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>NJ
-NEW MEXICO	NM
-NEW YORK	NY
-NORTH CAROLINA	NC
-NORTH DAKOTA	ND
-OHIO	OH
-OKLAHOMA	OK
-OREGON	OR
-PENNSYLVANIA	PA
-RHODE ISLAND	RI
-SOUTH CAROLINA	SC
-SOUTH DAKOTA	SD
-TENNESSEE	TN
-TEXAS	TX
-UTAH	UT
-VERMONT	VT
-VIRGINIA	VA
-WASHINGTON	WA
-WEST VIRGINIA	WV
-WISCONSIN	WI
-WYOMING	W</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnemlwJzogJzgwMTI5Jwo=</text>
+        <text encoding="base64">c3RhdGVzX2NvbmZpZy5yZWFkKCkK</text>
       </register>
       <register name=":" type="4">
         <text>s/[/(/g</text>
