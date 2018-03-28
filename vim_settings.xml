@@ -477,11 +477,11 @@
         <mark key="^" line="18" column="100" />
         <mark key="." line="18" column="100" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/cache/cache.py" timestamp="1522260837239">
-        <mark key="[" line="55" column="32" />
-        <mark key="]" line="56" column="16" />
-        <mark key="." line="56" column="16" />
-        <mark key="^" line="56" column="16" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/cache/cache.py" timestamp="1522262567886">
+        <mark key="[" line="53" column="58" />
+        <mark key="]" line="60" column="52" />
+        <mark key="." line="60" column="52" />
+        <mark key="^" line="60" column="52" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/index.js" timestamp="1514564128707">
         <mark key="[" line="2" column="63" />
@@ -686,13 +686,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pass</text>
+        <text>ger.info(&quot;caching to ES index:{}, body:{}&quot;.format(self.es_index, cache_value))</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>ger.info(&quot;caching to ES index:{}, body:{}&quot;.format(self.es_index, cache_value))</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
