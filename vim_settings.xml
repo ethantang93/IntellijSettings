@@ -20,12 +20,6 @@
         <mark key="^" line="15" column="81" />
         <mark key="." line="15" column="81" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" timestamp="1521832286819">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="18" />
-      </file>
       <file name="$USER_HOME$/es-tools/schema/asset_hub/sov_quote.sh" timestamp="1518043312179">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="9" />
@@ -161,6 +155,12 @@
         <mark key="^" line="31" column="26" />
         <mark key="." line="31" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" timestamp="1521832286819">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/ui/app/gulpfile.js" timestamp="1521579941823">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="26" />
@@ -181,12 +181,6 @@
         <mark key="]" line="34" column="29" />
         <mark key="^" line="34" column="29" />
         <mark key="." line="34" column="29" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1521833786616">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="5" />
-        <mark key="^" line="14" column="5" />
-        <mark key="." line="14" column="5" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDao.java" timestamp="1515774238770">
         <mark key="[" line="10" column="0" />
@@ -214,6 +208,13 @@
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-component.html" timestamp="1520439644074">
         <mark key="[" line="0" column="70" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1521837954362">
+        <mark key="'" line="20" column="22" />
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="6142" />
+        <mark key="." line="24" column="6142" />
+        <mark key="^" line="24" column="6142" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/index.js" timestamp="1515193091176">
         <mark key="[" line="7" column="33" />
@@ -428,12 +429,12 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/buildfax/buildfax_api.py" timestamp="1522425933438">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/buildfax/buildfax_api.py" timestamp="1522441989130">
         <mark key="'" line="122" column="31" />
-        <mark key="[" line="138" column="22" />
-        <mark key="]" line="138" column="29" />
-        <mark key="." line="138" column="29" />
-        <mark key="^" line="138" column="29" />
+        <mark key="[" line="49" column="43" />
+        <mark key="]" line="49" column="42" />
+        <mark key="." line="49" column="42" />
+        <mark key="^" line="49" column="42" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.controller.js" timestamp="1517852616947">
         <mark key="[" line="72" column="5" />
@@ -510,14 +511,6 @@
         <mark key="." line="331" column="0" />
         <mark key="^" line="220" column="70" />
       </file>
-      <file name="$USER_HOME$/mvp-hdp/deprecated/server.py" timestamp="1522013794634" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1521837954362">
-        <mark key="'" line="20" column="22" />
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="6142" />
-        <mark key="." line="24" column="6142" />
-        <mark key="^" line="24" column="6142" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1517871684719">
         <mark key="[" line="5" column="40" />
         <mark key="]" line="5" column="40" />
@@ -570,6 +563,12 @@
         <mark key="]" line="143" column="28" />
         <mark key="." line="143" column="28" />
         <mark key="^" line="143" column="28" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1521833786616">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="5" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
         <mark key="[" line="15" column="80" />
@@ -700,13 +699,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>buildfax_cache_namespace</text>
+        <text>elasticsearch</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>buildfax_cache_namespace</text>
+        <text>elasticsearch</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
