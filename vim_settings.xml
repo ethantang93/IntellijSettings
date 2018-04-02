@@ -372,11 +372,11 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/sql_model.py" timestamp="1522688234050">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="157" column="124" />
-        <mark key="^" line="154" column="3" />
-        <mark key="." line="156" column="0" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/sql_model.py" timestamp="1522692341046">
+        <mark key="[" line="158" column="32" />
+        <mark key="]" line="158" column="34" />
+        <mark key="^" line="158" column="34" />
+        <mark key="." line="158" column="34" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.controller.js" timestamp="1520366205808">
         <mark key="[" line="14" column="37" />
@@ -707,14 +707,14 @@
       <jump line="120" column="31" filename="$USER_HOME$/datacubes-lib/datacubes_lib/buildfax/buildfax_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV90cyA9IENvbHVtbihEYXRlVGltZSwgbnVsbGFibGU9RmFsc2UsIHNlcnZlcl9kZWZhdWx0PXRleHQoIkNVUlJFTlRfVElNRVNUQU1QIikpCiAgICBsYXN0X3VwZGF0ZWRfdHMgPSBDb2x1bW4oRGF0ZVRpbWUsIG51bGxhYmxlPUZhbHNlLCBzZXJ2ZXJfZGVmYXVsdD10ZXh0KCJDVVJSRU5UX1RJTUVTVEFNUCBPTiBVUERBVEUgQ1VSUkVOVF9USU1FU1RBTVAiKSkK</text>
+      <register name="&quot;" type="4">
+        <text>150</text>
       </register>
       <register name="j" type="4">
         <text>jjjjhjkkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>150</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
