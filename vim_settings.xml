@@ -372,6 +372,7 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/sql_model.py" timestamp="1522683667078" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.controller.js" timestamp="1520366205808">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="43" />
@@ -513,6 +514,7 @@
         <mark key="." line="331" column="0" />
         <mark key="^" line="220" column="70" />
       </file>
+      <file name="$USER_HOME$/mvp-hdp/deprecated/server.py" timestamp="1522682943443" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1517871684719">
         <mark key="[" line="5" column="40" />
         <mark key="]" line="5" column="40" />
