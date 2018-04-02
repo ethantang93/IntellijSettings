@@ -62,10 +62,6 @@
         <mark key="^" line="28" column="27" />
         <mark key="." line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/mvp-hdp/scripts/IntakeMonitoring.py" timestamp="1521657538058">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="116" column="19" />
-      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/FeatureService.java" timestamp="1515774706552">
         <mark key="[" line="35" column="9" />
         <mark key="]" line="36" column="19" />
