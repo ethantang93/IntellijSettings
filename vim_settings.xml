@@ -250,6 +250,7 @@
         <mark key="." line="1715" column="41" />
         <mark key="^" line="1715" column="41" />
       </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/address/address_validation.py" timestamp="1522784166300" />
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/api_keys.ini" timestamp="1522781127080">
         <mark key="[" line="11" column="9" />
         <mark key="]" line="11" column="9" />
@@ -286,6 +287,12 @@
         <mark key="^" line="204" column="29" />
         <mark key="." line="209" column="0" />
       </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/address/d3validation.py" timestamp="1522783730504">
+        <mark key="[" line="43" column="46" />
+        <mark key="]" line="43" column="54" />
+        <mark key="^" line="43" column="54" />
+        <mark key="." line="43" column="54" />
+      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/cache/request_tracking.py" timestamp="1522682518699">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="22" column="67" />
@@ -316,6 +323,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/address/street_name_standardization.py" timestamp="1522783031229">
+        <mark key="[" line="33" column="43" />
+        <mark key="]" line="33" column="49" />
+        <mark key="^" line="33" column="49" />
+        <mark key="." line="33" column="49" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/smarty_streets/properties.ini" timestamp="1522703371262" />
       <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_alias.json" timestamp="1518043569534">
@@ -446,12 +459,12 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/buildfax/buildfax_api.py" timestamp="1522772837229">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/buildfax/buildfax_api.py" timestamp="1522781958836">
         <mark key="'" line="122" column="31" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="49" column="70" />
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.controller.js" timestamp="1517852616947">
         <mark key="[" line="72" column="5" />
@@ -483,14 +496,19 @@
         <mark key="." line="11" column="152" />
         <mark key="^" line="11" column="152" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/address/city_state_standardization.py" timestamp="1522730734407" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/address/city_state_standardization.py" timestamp="1522782590649">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="18" column="15" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-create.controller.js" timestamp="1515799423236">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="11" column="53" />
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522768321209">
+      <file name="/Dummy.txt" timestamp="1522781993741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -715,59 +733,80 @@
       <jump line="25" column="4" filename="$USER_HOME$/datacubes-lib/datacubes_lib/parameters.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVzdCA9IFJlc3RDbGllbnQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
+      </register>
+      <register name="b" type="4">
+        <text>bbbbbbbbb</text>
       </register>
       <register name="j" type="4">
-        <text>jjjjhjkkkkkk</text>
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>section_name</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
       </register>
       <register name="o" type="4">
         <keys>
-          <key char="100" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="44" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="0" type="4">
         <text>CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVzdCA9IFJlc3RDbGllbnQoKQo=</text>
+        <text encoding="base64">c2VjdGlvbl9uYW1lID0gJ2NzZGV0YWlsJyAgIyBzZWN0aW9uIG5hbWUgaW4gcHJvcGVydGllcy5pbmkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhY3ViZXNfbGliLnJlc3RfY2xpZW50IGltcG9ydCBSZXN0Q2xpZW50Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">YXV0aF9pZCA9IHBhcmFtcy5nZXQoc2VjdGlvbl9uYW1lLCAnYXV0aF9pZCcpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c2VjdGlvbl9uYW1lID0gJ3NtYXJ0eV9hdXRoJyAgIyBzZWN0aW9uIG5hbWUgaW4gcHJvcGVydGllcy5pbmkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2VjdGlvbl9uYW1lID0gJ3NtYXJ0eV9hdXRoJyAgIyBzZWN0aW9uIG5hbWUgaW4gcHJvcGVydGllcy5pbmkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Y29uZmlnLnJlYWQob3MucGF0aC5qb2luKGhlcmUsICdwcm9wZXJ0aWVzLmluaScpKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aGVyZSA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2VjdGlvbl9uYW1lID0gJ3ppcDQnICAjIHNlY3Rpb24gbmFtZSBpbiBwcm9wZXJ0aWVzLmluaQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uZmlnLnJlYWQob3MucGF0aC5qb2luKGhlcmUsICdwcm9wZXJ0aWVzLmluaScpKQo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uZmlnID0gQ29uZmlnUGFyc2VyLkNvbmZpZ1BhcnNlcigpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZXNfY29uZmlnID0gQ29uZmlnUGFyc2VyLkNvbmZpZ1BhcnNlcigpCiAgICAgICAgaGVyZSA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKQogICAgICAgIGxvY2FsX3BhdGggPSBvcy5wYXRoLmpvaW4oaGVyZSwgJ2FwaV9rZXlzLmluaScpCiAgICAgICAgc3RhdGVzX2NvbmZpZy5yZWFkKGxvY2FsX3BhdGgpCg==</text>
+        <text encoding="base64">aGVyZSA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/[/(/g</text>
