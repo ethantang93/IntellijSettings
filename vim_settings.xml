@@ -38,7 +38,6 @@
         <mark key="^" line="15" column="81" />
         <mark key="." line="15" column="81" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/CompanyController.java" timestamp="1521657152379" />
       <file name="$USER_HOME$/es-tools/schema/asset_hub/sov_quote.sh" timestamp="1518043312179">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="9" />
@@ -234,7 +233,6 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.2.RELEASE/spring-web-4.3.2.RELEASE-sources.jar!/org/springframework/web/client/RestOperations.java" timestamp="1521822049145" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-edit.template.html" timestamp="1518199036196">
         <mark key="[" line="16" column="116" />
         <mark key="]" line="16" column="116" />
@@ -265,7 +263,6 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/risk360.analytics.controller.js" timestamp="1522089153500" />
       <file name="$USER_HOME$/ui/webroot/app/account/account-assign-user-client.controller.js" timestamp="1516142490389">
         <mark key="[" line="18" column="70" />
         <mark key="]" line="18" column="46" />
@@ -400,7 +397,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522101220199">
+      <file name="/Dummy.txt" timestamp="1522940132260">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
