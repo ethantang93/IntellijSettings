@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
@@ -7,5 +10,10 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="IntroduceVariable" />
+  <action id="IpnbRunAllCellsAction" />
   <action id="ParameterInfo" />
+  <action id="Run" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
 </keymap>
