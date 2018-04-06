@@ -166,11 +166,11 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/parameter/__init__.py" timestamp="1523031449953">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="38" />
-        <mark key="^" line="57" column="28" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/parameter/__init__.py" timestamp="1523033352685">
+        <mark key="[" line="67" column="57" />
+        <mark key="]" line="72" column="33" />
+        <mark key="^" line="72" column="33" />
+        <mark key="." line="72" column="33" />
       </file>
       <file name="$USER_HOME$/ui/app/gulpfile.js" timestamp="1521579941823">
         <mark key="[" line="5" column="25" />
@@ -511,7 +511,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523031467141">
+      <file name="/Dummy.txt" timestamp="1523033361725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -741,8 +741,8 @@
       <jump line="25" column="4" filename="$USER_HOME$/datacubes-lib/datacubes_lib/parameters.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgbm9pbnNwZWN0aW9uIFB5TWV0aG9kTWF5QmVTdGF0aWMK</text>
+      <register name="&quot;" type="4">
+        <text>value</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -762,7 +762,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ps</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
