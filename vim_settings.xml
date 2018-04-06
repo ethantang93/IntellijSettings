@@ -166,11 +166,11 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/parameter/__init__.py" timestamp="1523033352685">
-        <mark key="[" line="67" column="57" />
-        <mark key="]" line="72" column="33" />
-        <mark key="^" line="72" column="33" />
-        <mark key="." line="72" column="33" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/parameter/__init__.py" timestamp="1523044604501">
+        <mark key="[" line="68" column="57" />
+        <mark key="]" line="69" column="54" />
+        <mark key="." line="69" column="54" />
+        <mark key="^" line="69" column="54" />
       </file>
       <file name="$USER_HOME$/ui/app/gulpfile.js" timestamp="1521579941823">
         <mark key="[" line="5" column="25" />
@@ -387,11 +387,11 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/sql_model.py" timestamp="1522960533678">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="168" column="123" />
-        <mark key="^" line="160" column="69" />
-        <mark key="." line="160" column="69" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/sql_model.py" timestamp="1523044235137">
+        <mark key="[" line="167" column="51" />
+        <mark key="]" line="167" column="51" />
+        <mark key="^" line="167" column="33" />
+        <mark key="." line="167" column="51" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.controller.js" timestamp="1520366205808">
         <mark key="[" line="14" column="37" />
@@ -511,7 +511,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523033361725">
+      <file name="/Dummy.txt" timestamp="1523044691127">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -741,8 +741,8 @@
       <jump line="25" column="4" filename="$USER_HOME$/datacubes-lib/datacubes_lib/parameters.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhID0gc2NoZW1hLmxvYWQoanNvbl9kYXRhKQo=</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -762,7 +762,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
@@ -775,29 +775,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>synchronize_session</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNsaWVudF9pZCA9IENvbHVtbihGb3JlaWduS2V5KHUnY2xpZW50LmNsaWVudF9pZCcpLCBudWxsYWJsZT1GYWxzZSwgaW5kZXg9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbm9pbnNwZWN0aW9uIFB5TWV0aG9kTWF5QmVTdGF0aWMK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gc2NoZW1hLmxvYWQoanNvbl9kYXRhKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSByZXNvdXJjZXMucGFyYW1ldGVyIGltcG9ydCBQYXJhbWV0ZXJSZXNvdXJjZQo=</text>
+        <text encoding="base64">ICAgIHVzZXIgPSByZWxhdGlvbnNoaXAodSdVc2VyJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInBhcmFtX2lkIGlzIHt9Ii5mb3JtYXQocGFyYW1faWQpKQo=</text>
+        <text encoding="base64">ICAgICMgbm9pbnNwZWN0aW9uIFB5TWV0aG9kTWF5QmVTdGF0aWMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSByZXNvdXJjZXMucGFyYW1ldGVyIGltcG9ydCBQYXJhbWV0ZXJSZXNvdXJjZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CmRlZiBnZXQoc2VsZiwgaWQ9Tm9uZSk6CiAgICBpZiBpZCBpcyBOb25lOgogICAgICAgIGNzID0gQ2xpZW50U2NoZW1hKG1hbnk9VHJ1ZSkKICAgICAgICByZXR1cm4gY3MuZHVtcChDbGllbnREQi5xdWVyeS5hbGwoKSkKICAgIGVsc2U6CiAgICAgICAgY3MgPSBDbGllbnRTY2hlbWEoKQogICAgICAgIHRyeToKCiAgICAgICAgICAgIHJldHVybiBjcy5kdW1wKHJvdykKICAgICAgICBleGNlcHQgRXhjZXB0aW9uLCBlOgogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBnZXQgZGV0YWlscyBmb3IgdGhlIGNsaWVudDogIiArIHN0cihlKSkKICAgICAgICAgICAgYWJvcnQoNDAwLCAiRXJyb3IgZ2V0dGluZyB0aGUgY2xpZW50IGRldGFpbHMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInBhcmFtX2lkIGlzIHt9Ii5mb3JtYXQocGFyYW1faWQpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -811,10 +811,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93ID0gZGJfc2Vzc2lvbi5xdWVyeShDbGllbnREQikuZmlsdGVyKENsaWVudERCLmNsaWVudF9pZCA9PSBpZCkub25lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHR5cGUgaXMgTm9uZToKICAgICAgICAjICAgICB1c2VyID0ga2V5Y2xvYWtfYWRtaW4uZ2V0X3VzZXIoSWQpCiAgICAgICAgIyAgICAgaWYgREVCVUc6CiAgICAgICAgIyAgICAgICAgIGxvZ2dlci5pbmZvKCJVc2VyIEluZm8gYnkgSWQgPj4ge30sIHt9Ii5mb3JtYXQoSWQsIHVzZXIpKQogICAgICAgICMgICAgIHJldHVybiB1c2VyCiAgICAgICAgIyBlbHNlOgogICAgICAgICMgICAgIHVzZXJfaWQgPSBrZXljbG9ha19hZG1pbi5nZXRfdXNlcl9pZChJZCkKICAgICAgICAjICAgICB1c2VyID0ga2V5Y2xvYWtfYWRtaW4uZ2V0X3VzZXIodXNlcl9pZCkKICAgICAgICAjICAgICByZXR1cm4gdXNlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/[/(/g</text>
