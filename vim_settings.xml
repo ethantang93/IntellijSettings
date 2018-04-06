@@ -217,13 +217,6 @@
         <mark key="^" line="88" column="16" />
         <mark key="." line="87" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1521837954362">
-        <mark key="'" line="20" column="22" />
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="6142" />
-        <mark key="." line="24" column="6142" />
-        <mark key="^" line="24" column="6142" />
-      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/es_client.py" timestamp="1522894283512" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/index.js" timestamp="1515193091176">
         <mark key="[" line="7" column="33" />
@@ -539,7 +532,7 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1522788046017">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1523030766948">
         <mark key="'" line="267" column="139" />
         <mark key="[" line="144" column="54" />
         <mark key="]" line="144" column="57" />
