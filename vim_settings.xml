@@ -83,6 +83,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1523213881696">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/api-gw/scripts/resources/client/__init__.py" timestamp="1523047823634">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="33" column="68" />
@@ -144,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/underwritingRisk360PrefilledMainView.html" />
       <jump line="0" column="14" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/underwritingRisk360PrefilledContactView.html" />
       <jump line="5" column="235" filename="$USER_HOME$/ui/webroot/app/underwriting/asset-list.controller.js" />
       <jump line="63" column="18" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" />
@@ -244,6 +247,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/datacubes-lib/datacubes_lib/parameters.py" />
       <jump line="17" column="23" filename="$USER_HOME$/datacubes-lib/datacubes_lib/parameters.py" />
       <jump line="25" column="4" filename="$USER_HOME$/datacubes-lib/datacubes_lib/parameters.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -379,6 +383,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

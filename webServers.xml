@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6f138ced-4eb1-4aeb-a1cf-2067465f96b2" name="ethan@dev51-app.datacubes.io:22" url="http:///">
+        <fileTransfer host="dev51-app.datacubes.io" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
