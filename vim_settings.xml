@@ -3,26 +3,176 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-main.template.html" timestamp="1520369771723">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="0" column="96" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill.directives.js" timestamp="1520439141054">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" timestamp="1518197756026">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="81" />
+        <mark key="^" line="15" column="81" />
+        <mark key="." line="15" column="81" />
+      </file>
+      <file name="$USER_HOME$/es-tools/schema/asset_hub/sov_quote.sh" timestamp="1518043312179">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-edit.template.html" timestamp="1520370054256">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="7" column="124" />
+        <mark key="." line="7" column="124" />
+        <mark key="^" line="7" column="124" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/account/account-users.controller.js" timestamp="1516213186665">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="155" column="42" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/entity/ClientFeatures.java" timestamp="1515713529675">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="31" column="27" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/shared/nav/subnavViewIntake.html" timestamp="1516055530612">
+        <mark key="[" line="3" column="142" />
+        <mark key="]" line="3" column="149" />
+        <mark key="^" line="3" column="149" />
+        <mark key="." line="3" column="149" />
+      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1522702585500">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="16" column="17" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
+        <mark key="[" line="27" column="69" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/FeatureService.java" timestamp="1515774706552">
+        <mark key="[" line="35" column="9" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+        <mark key="^" line="36" column="19" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/config/prod/config-prod.properties" timestamp="1517955782862">
+        <mark key="[" line="76" column="91" />
+        <mark key="]" line="76" column="106" />
+        <mark key="." line="76" column="106" />
+        <mark key="^" line="76" column="106" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/assets/sass/materialize/_dropdown.scss" timestamp="1516051734209">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun.controller.js" timestamp="1519429895167">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/super-admin/client-create.template.html" timestamp="1515799312233">
+        <mark key="[" line="12" column="107" />
+        <mark key="]" line="12" column="117" />
+        <mark key="^" line="12" column="117" />
+        <mark key="." line="12" column="117" />
+      </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/intake-new-modal.template.html" timestamp="1521584992293">
+        <mark key="[" line="59" column="14" />
+        <mark key="]" line="60" column="11" />
+        <mark key="^" line="60" column="11" />
+        <mark key="." line="60" column="11" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.controller.js" timestamp="1515798637681">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="11" column="35" />
+      </file>
+      <file name="$USER_HOME$/acord-test/src/App.js" timestamp="1517959409418">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeatureDao.java" timestamp="1515710815683">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-company-info-view.html" timestamp="1520439430360">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="33" />
+        <mark key="." line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord.controller.js" timestamp="1514564085922">
+        <mark key="[" line="3" column="179" />
+        <mark key="]" line="3" column="180" />
+        <mark key="^" line="3" column="189" />
+        <mark key="." line="3" column="180" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-edit.template.html" timestamp="1518199036196">
+        <mark key="[" line="16" column="116" />
+        <mark key="]" line="16" column="116" />
+        <mark key="." line="16" column="116" />
+        <mark key="^" line="16" column="117" />
+      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company_matcher.py" timestamp="1521744783188">
+        <mark key="[" line="91" column="32" />
+        <mark key="]" line="84" column="68" />
+        <mark key="." line="84" column="68" />
+        <mark key="^" line="84" column="68" />
+      </file>
       <file name="$USER_HOME$/api-gw/scripts/app.py" timestamp="1523027797654">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDaoImpl.java" timestamp="1515774405231">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+        <mark key="." line="31" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" timestamp="1521832286819">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/api-gw/scripts/resources/parameter/__init__.py" timestamp="1523048215683">
-        <mark key="[" line="92" column="37" />
-        <mark key="]" line="92" column="54" />
-        <mark key="^" line="92" column="54" />
-        <mark key="." line="92" column="54" />
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="54" />
+        <mark key="^" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+      </file>
+      <file name="$USER_HOME$/ui/app/gulpfile.js" timestamp="1521579941823">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/smarty_streets/smarty_streets.py" timestamp="1522768602833">
         <mark key="[" line="24" column="24" />
@@ -30,14 +180,116 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="22" column="35" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
+        <mark key="[" line="134" column="22" />
+        <mark key="]" line="134" column="32" />
+        <mark key="." line="134" column="32" />
+        <mark key="^" line="134" column="32" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.view.html" timestamp="1517852672220">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDao.java" timestamp="1515774238770">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/account/account-assign-user-client.html" timestamp="1516146905772">
+        <mark key="[" line="13" column="83" />
+        <mark key="]" line="13" column="83" />
+        <mark key="^" line="13" column="89" />
+        <mark key="." line="13" column="83" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/account/account-users.template.html" timestamp="1516147973938">
+        <mark key="[" line="41" column="71" />
+        <mark key="]" line="41" column="83" />
+        <mark key="." line="41" column="83" />
+        <mark key="^" line="41" column="83" />
+      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/rest_client.py" timestamp="1522772346117" />
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/pom.xml" timestamp="1517333837761">
+        <mark key="[" line="87" column="19" />
+        <mark key="]" line="87" column="20" />
+        <mark key="^" line="88" column="16" />
+        <mark key="." line="87" column="20" />
+      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/es_client.py" timestamp="1522894283512" />
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/loss-run/index.js" timestamp="1515193091176">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/mvp-deploy/aws/standalone/template-d3app.json" timestamp="1516814305024">
+        <mark key="[" line="2069" column="99" />
+        <mark key="]" line="2069" column="99" />
+        <mark key="." line="2069" column="99" />
+        <mark key="^" line="2070" column="36" />
+      </file>
+      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1522016177401">
+        <mark key="[" line="589" column="106" />
+        <mark key="]" line="589" column="124" />
+        <mark key="^" line="589" column="124" />
+        <mark key="." line="589" column="124" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/risk360.analytics.template.html" timestamp="1518126285116">
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="50" />
+        <mark key="." line="21" column="50" />
+        <mark key="^" line="21" column="94" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" timestamp="1515711598465">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="20" column="26" />
+      </file>
+      <file name="$USER_HOME$/liquibase/liquibase-bin/conf/com.datacubes/datacubes.changelog.xml" timestamp="1518649136830">
+        <mark key="[" line="1715" column="39" />
+        <mark key="]" line="1715" column="41" />
+        <mark key="." line="1715" column="41" />
+        <mark key="^" line="1715" column="41" />
+      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/address/address_validation.py" timestamp="1522784166300" />
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/api_keys.ini" timestamp="1522781127080">
         <mark key="[" line="11" column="9" />
         <mark key="]" line="11" column="9" />
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="153" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="^" line="147" column="13" />
+        <mark key="." line="156" column="0" />
+      </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/sov/sov-overview.controller.js" timestamp="1520381451338">
+        <mark key="[" line="37" column="290" />
+        <mark key="]" line="42" column="51" />
+        <mark key="^" line="42" column="51" />
+        <mark key="." line="42" column="51" />
+      </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/intake-new-modal.controller.js" timestamp="1521585023786">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/HdpPropertyClient.java" timestamp="1519840162689">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="99" column="18" />
+        <mark key="." line="99" column="18" />
+        <mark key="^" line="99" column="18" />
+      </file>
+      <file name="$USER_HOME$/ui/app/features/shared/tools/asset.service.js" timestamp="1520380661708">
+        <mark key="[" line="204" column="52" />
+        <mark key="]" line="209" column="0" />
+        <mark key="^" line="204" column="29" />
+        <mark key="." line="209" column="0" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/address/d3validation.py" timestamp="1522790141915">
         <mark key="]" line="38" column="61" />
@@ -51,25 +303,97 @@
         <mark key="." line="22" column="84" />
         <mark key="^" line="22" column="84" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-main.template.html" timestamp="1519419105437">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="55" />
+        <mark key="^" line="13" column="55" />
+        <mark key="." line="13" column="55" />
+      </file>
+      <file name="$USER_HOME$/ui/.idea/codeStyleSettings.xml" timestamp="1517604687887">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/properties.ini" timestamp="1522703888259" />
+      <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.html" timestamp="1516212794702">
+        <mark key="[" line="8" column="64" />
+        <mark key="]" line="8" column="75" />
+        <mark key="." line="8" column="75" />
+        <mark key="^" line="8" column="75" />
+      </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/index.js" timestamp="1519244560437">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/smarty_streets/properties.ini" timestamp="1522703371262" />
+      <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_alias.json" timestamp="1518043569534">
+        <mark key="[" line="2" column="111" />
+        <mark key="]" line="2" column="115" />
+        <mark key="." line="2" column="115" />
+        <mark key="^" line="2" column="115" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeatureDaoImpl.java" timestamp="1515710807979">
+        <mark key="[" line="20" column="58" />
+        <mark key="]" line="20" column="58" />
+        <mark key="." line="20" column="58" />
+        <mark key="^" line="20" column="58" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" timestamp="1519170206102">
+        <mark key="[" line="107" column="28" />
+        <mark key="]" line="107" column="28" />
+        <mark key="^" line="62" column="24" />
+        <mark key="." line="107" column="28" />
+      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/buildfax/properties.ini" timestamp="1522779922929" />
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/pdf_test.js" timestamp="1519245354970">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1518130044401">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="21" column="129" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/property_hub_template.json" timestamp="1517242337411">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="^" line="2" column="51" />
+      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/buildfax/load_d3_property.py" timestamp="1522772872334" />
+      <file name="$USER_HOME$/ui/app/features/underwriting/sov/sov-overview.template.html" timestamp="1520381743021">
+        <mark key="[" line="124" column="60" />
+        <mark key="]" line="124" column="77" />
+        <mark key="^" line="124" column="77" />
+        <mark key="." line="124" column="77" />
+      </file>
+      <file name="$USER_HOME$/es-tools/share/scripts/install.sh" timestamp="1518043744443">
+        <mark key="[" line="64" column="34" />
+        <mark key="]" line="64" column="38" />
+        <mark key="." line="64" column="38" />
+        <mark key="^" line="64" column="38" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/shared/tools/clients.service.js" timestamp="1516138538805">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="5" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/sql_model.py" timestamp="1523044235137">
         <mark key="[" line="167" column="51" />
         <mark key="]" line="167" column="51" />
         <mark key="^" line="167" column="33" />
         <mark key="." line="167" column="51" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/building-permits.controller.js" timestamp="1520366205808">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+        <mark key="^" line="14" column="43" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/parameters.py" timestamp="1522700444683">
         <mark key="'" line="25" column="4" />
@@ -82,6 +406,30 @@
         <mark key="[" line="8" column="34" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/account/user.service.js" timestamp="1516143100171">
+        <mark key="[" line="185" column="67" />
+        <mark key="]" line="185" column="67" />
+        <mark key="^" line="185" column="67" />
+        <mark key="." line="185" column="67" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/super-admin/clients.template.html" timestamp="1516212495187">
+        <mark key="[" line="23" column="99" />
+        <mark key="]" line="23" column="120" />
+        <mark key="^" line="23" column="120" />
+        <mark key="." line="23" column="120" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/account/account-user-detail.html" timestamp="1515794015588">
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="24" column="5" />
+        <mark key="^" line="24" column="5" />
+        <mark key="." line="24" column="5" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/account/account-assign-user-client.controller.js" timestamp="1516142490389">
+        <mark key="[" line="18" column="70" />
+        <mark key="]" line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="18" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1523213881696">
         <mark key="'" line="0" column="0" />
@@ -97,7 +445,25 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/ui/server_auth.js" timestamp="1519412078575">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="75" column="23" />
+        <mark key="." line="75" column="23" />
+        <mark key="^" line="75" column="23" />
+      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1522168282304">
+        <mark key="[" line="270" column="75" />
+        <mark key="]" line="270" column="75" />
+        <mark key="." line="270" column="75" />
+        <mark key="^" line="270" column="115" />
+      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/mdm.py" timestamp="1522682490656" />
+      <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/buildfax/buildfax_api.py" timestamp="1522781958836">
         <mark key="'" line="122" column="31" />
         <mark key="[" line="14" column="9" />
@@ -105,10 +471,46 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
+      <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.controller.js" timestamp="1517852616947">
+        <mark key="[" line="72" column="5" />
+        <mark key="]" line="72" column="5" />
+        <mark key="." line="72" column="5" />
+        <mark key="^" line="72" column="5" />
+      </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-file.template.html" timestamp="1519250432986">
+        <mark key="[" line="3" column="97" />
+        <mark key="]" line="3" column="95" />
+        <mark key="^" line="3" column="95" />
+        <mark key="." line="3" column="95" />
+      </file>
+      <file name="$USER_HOME$/acord-test/src/pdfView.js" timestamp="1517439173308">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="21" column="11" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-payroll.controller.js" timestamp="1519432295504">
+        <mark key="[" line="93" column="12" />
+        <mark key="]" line="93" column="15" />
+        <mark key="." line="93" column="15" />
+        <mark key="^" line="93" column="15" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/underwriting-sov-view.template.html" timestamp="1512161355396">
+        <mark key="[" line="11" column="149" />
+        <mark key="]" line="11" column="152" />
+        <mark key="." line="11" column="152" />
+        <mark key="^" line="11" column="152" />
+      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/address/city_state_standardization.py" timestamp="1522790092784">
         <mark key="]" line="18" column="40" />
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/super-admin/client-create.controller.js" timestamp="1515799423236">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="53" />
+        <mark key="^" line="11" column="53" />
+        <mark key="." line="11" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1523048227605">
         <mark key="[" line="0" column="0" />
@@ -120,12 +522,24 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchHdpClient.java" timestamp="1518727737774">
+        <mark key="[" line="18" column="91" />
+        <mark key="]" line="18" column="100" />
+        <mark key="^" line="18" column="100" />
+        <mark key="." line="18" column="100" />
+      </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/cache/cache.py" timestamp="1522682307920">
         <mark key="'" line="54" column="28" />
         <mark key="[" line="31" column="57" />
         <mark key="]" line="31" column="57" />
         <mark key="." line="31" column="74" />
         <mark key="^" line="29" column="74" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/index.js" timestamp="1514564128707">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="3" column="54" />
+        <mark key="^" line="3" column="54" />
+        <mark key="." line="3" column="54" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1523030766948">
         <mark key="'" line="267" column="139" />
@@ -135,16 +549,94 @@
         <mark key="." line="144" column="57" />
       </file>
       <file name="$USER_HOME$/mvp-hdp/deprecated/server.py" timestamp="1522682943443" />
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1517871684719">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="40" />
+        <mark key="^" line="5" column="39" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-mapping.controller.js" timestamp="1512161870268">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="49" />
+        <mark key="." line="1" column="49" />
+        <mark key="^" line="1" column="49" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-reassign-modal.template.html" timestamp="1511997554345">
+        <mark key="[" line="45" column="106" />
+        <mark key="]" line="45" column="106" />
+        <mark key="." line="45" column="106" />
+        <mark key="^" line="45" column="106" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/super-admin/client-delete.controller.js" timestamp="1516213234365">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1522703158576">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/entity/Asset.java" timestamp="1521580172469">
+        <mark key="[" line="51" column="42" />
+        <mark key="]" line="51" column="42" />
+        <mark key="^" line="51" column="46" />
+        <mark key="." line="51" column="42" />
+      </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/index.js" timestamp="1520440509988">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/asset-list.controller.js" timestamp="1520369718788">
+        <mark key="[" line="143" column="25" />
+        <mark key="]" line="143" column="28" />
+        <mark key="." line="143" column="28" />
+        <mark key="^" line="143" column="28" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1521833786616">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
+        <mark key="[" line="15" column="80" />
+        <mark key="]" line="15" column="88" />
+        <mark key="." line="15" column="88" />
+        <mark key="^" line="15" column="88" />
+      </file>
+      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1520462671506">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="15" />
+        <mark key="^" line="16" column="15" />
       </file>
       <file name="$USER_HOME$/api-gw/scripts/database.py" timestamp="1522961274327">
         <mark key="[" line="11" column="40" />
         <mark key="]" line="11" column="40" />
         <mark key="^" line="11" column="40" />
         <mark key="." line="11" column="40" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-overview.template.html" timestamp="1519407851560">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+      </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/converter/RequestResponseConverter.java" timestamp="1521580773930">
+        <mark key="[" line="410" column="48" />
+        <mark key="]" line="411" column="51" />
+        <mark key="^" line="411" column="51" />
+        <mark key="." line="411" column="51" />
       </file>
     </filemarks>
     <jumps>
