@@ -608,12 +608,12 @@
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" timestamp="1523292854180">
+      <file name="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" timestamp="1523295937254">
         <mark key="'" line="1" column="12" />
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="23" column="17" />
-        <mark key="." line="23" column="17" />
-        <mark key="^" line="23" column="17" />
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="54" />
+        <mark key="." line="30" column="54" />
+        <mark key="^" line="30" column="54" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1520462671506">
         <mark key="[" line="16" column="16" />
@@ -744,7 +744,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>json_data</text>
+        <text>'</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -764,7 +764,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>json_data</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
@@ -772,8 +772,8 @@
       <register name="o" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiwgZToKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiVW5hYmxlIHRvIGdldCBkZXRhaWxzIGZvciB0aGUgY2xpZW50OiAiICsgc3RyKGUpKQogICAgICAgICAgICAgICAgcmV0dXJuIGFib3J0KDQwMCwgIkVycm9yIGdldHRpbmcgdGhlIGNsaWVudCBkZXRhaWxzIikK</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgYWJvcnQsIHJlcXVlc3QsIGpzb25pZnksIGcKZnJvbSBmbGFza19yZXN0ZnVsIGltcG9ydCBSZXNvdXJjZQpmcm9tIGNvbW1vbi5hdXRoZW50aWNhdGUgaW1wb3J0IGF1dGhlbnRpY2F0ZQpmcm9tIGRhdGFiYXNlIGltcG9ydCBkYl9zZXNzaW9uCmZyb20gZGF0YWN1YmVzX2xpYi5zcWxfbW9kZWwgaW1wb3J0IFBhcmFtZXRlciBhcyBQYXJhbWV0ZXJEQgpmcm9tIGNvbW1vbi5zY2hlbWEgaW1wb3J0IFBhcmFtZXRlclNjaGVtYQpmcm9tIG1hcnNobWFsbG93IGltcG9ydCBWYWxpZGF0aW9uRXJyb3IKaW1wb3J0IGFwcAppbXBvcnQgdXVpZApmcm9tIGpzb24gaW1wb3J0IGR1bXBzCgppbXBvcnQgZGF0YWN1YmVzX2xpYi5kM2xvZyBhcyBkM2xvZwoKbG9nZ2VyID0gZDNsb2cuc2V0dXBfY3VzdG9tX2xvZ2dlcihfX25hbWVfXykK</text>
+      <register name="0" type="4">
+        <text>ClientDB</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeShyZXNwKSwgZV9jb2RlCg==</text>
