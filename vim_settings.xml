@@ -448,11 +448,11 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1522168282304">
-        <mark key="[" line="270" column="75" />
-        <mark key="]" line="270" column="75" />
-        <mark key="." line="270" column="75" />
-        <mark key="^" line="270" column="115" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1523305318349">
+        <mark key="[" line="276" column="87" />
+        <mark key="]" line="276" column="87" />
+        <mark key="." line="276" column="87" />
+        <mark key="^" line="276" column="110" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
@@ -508,7 +508,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523303742580">
+      <file name="/Dummy.txt" timestamp="1523305343108">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -744,8 +744,8 @@
       <jump line="1" column="12" filename="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geydkbmInOiBoYXNfZG5iX2FwaSwgJ2luZm9ncm91cCc6IGhhc19pbmZvZ3JvdXBfYXBpfSwgMjAwCg==</text>
+      <register name="&quot;" type="4">
+        <text>90701</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -765,7 +765,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>90701</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
@@ -773,8 +773,8 @@
       <register name="o" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiwgZToKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiVW5hYmxlIHRvIGdldCBkZXRhaWxzIGZvciB0aGUgY2xpZW50OiAiICsgc3RyKGUpKQogICAgICAgICAgICAgICAgcmV0dXJuIGFib3J0KDQwMCwgIkVycm9yIGdldHRpbmcgdGhlIGNsaWVudCBkZXRhaWxzIikK</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpvaW4oRmVhdHVyZURCKS4gXAo=</text>
+      <register name="0" type="4">
+        <text>company_name='whole foods', street='', zip_code='60654', city='', state='', res_format='txm'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4geydkbmInOiBoYXNfZG5iX2FwaSwgJ2luZm9ncm91cCc6IGhhc19pbmZvZ3JvdXBfYXBpfSwgMjAwCg==</text>
