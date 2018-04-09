@@ -463,11 +463,11 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1523307726936">
-        <mark key="[" line="29" column="34" />
-        <mark key="]" line="30" column="37" />
-        <mark key="." line="30" column="37" />
-        <mark key="^" line="30" column="37" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1523313239877">
+        <mark key="[" line="168" column="88" />
+        <mark key="]" line="168" column="114" />
+        <mark key="." line="168" column="114" />
+        <mark key="^" line="168" column="114" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
@@ -487,6 +487,12 @@
         <mark key="]" line="72" column="5" />
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="5" />
+      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/central_company_search.py" timestamp="1523313206875">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="39" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-file.template.html" timestamp="1519250432986">
         <mark key="[" line="3" column="97" />
@@ -523,7 +529,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523306222986">
+      <file name="/Dummy.txt" timestamp="1523313210060">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -759,8 +765,8 @@
       <jump line="1" column="12" filename="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>foods</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -780,7 +786,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGltcG9ydCBzZWFyY2hfd2l0aF9x</text>
+        <text>foods</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
@@ -792,10 +798,10 @@
         <text>company_name='whole foods', street='', zip_code='60654', city='', state='', res_format='txm'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlLnNlYXJjaF9jZW50cmFsX2VzKGNvbXBhbnlfbmFtZT0nRkFMQUZFTCBTSEFDSycsIHN0cmVldD0nMTIyMDYgQVJURVNJQSBCTFZEJywgemlwX2NvZGU9JzkwNzAxJywgY2l0eT0nQVJURVNJQSAnLCBzdGF0ZT0nQ0EnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -803,14 +809,14 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>['d3Entity']</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXMK</text>
+      <register name="7" type="4">
+        <text>['d3Entity']</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -827,7 +833,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geydkbmInOiBoYXNfZG5iX2FwaSwgJ2luZm9ncm91cCc6IGhhc19pbmZvZ3JvdXBfYXBpfSwgMjAwCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMK</text>
       </register>
       <register name=":" type="4">
         <text>s/[/(/g</text>
