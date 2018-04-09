@@ -609,12 +609,12 @@
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" timestamp="1523296954657">
+      <file name="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" timestamp="1523301432880">
         <mark key="'" line="1" column="12" />
-        <mark key="[" line="63" column="57" />
-        <mark key="]" line="64" column="71" />
-        <mark key="." line="64" column="71" />
-        <mark key="^" line="64" column="71" />
+        <mark key="[" line="28" column="51" />
+        <mark key="]" line="28" column="52" />
+        <mark key="." line="28" column="52" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1520462671506">
         <mark key="[" line="16" column="16" />
@@ -745,7 +745,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>parameter</text>
+        <text>_</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -765,7 +765,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>parameter</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
