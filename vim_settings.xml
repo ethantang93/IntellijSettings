@@ -577,6 +577,12 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1523394852626">
+        <mark key="[" line="216" column="20" />
+        <mark key="]" line="216" column="23" />
+        <mark key="." line="216" column="23" />
+        <mark key="^" line="216" column="23" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="22" />
@@ -747,8 +753,8 @@
       <jump line="1" column="12" filename="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVzX3JlcyA9IFtjIGZvciBjIGluIGVzX3Jlc10K</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -768,7 +774,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
