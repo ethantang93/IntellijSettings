@@ -624,12 +624,12 @@
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" timestamp="1523303738034">
+      <file name="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" timestamp="1523373512565">
         <mark key="'" line="1" column="12" />
-        <mark key="[" line="65" column="126" />
-        <mark key="]" line="66" column="23" />
-        <mark key="." line="66" column="23" />
-        <mark key="^" line="66" column="23" />
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="48" />
+        <mark key="." line="23" column="48" />
+        <mark key="^" line="23" column="48" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1520462671506">
         <mark key="[" line="16" column="16" />
