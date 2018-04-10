@@ -65,6 +65,12 @@
         <mark key="^" line="28" column="27" />
         <mark key="." line="28" column="27" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" timestamp="1523398254484">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="10" column="34" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/FeatureService.java" timestamp="1515774706552">
         <mark key="[" line="35" column="9" />
         <mark key="]" line="36" column="19" />
@@ -300,11 +306,6 @@
         <mark key="]" line="209" column="0" />
         <mark key="^" line="204" column="29" />
         <mark key="." line="209" column="0" />
-      </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/address/d3validation.py" timestamp="1522790141915">
-        <mark key="]" line="38" column="61" />
-        <mark key="^" line="38" column="61" />
-        <mark key="." line="38" column="61" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/cache/request_tracking.py" timestamp="1522682518699">
         <mark key="'" line="13" column="0" />
@@ -753,8 +754,8 @@
       <jump line="1" column="12" filename="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQgaW50ZXJzZWN0aW9uCg==</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -774,7 +775,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>keys_b</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
@@ -786,19 +787,19 @@
         <text>company_name='whole foods', street='', zip_code='60654', city='', state='', res_format='txm'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVzX3JlcyA9IFtjIGZvciBjIGluIGVzX3Jlc10K</text>
+        <text encoding="base64">cHJpbnQgaW50ZXJzZWN0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLnNlYXJjaF9jZW50cmFsX2VzKGNvbXBhbnlfbmFtZT0nRkFMQUZFTCBTSEFDSycsIHN0cmVldD0nMTIyMDYgQVJURVNJQSBCTFZEJywgemlwX2NvZGU9JzkwNzAxJywgY2l0eT0nQVJURVNJQSAnLCBzdGF0ZT0nQ0EnKQo=</text>
+        <text encoding="base64">Y29tcGFuaWVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVzX3JlcyA9IFtjIGZvciBjIGluIGVzX3Jlc10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlLnNlYXJjaF9jZW50cmFsX2VzKGNvbXBhbnlfbmFtZT0nRkFMQUZFTCBTSEFDSycsIHN0cmVldD0nMTIyMDYgQVJURVNJQSBCTFZEJywgemlwX2NvZGU9JzkwNzAxJywgY2l0eT0nQVJURVNJQSAnLCBzdGF0ZT0nQ0EnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -817,8 +818,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>['d3Entity']</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
