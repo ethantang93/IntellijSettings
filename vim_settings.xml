@@ -356,7 +356,7 @@
         <mark key="." line="107" column="28" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/elasticsearch_client.py" timestamp="1523479729003" />
-      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523485137692">
+      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523486116112">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="79" column="94" />
         <mark key="]" line="80" column="50" />
@@ -571,7 +571,7 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1523485018084">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1523486345550">
         <mark key="[" line="230" column="131" />
         <mark key="]" line="231" column="42" />
         <mark key="." line="231" column="42" />
