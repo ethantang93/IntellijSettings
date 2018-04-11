@@ -354,11 +354,11 @@
         <mark key="^" line="62" column="24" />
         <mark key="." line="107" column="28" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523464885051">
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="34" column="24" />
-        <mark key="." line="34" column="24" />
-        <mark key="^" line="34" column="24" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523465054299">
+        <mark key="[" line="40" column="54" />
+        <mark key="]" line="40" column="9" />
+        <mark key="." line="40" column="9" />
+        <mark key="^" line="40" column="9" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/pdf_test.js" timestamp="1519245354970">
         <mark key="[" line="3" column="0" />
@@ -745,7 +745,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>=</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -765,7 +765,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
