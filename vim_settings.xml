@@ -356,12 +356,12 @@
         <mark key="." line="107" column="28" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/elasticsearch_client.py" timestamp="1523479729003" />
-      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523482047930">
+      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523482871812">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="78" column="22" />
-        <mark key="]" line="78" column="32" />
-        <mark key="." line="78" column="32" />
-        <mark key="^" line="78" column="32" />
+        <mark key="[" line="79" column="94" />
+        <mark key="]" line="80" column="50" />
+        <mark key="." line="80" column="50" />
+        <mark key="^" line="80" column="50" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/pdf_test.js" timestamp="1519245354970">
         <mark key="[" line="3" column="0" />
@@ -747,8 +747,8 @@
       <jump line="31" column="0" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICBjYWxsIHByZWZpbGwgZW5kcG9pbnQgaGVyZQo=</text>
+      <register name="&quot;" type="4">
+        <text>Risk360</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -768,7 +768,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>Risk360</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
