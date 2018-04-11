@@ -356,11 +356,12 @@
         <mark key="." line="107" column="28" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/elasticsearch_client.py" timestamp="1523479729003" />
-      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523480530205">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523481400867">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="80" column="80" />
+        <mark key="]" line="81" column="39" />
+        <mark key="." line="81" column="39" />
+        <mark key="^" line="81" column="39" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/pdf_test.js" timestamp="1519245354970">
         <mark key="[" line="3" column="0" />
@@ -644,7 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="5" filename="$USER_HOME$/ui/webroot/app/account/account-user-delete.html" />
       <jump line="0" column="3" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/wccc-description-lookup.js" />
       <jump line="49" column="48" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/prefill.controller.js" />
       <jump line="3" column="8" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
@@ -744,10 +744,11 @@
       <jump line="1" column="12" filename="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" />
       <jump line="55" column="27" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
       <jump line="38" column="0" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -767,7 +768,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>get_risk360</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -779,25 +780,25 @@
         <text encoding="base64">ICAgIGV4Y2VwdCBOb3RGb3VuZEVycm9yIGFzIGVycjoKICAgICAgICBsb2dnZXIuZXJyb3IoIm5vdCBmb3VuZCB3aXRoIGNvbXBhbnkgaWQge30gZXJyOnt9Ii5mb3JtYXQoY29tcGFueV9pZCwgZXJyKSkKICAgIHJldHVybgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlcyA9IEVsYXN0aWNzZWFyY2goaG9zdD1lc19ob3N0bmFtZSwgcG9ydD1lc19wb3J0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBlcyA9IEVsYXN0aWNzZWFyY2goaG9zdD1lc19ob3N0bmFtZSwgcG9ydD1lc19wb3J0KQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5lcy5pbmRleChpbmRleD1lc19yaXNrX3ZpZXdfaW5kZXgsIGRvY190eXBlPSdqc29uJywgaWQ9Y29tcGFueVsnY29tcGFueV9pZCddLCBib2R5PXJlbGF0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXNfCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5lcy5pbmRleChpbmRleD1lc19yaXNrX3ZpZXdfaW5kZXgsIGRvY190eXBlPSdqc29uJywgaWQ9Y29tcGFueVsnY29tcGFueV9pZCddLCBib2R5PXJlbGF0aW9uKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -811,10 +812,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZgo=</text>
+        <text encoding="base64">ZXNfCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB2aWV3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/[/(/g</text>
