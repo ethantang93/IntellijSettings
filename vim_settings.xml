@@ -402,7 +402,7 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/parameters.py" timestamp="1522700444683">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/parameters.py" timestamp="1523461073335">
         <mark key="'" line="25" column="4" />
         <mark key="[" line="18" column="16" />
         <mark key="]" line="24" column="18" />
@@ -458,11 +458,11 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1523395627284">
-        <mark key="[" line="171" column="72" />
-        <mark key="]" line="171" column="72" />
-        <mark key="." line="171" column="72" />
-        <mark key="^" line="171" column="72" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1523460862974">
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="0" />
+        <mark key="." line="265" column="0" />
+        <mark key="^" line="276" column="144" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
@@ -482,6 +482,12 @@
         <mark key="]" line="72" column="5" />
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="5" />
+      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/central_company_search.py" timestamp="1523460638060">
+        <mark key="[" line="23" column="55" />
+        <mark key="]" line="23" column="57" />
+        <mark key="." line="23" column="57" />
+        <mark key="^" line="23" column="57" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-file.template.html" timestamp="1519250432986">
         <mark key="[" line="3" column="97" />
@@ -578,11 +584,11 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1523394852626">
-        <mark key="[" line="216" column="20" />
-        <mark key="]" line="216" column="23" />
-        <mark key="." line="216" column="23" />
-        <mark key="^" line="216" column="23" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1523460701399">
+        <mark key="[" line="217" column="50" />
+        <mark key="]" line="217" column="28" />
+        <mark key="." line="217" column="28" />
+        <mark key="^" line="217" column="50" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
         <mark key="[" line="5" column="21" />
@@ -755,7 +761,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQgaW50ZXJzZWN0aW9uCg==</text>
+        <text encoding="base64">ZGVmIHNhdmVfY29tcGFuaWVzX3RvX2VzKGNvbXBhbmllcyk6CiAgICB1cmwgPSAnaHR0cDovL2xvY2FsaG9zdDo1MDAwL212cC1oZHAvZDNjb21wYW55JwogICAgcmVzID0gcmVxdWVzdHMucG9zdCh1cmw9dXJsLCBkYXRhPWpzb24uZHVtcHMoY29tcGFuaWVzKSkKICAgIGxvZ2dlci5kZWJ1ZygidXBkYXRlIGNvbXBhbmllcyBpbiBlcyBcbiIgKyByZXMudGV4dCkKCg==</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -775,7 +781,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>keys_b</text>
+        <text>txm</text>
       </register>
       <register name="/" type="4">
         <text>[/(/g</text>
@@ -787,25 +793,25 @@
         <text>company_name='whole foods', street='', zip_code='60654', city='', state='', res_format='txm'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQgaW50ZXJzZWN0aW9uCg==</text>
+        <text encoding="base64">ZGVmIHNhdmVfY29tcGFuaWVzX3RvX2VzKGNvbXBhbmllcyk6CiAgICB1cmwgPSAnaHR0cDovL2xvY2FsaG9zdDo1MDAwL212cC1oZHAvZDNjb21wYW55JwogICAgcmVzID0gcmVxdWVzdHMucG9zdCh1cmw9dXJsLCBkYXRhPWpzb24uZHVtcHMoY29tcGFuaWVzKSkKICAgIGxvZ2dlci5kZWJ1ZygidXBkYXRlIGNvbXBhbmllcyBpbiBlcyBcbiIgKyByZXMudGV4dCkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29tcGFuaWVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZbJ2QzQ29tcGFueSddWydjb21wYW55X25hbWUnXSA9IHZbJ2QzRW50aXR5J11bJ25hbWUnXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVzX3JlcyA9IFtjIGZvciBjIGluIGVzX3Jlc10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLnNlYXJjaF9jZW50cmFsX2VzKGNvbXBhbnlfbmFtZT0nRkFMQUZFTCBTSEFDSycsIHN0cmVldD0nMTIyMDYgQVJURVNJQSBCTFZEJywgemlwX2NvZGU9JzkwNzAxJywgY2l0eT0nQVJURVNJQSAnLCBzdGF0ZT0nQ0EnKQo=</text>
+        <text encoding="base64">cHJpbnQgaW50ZXJzZWN0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
+        <text encoding="base64">Y29tcGFuaWVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVzX3JlcyA9IFtjIGZvciBjIGluIGVzX3Jlc10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlLnNlYXJjaF9jZW50cmFsX2VzKGNvbXBhbnlfbmFtZT0nRkFMQUZFTCBTSEFDSycsIHN0cmVldD0nMTIyMDYgQVJURVNJQSBCTFZEJywgemlwX2NvZGU9JzkwNzAxJywgY2l0eT0nQVJURVNJQSAnLCBzdGF0ZT0nQ0EnKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -819,10 +825,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/[/(/g</text>
