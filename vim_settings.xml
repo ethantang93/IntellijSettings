@@ -569,11 +569,11 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1523472306383">
-        <mark key="[" line="227" column="113" />
-        <mark key="]" line="227" column="113" />
-        <mark key="." line="227" column="113" />
-        <mark key="^" line="17" column="2" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1523475699484">
+        <mark key="[" line="221" column="20" />
+        <mark key="]" line="221" column="24" />
+        <mark key="." line="221" column="24" />
+        <mark key="^" line="221" column="24" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
         <mark key="[" line="5" column="21" />
@@ -746,7 +746,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>observed_work_inspections</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -766,7 +766,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>observed_work_inspections</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -775,28 +775,28 @@
         <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiwgZToKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiVW5hYmxlIHRvIGdldCBkZXRhaWxzIGZvciB0aGUgY2xpZW50OiAiICsgc3RyKGUpKQogICAgICAgICAgICAgICAgcmV0dXJuIGFib3J0KDQwMCwgIkVycm9yIGdldHRpbmcgdGhlIGNsaWVudCBkZXRhaWxzIikK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAnaGFzX2luc3BlY3Rpb24nIGluIHJlbGF0aW9uOgogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmlza3ZpZXdbJ29ic2VydmVkX3dvcmtfaW5zcGVjdGlvbnMnXSA9IHJlbGF0aW9uWydoYXNfaW5zcGVjdGlvbiddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXNfCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB2aWV3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5lcy5pbmRleChpbmRleD1lc19yaXNrX3ZpZXdfaW5kZXgsIGRvY190eXBlPSdqc29uJywgaWQ9Y29tcGFueVsnY29tcGFueV9pZCddLCBib2R5PXJlbGF0aW9uKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ZXNfCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVzID0gRWxhc3RpY3NlYXJjaCgoZXNfaG9zdG5hbWUsIGVzX3BvcnQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB2aWV3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -810,10 +810,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsaW1pdD0xMCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgRXNDb21wYW55U2VhcmNoKG9iamVjdCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVzID0gRWxhc3RpY3NlYXJjaCgoZXNfaG9zdG5hbWUsIGVzX3BvcnQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/[/(/g</text>
