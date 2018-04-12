@@ -353,12 +353,11 @@
         <mark key="." line="107" column="28" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/elasticsearch_client.py" timestamp="1523479729003" />
-      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523548772928">
+      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523549453690">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="72" column="76" />
-        <mark key="]" line="72" column="89" />
-        <mark key="^" line="72" column="89" />
-        <mark key="." line="72" column="89" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/pdf_test.js" timestamp="1519245354970">
         <mark key="[" line="3" column="0" />
@@ -443,10 +442,6 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1523213881696">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/api-gw/scripts/resources/client/__init__.py" timestamp="1523047823634">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="33" column="68" />
@@ -463,7 +458,7 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1523485028278">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1523549975714">
         <mark key="[" line="151" column="22" />
         <mark key="]" line="152" column="73" />
         <mark key="." line="152" column="73" />
@@ -543,6 +538,13 @@
         <mark key="]" line="3" column="54" />
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1523549902914">
+        <mark key="'" line="267" column="139" />
+        <mark key="[" line="144" column="54" />
+        <mark key="]" line="144" column="57" />
+        <mark key="^" line="144" column="57" />
+        <mark key="." line="144" column="57" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1517871684719">
         <mark key="[" line="5" column="40" />
@@ -744,8 +746,8 @@
       <jump line="31" column="0" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>risk_view</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -777,25 +779,25 @@
         <text>if 'has_permit_lic' in es_res else None</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzWycnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICBjYWxsIHByZWZpbGwgZW5kcG9pbnQgaGVyZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWJvcnQoNDAwLCAnY29tcGFueV9pZCBpcyBlbXB0eScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIm5vIHByZWZpbGwgZm91bmQgZm9yIGNvbXBhbnkgaWQge30iLmZvcm1hdChjb21wYW55X2lkKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBjb21wYW55X2lkID09ICcnOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzWycnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVzX3Jlc1snX3NvdXJjZSddCg==</text>
+        <text encoding="base64">ICAgICMgICAgICAgICBjYWxsIHByZWZpbGwgZW5kcG9pbnQgaGVyZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlc19yZXNbJ2ZvdW5kJ106Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIm5vIHByZWZpbGwgZm91bmQgZm9yIGNvbXBhbnkgaWQge30iLmZvcm1hdChjb21wYW55X2lkKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -809,10 +811,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVzX3Jlc1snX3NvdXJjZSddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBlc19yZXNbJ2ZvdW5kJ106Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
