@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/__init__.py" timestamp="1523567369769" />
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-main.template.html" timestamp="1520369771723">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -154,11 +155,10 @@
         <mark key="." line="84" column="68" />
         <mark key="^" line="84" column="68" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/app.py" timestamp="1523463020189">
-        <mark key="[" line="67" column="52" />
-        <mark key="]" line="68" column="56" />
-        <mark key="^" line="68" column="56" />
-        <mark key="." line="68" column="56" />
+      <file name="$USER_HOME$/api-gw/scripts/app.py" timestamp="1523566661243">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="45" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDaoImpl.java" timestamp="1515774405231">
         <mark key="[" line="31" column="19" />
@@ -337,6 +337,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/address/street_name_standardization.py" timestamp="1523565654174">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="27" />
+      </file>
       <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_alias.json" timestamp="1518043569534">
         <mark key="[" line="2" column="111" />
         <mark key="]" line="2" column="115" />
@@ -356,12 +360,12 @@
         <mark key="." line="107" column="28" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/elasticsearch_client.py" timestamp="1523479729003" />
-      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523564425423">
-        <mark key="'" line="0" column="14" />
-        <mark key="[" line="105" column="45" />
-        <mark key="]" line="105" column="45" />
-        <mark key="^" line="105" column="45" />
-        <mark key="." line="105" column="45" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523567088180">
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="112" column="71" />
+        <mark key="]" line="112" column="71" />
+        <mark key="^" line="113" column="46" />
+        <mark key="." line="112" column="71" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/pdf_test.js" timestamp="1519245354970">
         <mark key="[" line="3" column="0" />
@@ -480,7 +484,7 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="5" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/central_company_search.py" timestamp="1523460638060">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/central_company_search.py" timestamp="1523567238994">
         <mark key="[" line="23" column="55" />
         <mark key="]" line="23" column="57" />
         <mark key="." line="23" column="57" />
@@ -648,12 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="8" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
-      <jump line="106" column="8" filename="$USER_HOME$/ui/webroot/app/use-case/use-case.service.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
-      <jump line="23" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
-      <jump line="21" column="7" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.template.html" />
-      <jump line="76" column="38" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" />
       <jump line="31" column="20" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.controller.js" />
       <jump line="23" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.controller.js" />
       <jump line="104" column="45" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" />
@@ -748,10 +746,16 @@
       <jump line="31" column="0" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
       <jump line="101" column="16" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
       <jump line="0" column="14" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
+      <jump line="106" column="48" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
+      <jump line="107" column="4" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
+      <jump line="111" column="67" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
+      <jump line="114" column="4" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBnLnVzZXIgaXMgTm9uZToKICAgICAgICAgICAgYWJvcnQoNDAwLCAnTm8gVXNlcicpCiAgICAgICAgY2xpZW50X2lkID0gZy51c2VyWydjbGllbnRJZCddCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -770,8 +774,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
+      <register name="k" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gJ2h0dHA6Ly9sb2NhbGhvc3Q6NjAwMC9wcmVmaWxsL3t9L3t9Jy5mb3JtYXQoY2xpZW50X2lkLCBjb21wYW55X2lkKQogICAgICAgICAgICByZXF1ZXN0cy5wb3N0KHVybD11cmwsIGRhdGE9anNvbi5kdW1wcygpKQo=</text>
+      </register>
       <register name="-" type="4">
-        <text>len(es_res['has_permit_lic'])</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -808,28 +815,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBnLnVzZXIgaXMgTm9uZToKICAgICAgICAgICAgYWJvcnQoNDAwLCAnTm8gVXNlcicpCiAgICAgICAgY2xpZW50X2lkID0gZy51c2VyWydjbGllbnRJZCddCg==</text>
+        <text encoding="base64">ICAgICAgICBlc19yZXMgPSBlcy5nZXQoaW5kZXg9ZXNfcmlza3ZpZXdfaW5kZXgsIGRvY190eXBlPSdqc29uJywgaWQ9Y29tcGFueV9pZCkKICAgICAgICBpZiAnX3NvdXJjZScgaW4gZXNfcmVzOgogICAgICAgICAgICBlc19yZXMgPSBlc19yZXNbJ19zb3VyY2UnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgICAgIGNhbGwgcHJlZmlsbCBlbmRwb2ludCB0byBnZW5lcmF0ZSBwcmVmaWxsCg==</text>
+        <text encoding="base64">ZnJvbSByZXNvdXJjZXMucHJlZmlsbCBpbXBvcnQgUHJlRmlsbFJlc291cmNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhY3ViZXNfbGliLnNxbF9tb2RlbCBpbXBvcnQgUGFyYW1ldGVyIGFzIFBhcmFtZXRlckRCCmZyb20gZGF0YWN1YmVzX2xpYi5zcWxfbW9kZWwgaW1wb3J0IENsaWVudCBhcyBDbGllbnREQgpmcm9tIGRhdGFjdWJlc19saWIuc3FsX21vZGVsIGltcG9ydCBGZWF0dXJlIGFzIEZlYXR1cmVEQgpmcm9tIGRhdGFjdWJlc19saWIuc3FsX21vZGVsIGltcG9ydCBDbGllbnRGZWF0dXJlIGFzIENsaWVudEZlYXR1cmVEQgpmcm9tIGNvbW1vbi5zY2hlbWEgaW1wb3J0IFBhcmFtZXRlclNjaGVtYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc1sncGVybWl0dGVkX3dvcmsnXVsnc3VtbWFyeSddWydudW1iZXJfb2ZfcGVybV9saWMnXSA9IGxlbihlc19yZXNbJ2hhc19wZXJtaXRfbGljJ10pCg==</text>
+        <text encoding="base64">aW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ19zb3VyY2UnIGluIGVzX3JlczoKICAgICAgICAgICAgICAgIGVzX3JlcyA9IGVzX3Jlc1snX3NvdXJjZSddCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -843,10 +850,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWJvcnQoNDAwLCAnY29tcGFueV9pZCBpcyBlbXB0eScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gJ2h0dHA6Ly9sb2NhbGhvc3Q6NjAwMC9wcmVmaWxsL3t9L3t9Jy5mb3JtYXQoY2xpZW50X2lkLCBjb21wYW55X2lkKQogICAgICAgICAgICByZXF1ZXN0cy5wb3N0KHVybD11cmwsIGRhdGE9anNvbi5kdW1wcygpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb21wYW55X2lkID09ICcnOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -888,6 +895,7 @@
         <entry>s/[/.get(</entry>
         <entry>s/[/(/g</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5rZA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
