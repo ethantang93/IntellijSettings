@@ -356,12 +356,12 @@
         <mark key="." line="107" column="28" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/elasticsearch_client.py" timestamp="1523479729003" />
-      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523557743377">
+      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523558919914">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="85" column="35" />
-        <mark key="]" line="85" column="45" />
-        <mark key="^" line="85" column="45" />
-        <mark key="." line="85" column="45" />
+        <mark key="[" line="76" column="74" />
+        <mark key="]" line="76" column="82" />
+        <mark key="^" line="76" column="82" />
+        <mark key="." line="76" column="82" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/pdf_test.js" timestamp="1519245354970">
         <mark key="[" line="3" column="0" />
@@ -751,7 +751,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>violations</text>
+        <text>len(es_res['has_permit_lic'])</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -771,7 +771,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>violations</text>
+        <text>len(es_res['has_permit_lic'])</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
