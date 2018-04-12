@@ -190,6 +190,9 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="22" column="35" />
       </file>
+      <file name="/Python Console" timestamp="1523552674922">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
         <mark key="[" line="134" column="22" />
         <mark key="]" line="134" column="32" />
@@ -311,6 +314,13 @@
         <mark key="^" line="204" column="29" />
         <mark key="." line="209" column="0" />
       </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/cache/request_tracking.py" timestamp="1522682518699">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="22" column="67" />
+        <mark key="]" line="22" column="84" />
+        <mark key="." line="22" column="84" />
+        <mark key="^" line="22" column="84" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-main.template.html" timestamp="1519419105437">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="55" />
@@ -353,11 +363,12 @@
         <mark key="." line="107" column="28" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/elasticsearch_client.py" timestamp="1523479729003" />
-      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523549453690">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1523552986875">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="65" column="45" />
+        <mark key="^" line="65" column="45" />
+        <mark key="." line="65" column="45" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/pdf_test.js" timestamp="1519245354970">
         <mark key="[" line="3" column="0" />
@@ -470,6 +481,13 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/buildfax/buildfax_api.py" timestamp="1522781958836">
+        <mark key="'" line="122" column="31" />
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.controller.js" timestamp="1517852616947">
         <mark key="[" line="72" column="5" />
         <mark key="]" line="72" column="5" />
@@ -532,6 +550,13 @@
         <mark key="]" line="18" column="100" />
         <mark key="^" line="18" column="100" />
         <mark key="." line="18" column="100" />
+      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/cache/cache.py" timestamp="1522682307920">
+        <mark key="'" line="54" column="28" />
+        <mark key="[" line="31" column="57" />
+        <mark key="]" line="31" column="57" />
+        <mark key="." line="31" column="74" />
+        <mark key="^" line="29" column="74" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/index.js" timestamp="1514564128707">
         <mark key="[" line="2" column="63" />
@@ -746,8 +771,8 @@
       <jump line="31" column="0" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dict</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -767,37 +792,65 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>risk_view</text>
+        <text>dict</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
       </register>
-      <register name="o" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiwgZToKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiVW5hYmxlIHRvIGdldCBkZXRhaWxzIGZvciB0aGUgY2xpZW50OiAiICsgc3RyKGUpKQogICAgICAgICAgICAgICAgcmV0dXJuIGFib3J0KDQwMCwgIkVycm9yIGdldHRpbmcgdGhlIGNsaWVudCBkZXRhaWxzIikK</text>
+      <register name="o" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="0" type="4">
-        <text>if 'has_permit_lic' in es_res else None</text>
+        <text>observed_work_inspections</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRhY3ViZXNfbGliLnNxbF9tb2RlbCBpbXBvcnQgUGFyYW1ldGVyIGFzIFBhcmFtZXRlckRCCmZyb20gZGF0YWN1YmVzX2xpYi5zcWxfbW9kZWwgaW1wb3J0IENsaWVudCBhcyBDbGllbnREQgpmcm9tIGRhdGFjdWJlc19saWIuc3FsX21vZGVsIGltcG9ydCBGZWF0dXJlIGFzIEZlYXR1cmVEQgpmcm9tIGRhdGFjdWJlc19saWIuc3FsX21vZGVsIGltcG9ydCBDbGllbnRGZWF0dXJlIGFzIENsaWVudEZlYXR1cmVEQgpmcm9tIGNvbW1vbi5zY2hlbWEgaW1wb3J0IFBhcmFtZXRlclNjaGVtYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWJvcnQoNDAwLCAnY29tcGFueV9pZCBpcyBlbXB0eScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb21wYW55X2lkID09ICcnOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc1sncGVybWl0dGVkX3dvcmsnXVsnc3VtbWFyeSddWydudW1iZXJfb2ZfcGVybV9saWMnXSA9IGxlbihlc19yZXNbJ2hhc19wZXJtaXRfbGljJ10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzWycnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICBjYWxsIHByZWZpbGwgZW5kcG9pbnQgaGVyZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIm5vIHByZWZpbGwgZm91bmQgZm9yIGNvbXBhbnkgaWQge30iLmZvcm1hdChjb21wYW55X2lkKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWJvcnQoNDAwLCAnY29tcGFueV9pZCBpcyBlbXB0eScpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -811,10 +864,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVzX3Jlc1snX3NvdXJjZSddCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjb21wYW55X2lkID09ICcnOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlc19yZXNbJ2ZvdW5kJ106Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzWycnXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
