@@ -415,13 +415,6 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/parameters.py" timestamp="1523896684836">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="24" column="18" />
-        <mark key="^" line="24" column="18" />
-        <mark key="." line="24" column="18" />
-      </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/intake-reassign-modal.controller.js" timestamp="1521585016566">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="7" column="0" />
@@ -467,11 +460,11 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1523549975714">
-        <mark key="[" line="151" column="22" />
-        <mark key="]" line="152" column="73" />
-        <mark key="." line="152" column="73" />
-        <mark key="^" line="152" column="73" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1523918350142">
+        <mark key="[" line="83" column="47" />
+        <mark key="]" line="84" column="31" />
+        <mark key="." line="84" column="31" />
+        <mark key="^" line="84" column="31" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
@@ -748,7 +741,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dict()</text>
+        <text>b</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -771,7 +764,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdXJsID0gJ2h0dHA6Ly9sb2NhbGhvc3Q6NjAwMC9wcmVmaWxsL3t9L3t9Jy5mb3JtYXQoY2xpZW50X2lkLCBjb21wYW55X2lkKQogICAgICAgICAgICByZXF1ZXN0cy5wb3N0KHVybD11cmwsIGRhdGE9anNvbi5kdW1wcygpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>dict()</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
