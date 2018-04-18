@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/pycharm.vmoptions" timestamp="1524070528138">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+      </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-main.template.html" timestamp="1520369771723">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -364,7 +370,6 @@
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="50" />
       </file>
-      <file name="$USER_HOME$/mvp-hdp/scripts/lossrun/config.ini" timestamp="1524064339325" />
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/pdf_test.js" timestamp="1519245354970">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -537,7 +542,6 @@
         <mark key="'" line="267" column="139" />
         <mark key="^" line="284" column="90" />
       </file>
-      <file name="$USER_HOME$/mvp-hdp/scripts/LossRun.py" timestamp="1524064304957" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1517871684719">
         <mark key="[" line="5" column="40" />
         <mark key="]" line="5" column="40" />
@@ -739,7 +743,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>0</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -762,7 +766,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdXJsID0gJ2h0dHA6Ly9sb2NhbGhvc3Q6NjAwMC9wcmVmaWxsL3t9L3t9Jy5mb3JtYXQoY2xpZW50X2lkLCBjb21wYW55X2lkKQogICAgICAgICAgICByZXF1ZXN0cy5wb3N0KHVybD11cmwsIGRhdGE9anNvbi5kdW1wcygpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
