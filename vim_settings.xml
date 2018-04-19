@@ -476,11 +476,11 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1524174367715">
-        <mark key="[" line="158" column="52" />
-        <mark key="]" line="158" column="51" />
-        <mark key="." line="158" column="51" />
-        <mark key="^" line="165" column="49" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1524176261049">
+        <mark key="[" line="150" column="69" />
+        <mark key="]" line="151" column="28" />
+        <mark key="." line="151" column="28" />
+        <mark key="^" line="151" column="28" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
@@ -558,6 +558,12 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" timestamp="1524176951290">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1517871684719">
         <mark key="[" line="5" column="40" />
         <mark key="]" line="5" column="40" />
@@ -582,7 +588,7 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1524170434620">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1524176136297">
         <mark key="[" line="229" column="42" />
         <mark key="]" line="229" column="52" />
         <mark key="." line="229" column="52" />
@@ -622,9 +628,6 @@
         <mark key="]" line="15" column="88" />
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
-      </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" timestamp="1523564410106">
-        <mark key="'" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1520462671506">
         <mark key="[" line="16" column="16" />
@@ -754,8 +757,8 @@
       <jump line="1" column="10" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgaW5zdGFuY2UuZ2V0X2NvbXBhbnlfZGV0YWlsKCI2MWEyN2VhNy1mN2I2LTQyZDUtYTMzNy03YTg5NTk3NzNlOWQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -778,7 +781,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -815,28 +818,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhpc3QsIGtleSA9IHNlbGYuY2hlY2tfaWZfaW5fcmVzdWx0X2RpY3QoaXRlbTEpCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGV4aXN0OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hZGRfaW5fcmVzdWx0X2RpY3QoaXRlbTIsIGtleSkKICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleSA9IHN0cih1dWlkLnV1aWQ0KCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLmFkZF9pbl9yZXN1bHRfZGljdChpdGVtMSwga2V5KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hZGRfaW5fcmVzdWx0X2RpY3QoaXRlbTIsIGtleSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0yWydjb21wYW55X2lkJ10gPSBpdGVtMVsnY29tcGFueV9pZCddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgaW5zdGFuY2UuZ2V0X2NvbXBhbnlfZGV0YWlsKCI2MWEyN2VhNy1mN2I2LTQyZDUtYTMzNy03YTg5NTk3NzNlOWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBqc29uLmR1bXBzKGNvbXBhcmlzb25fbGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgaXRlbTFbJ2Zpcm1PR3JhcGhpY3Nfc3JjJ10gPT0gJ2xvY2FsX2VsYXN0aWNfc2VhcmNoJzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0yWydjb21wYW55X2lkJ10gPSBpdGVtMVsnY29tcGFueV9pZCddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIm1hcmtlZCBmb3IgZGVsZXRlOnt9Ii5mb3JtYXQoaW5kZXhfZm9yX2RlbGV0aW9uKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxpZiBpdGVtMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYXJpc29uX2xpc3QgPSBbY29tcGFyaXNvbl9saXN0W2ldIGZvciBpIGluIHJhbmdlKGxlbihjb21wYXJpc29uX2xpc3QpKSBpZiBpIG5vdCBpbiBpbmRleF9mb3JfZGVsZXRpb25dCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzdHJlZXRfMiwgc3RhdGUyLCBjaXR5Mgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlbGV0ZSB0aGUgaXRlbXMgbWFya2VkIGluIGluZGV4X2Zvcl9kZWxldGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzdHJlZXRfMSwgc3RhdGUxLCBjaXR5MQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ25hbWVfbWF0Y2g6IHt9LCBzdHJlZXRfbWF0Y2g6IHt9LCB6aXBfbWF0Y2g6IHt9Jy5mb3JtYXQobmFtZV9tYXRjaCwgc3RyZWV0X21hdGNoLCB6aXBfbWF0Y2gpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhpc3QsIGtleSA9IHNlbGYuY2hlY2tfaWZfaW5fcmVzdWx0X2RpY3QoaXRlbTIpCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGV4aXN0OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hZGRfaW5fcmVzdWx0X2RpY3QoaXRlbTEsIGtleSkKICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleSA9IHN0cih1dWlkLnV1aWQ0KCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLmFkZF9pbl9yZXN1bHRfZGljdChpdGVtMSwga2V5KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hZGRfaW5fcmVzdWx0X2RpY3QoaXRlbTIsIGtleSkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ2NvbXBhcmluZyB7fSB3aXRoIHt9Jy5mb3JtYXQoc3RyKHNlbGYpLCBzdHIob3RoZXIpKSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -850,10 +853,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhpc3QsIGtleSA9IHNlbGYuY2hlY2tfaWZfaW5fcmVzdWx0X2RpY3QoaXRlbTEpCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGV4aXN0OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hZGRfaW5fcmVzdWx0X2RpY3QoaXRlbTIsIGtleSkKICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleSA9IHN0cih1dWlkLnV1aWQ0KCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLmFkZF9pbl9yZXN1bHRfZGljdChpdGVtMSwga2V5KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hZGRfaW5fcmVzdWx0X2RpY3QoaXRlbTIsIGtleSkK</text>
+        <text encoding="base64">ICAgIGRlZiBtZXJnZV90d29fZGljdHMoc2VsZiwgeCwgeSk6CiAgICAgICAgeiA9IHguY29weSgpICAjIHN0YXJ0IHdpdGggeCdzIGtleXMgYW5kIHZhbHVlcwogICAgICAgIHoudXBkYXRlKHkpICAjIG1vZGlmaWVzIHogd2l0aCB5J3Mga2V5cyBhbmQgdmFsdWVzICYgcmV0dXJucyBOb25lCiAgICAgICAgcmV0dXJuIHoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYWRkX2luX3Jlc3VsdF9kaWN0KGl0ZW0xLCBrZXksIGl0ZW0xKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbmRleF9mb3JfZGVsZXRpb24gPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
