@@ -21,11 +21,6 @@
         <mark key="^" line="0" column="96" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill.directives.js" timestamp="1520439141054">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" timestamp="1518197756026">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="15" column="81" />
@@ -135,11 +130,6 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-company-info-view.html" timestamp="1520439430360">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="33" />
@@ -163,11 +153,6 @@
         <mark key="]" line="84" column="68" />
         <mark key="." line="84" column="68" />
         <mark key="^" line="84" column="68" />
-      </file>
-      <file name="$USER_HOME$/api-gw/scripts/app.py" timestamp="1523568294771">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="45" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDaoImpl.java" timestamp="1515774405231">
         <mark key="[" line="31" column="19" />
@@ -252,7 +237,7 @@
         <mark key="." line="2069" column="99" />
         <mark key="^" line="2070" column="36" />
       </file>
-      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1522016177401">
+      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1524251351172">
         <mark key="[" line="589" column="106" />
         <mark key="]" line="589" column="124" />
         <mark key="^" line="589" column="124" />
@@ -342,21 +327,18 @@
         <mark key="." line="8" column="75" />
         <mark key="^" line="8" column="75" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/acord/index.js" timestamp="1519244560437">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/address/street_name_standardization.py" timestamp="1523565654174">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="27" />
-      </file>
       <file name="$USER_HOME$/api-gw/scripts/resources/riskview/riskview.py" timestamp="1524161903577" />
       <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_alias.json" timestamp="1518043569534">
         <mark key="[" line="2" column="111" />
         <mark key="]" line="2" column="115" />
         <mark key="." line="2" column="115" />
         <mark key="^" line="2" column="115" />
+      </file>
+      <file name="$USER_HOME$/mvp-hdp/scripts/blswagessummary.py" timestamp="1524251164788">
+        <mark key="[" line="38" column="61" />
+        <mark key="]" line="39" column="7" />
+        <mark key="^" line="39" column="7" />
+        <mark key="." line="39" column="7" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeatureDaoImpl.java" timestamp="1515710807979">
         <mark key="[" line="20" column="58" />
@@ -376,11 +358,6 @@
         <mark key="]" line="84" column="50" />
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="50" />
-      </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/acord/pdf_test.js" timestamp="1519245354970">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1518130044401">
         <mark key="[" line="28" column="0" />
@@ -431,11 +408,6 @@
         <mark key="." line="24" column="42" />
       </file>
       <file name="/usr/local/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7/uuid.py" timestamp="1524239231274" />
-      <file name="$USER_HOME$/ui/app/features/underwriting/intake-reassign-modal.controller.js" timestamp="1521585016566">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/account/user.service.js" timestamp="1516143100171">
         <mark key="[" line="185" column="67" />
         <mark key="]" line="185" column="67" />
@@ -459,16 +431,6 @@
         <mark key="]" line="18" column="46" />
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
-      </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/client/__init__.py" timestamp="1523047823634">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="33" column="68" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_mapping.json" timestamp="1518043590982">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/ui/server_auth.js" timestamp="1519412078575">
         <mark key="[" line="74" column="0" />
@@ -537,16 +499,6 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523313210060">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.controller.js" timestamp="1517948927056">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/ElasticSearchHdpClient.java" timestamp="1518727737774">
         <mark key="[" line="18" column="91" />
         <mark key="]" line="18" column="100" />
@@ -607,11 +559,6 @@
         <mark key="^" line="51" column="46" />
         <mark key="." line="51" column="42" />
       </file>
-      <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/index.js" timestamp="1520440509988">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-      </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/asset-list.controller.js" timestamp="1520369718788">
         <mark key="[" line="143" column="25" />
         <mark key="]" line="143" column="28" />
@@ -629,6 +576,9 @@
         <mark key="]" line="15" column="88" />
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
+      </file>
+      <file name="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" timestamp="1524251247541">
+        <mark key="'" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1520462671506">
         <mark key="[" line="16" column="16" />
