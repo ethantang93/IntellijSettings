@@ -275,10 +275,11 @@
         <mark key="^" line="147" column="13" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" timestamp="1524508787612">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" timestamp="1524510584308">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="107" column="0" />
+        <mark key="." line="4" column="11" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/sov/sov-overview.controller.js" timestamp="1520381451338">
         <mark key="[" line="37" column="290" />
@@ -353,7 +354,7 @@
         <mark key="^" line="62" column="24" />
         <mark key="." line="107" column="28" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1524500084228">
+      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1524510251372">
         <mark key="'" line="1" column="10" />
         <mark key="[" line="84" column="32" />
         <mark key="]" line="84" column="50" />
@@ -714,8 +715,8 @@
       <jump line="1" column="14" filename="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -738,7 +739,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>num_of</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -888,7 +889,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIG93bnNfb3BlcmF0ZXNfbGVhc2VfYWlyY3JhZnRzKG9iaik6CgogIGxvZ2dlci5pbmZvKCJFeGVjdXRpbmcgb3duc19vcGVyYXRlc19sZWFzZV9haXJjcmFmdHMiKQogIHJldHVybiAiTm8iCgpkZWYgbnVtYmVyX29mX2VtcGxveWVlKG9iaik6CiAgICBwYXNzCgpkZWYgb3Blbl9hZnRlcl8yYW0ob2JqKToKICAgIHBhc3MKCmRlZiBjb3Zlcl9jaGFyZ2VzKG9iaik6CiAgICBwYXNzCgpkZWYgZGVsaXZlcl9vcl9vZmZfcHJlbWlzZV9jYXRlcmluZ19vcl9tb2JpbGUob2JqKToKICAgIHBhc3MKCmRlZiBtb3RvcmN5Y2xlX3Njb290ZXJfb3JfYmljeWNsZShvYmopOgogICAgcGFzcwoKZGVmIG9mZl9wcmVtaXNlX2V4cG9zdXJlKG9iaik6CiAgICBwYXNzCgpkZWYgc3ViX2NvbnRyYWN0b3Iob2JqKToKICAgIHBhc3MKCmRlZiBmaXZlX29yX21vcmVfdmVoaWNsZXNfaW5fdXNlKG9iaik6CiAgICBwYXNzCgpkZWYgdm9sdW50ZWVyX29yX2RvbmF0ZWRfbGFib3Iob2JqKToKICAgIHBhc3MKCmRlZiBwcmlvZXJfY292ZXJhZ2VfZGVjbGluZWQob2JqKToKICAgIHBhc3MKCmRlZiBkcml2ZXJfYmV0d2Vlbl8yNV82MChvYmopOgogICAgcGFzcwoKZGVmIGdyb3VwX3RyYW5zcG9ydGF0aW9uKG9iaik6CiAgICBwYXNzCgpkZWYgbGVhc2VfZW1wbG95ZWUob2JqKToKICAgIHBhc3MKCmRlZiBlbmdhZ2VkX2luX290aGVyX2J1c2luZXNzKG9iaik6CiAgICBwYXNzCgpkZWYgdHdvX29yX21vcmVfZW1wbG95ZWVfb25fZHV0eShvYmopOgogICAgcGFzcwoKZGVmIGdldF9sb2NhdGlvbnMob2JqKToKCiAgbG9nZ2VyLmluZm8oIkV4ZWN1dGluZyBsb2NhdGlvbnMiKQogIGxvY2F0aW9ucz1bXQogIGxvYzEgPSB7fQogIGxvYzFbJ3N0cmVldF9hZGRyMSddPSI0MjUgTiBNYXJ0aW5nYWxlIFJkIgogIGxvYzFbJ2NpdHknXT0iU2NoYXVtYnVyZyIKICBsb2MxWydzdGF0ZSddPSJJTCIKICBsb2MxWyd6aXAnXT0iNjAxNzMiCiAgbG9jMiA9IHt9CiAgbG9jMlsnc3RyZWV0X2FkZHIxJ109IjQ3NSBOIE1hcnRpbmdhbGUgUmQiCiAgbG9jMlsnY2l0eSddPSJTY2hhdW1idXJnIgogIGxvYzJbJ3N0YXRlJ109IklMIgogIGxvYzJbJ3ppcCddPSI2MDE3MyIKICBsb2NhdGlvbnMuYXBwZW5kKGxvYzEpCiAgbG9jYXRpb25zLmFwcGVuZChsb2MyKQogIHJldHVybiBsb2NhdGlvbnMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -897,13 +898,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmRlZiBsZWFzZV9lbXBsb3llZShvYmopOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmRlZiBsZWFzZV9lbXBsb3llZShvYmopOgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -920,7 +921,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIG93bnNfb3BlcmF0ZXNfbGVhc2VfYWlyY3JhZnRzKG9iaik6CiAgICBsb2dnZXIuaW5mbygiRXhlY3V0aW5nIG93bnNfb3BlcmF0ZXNfbGVhc2VfYWlyY3JhZnRzIikKICAgIHJldHVybiAiTm8iCgoKZGVmIG51bWJlcl9vZl9lbXBsb3llZShvYmopOgogICAgcGFzcwoKCmRlZiBvcGVuX2FmdGVyXzJhbShvYmopOgogICAgcGFzcwoKCmRlZiBjb3Zlcl9jaGFyZ2VzKG9iaik6CiAgICBwYXNzCgoKZGVmIGRlbGl2ZXJfb3Jfb2ZmX3ByZW1pc2VfY2F0ZXJpbmdfb3JfbW9iaWxlKG9iaik6CiAgICBwYXNzCgoKZGVmIG1vdG9yY3ljbGVfc2Nvb3Rlcl9vcl9iaWN5Y2xlKG9iaik6CiAgICBwYXNzCgoKZGVmIG9mZl9wcmVtaXNlX2V4cG9zdXJlKG9iaik6CiAgICBwYXNzCgoKZGVmIHN1Yl9jb250cmFjdG9yKG9iaik6CiAgICBwYXNzCgoKZGVmIGZpdmVfb3JfbW9yZV92ZWhpY2xlc19pbl91c2Uob2JqKToKICAgIHBhc3MKCgpkZWYgdm9sdW50ZWVyX29yX2RvbmF0ZWRfbGFib3Iob2JqKToKICAgIHBhc3MKCgpkZWYgcHJpb2VyX2NvdmVyYWdlX2RlY2xpbmVkKG9iaik6CiAgICBwYXNzCgoKZGVmIGRyaXZlcl9iZXR3ZWVuXzI1XzYwKG9iaik6CiAgICBwYXNzCgoKZGVmIGdyb3VwX3RyYW5zcG9ydGF0aW9uKG9iaik6CiAgICBwYXNzCgoKZGVmIGxlYXNlX2VtcGxveWVlKG9iaik6CiAgICBwYXNzCgoKZGVmIGVuZ2FnZWRfaW5fb3RoZXJfYnVzaW5lc3Mob2JqKToKICAgIHBhc3MKCgpkZWYgdHdvX29yX21vcmVfZW1wbG95ZWVfb25fZHV0eShvYmopOgogICAgcGFzcwoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
