@@ -275,11 +275,11 @@
         <mark key="^" line="147" column="13" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" timestamp="1524510584308">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="107" column="0" />
-        <mark key="." line="4" column="11" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" timestamp="1524518514817">
+        <mark key="[" line="116" column="22" />
+        <mark key="]" line="116" column="22" />
+        <mark key="^" line="116" column="22" />
+        <mark key="." line="116" column="22" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/sov/sov-overview.controller.js" timestamp="1520381451338">
         <mark key="[" line="37" column="290" />
@@ -440,7 +440,7 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1524499786075">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1524518038227">
         <mark key="'" line="1" column="14" />
         <mark key="[" line="84" column="24" />
         <mark key="]" line="84" column="24" />
@@ -544,11 +544,11 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1524502916722">
-        <mark key="[" line="188" column="33" />
-        <mark key="]" line="188" column="44" />
-        <mark key="." line="188" column="44" />
-        <mark key="^" line="188" column="44" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1524516696651">
+        <mark key="[" line="215" column="22" />
+        <mark key="]" line="215" column="28" />
+        <mark key="." line="215" column="28" />
+        <mark key="^" line="215" column="28" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
         <mark key="[" line="5" column="21" />
@@ -716,7 +716,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>append</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -739,7 +739,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>append</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -883,7 +883,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGdldF9jaXR5KG9iaik6CiAgICByZXN1bHQgPSBOb25lCiAgICBmb3IgY29tcGFueSBpbiBvYmpbJ3JhdyddOgogICAgICAgIGlmICdjaXR5JyBpbiBjb21wYW55IGFuZCBjb21wYW55WydjaXR5J106CiAgICAgICAgICAgIHJldHVybiBjb21wYW55WydjaXR5J10K</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ3Jpc2t2aWV3IHJlc3A6IHt9Jy5mb3JtYXQoZDNjb21wYW55LnRleHQpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
