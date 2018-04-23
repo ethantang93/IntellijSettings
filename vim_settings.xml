@@ -58,7 +58,7 @@
         <mark key="^" line="3" column="149" />
         <mark key="." line="3" column="149" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1524170432586">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1524507435891">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="13" />
         <mark key="." line="18" column="18" />
@@ -185,11 +185,6 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="22" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1524174484501">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
         <mark key="[" line="134" column="22" />
         <mark key="]" line="134" column="32" />
@@ -280,11 +275,10 @@
         <mark key="^" line="147" column="13" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" timestamp="1524503624169">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="7" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="7" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" timestamp="1524508787612">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/sov/sov-overview.controller.js" timestamp="1520381451338">
         <mark key="[" line="37" column="290" />
@@ -518,7 +512,7 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1524500135376" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1524507443828" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" timestamp="1524178443951">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="13" />
@@ -744,7 +738,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>num_of</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -888,28 +882,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkM2NvbXBhbnkuc3RhdHVzX2NvZGUgPT0gMjAwOgogICAgICAgICAgICBkM2NvbXBhbnkgPSBqc29uLmxvYWRzKHByZWZpbGwpCg==</text>
+        <text encoding="base64">ZGVmIGdldF9jaXR5KG9iaik6CiAgICByZXN1bHQgPSBOb25lCiAgICBmb3IgY29tcGFueSBpbiBvYmpbJ3JhdyddOgogICAgICAgIGlmICdjaXR5JyBpbiBjb21wYW55IGFuZCBjb21wYW55WydjaXR5J106CiAgICAgICAgICAgIHJldHVybiBjb21wYW55WydjaXR5J10K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJzYXZpbmcgY29tcGFueTp7fSIuZm9ybWF0KGNvbXBhbnkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmRlZiBsZWFzZV9lbXBsb3llZShvYmopOgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgdHJpZ2dlcl9wcmVmaWxsX3Byb2Nlc3Moc2VsZiwgY2xpZW50X2lkLCBjb21wYW55X2lkLCByZXN1bHRfbGlzdCk6CiAgICAgICAgdXJsID0gJ2h0dHA6Ly9sb2NhbGhvc3Q6NjAwMC9pbnRlcm5hbC9wcmVmaWxsL3t9L3t9Jy5mb3JtYXQoY2xpZW50X2lkLCBjb21wYW55X2lkKQogICAgICAgIGQzY29tcGFueSA9IHJlcXVlc3RzLnBvc3QodXJsPXVybCArICcvZDNDb21wYW55JywganNvbj1yZXN1bHRfbGlzdCkKICAgICAgICByaXNrX3ZpZXcgPSByZXF1ZXN0cy5wb3N0KHVybD11cmwgKyAnL2QzUmlza1ZpZXcnLCBqc29uPXJlc3VsdF9saXN0KQogICAgICAgIHByZWZpbGwgPSByZXF1ZXN0cy5wb3N0KHVybD11cmwgKyAnL2QzUHJlRmlsbCcsIGpzb249cmVzdWx0X2xpc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -923,10 +917,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIG93bnNfb3BlcmF0ZXNfbGVhc2VfYWlyY3JhZnRzKG9iaik6CiAgICBsb2dnZXIuaW5mbygiRXhlY3V0aW5nIG93bnNfb3BlcmF0ZXNfbGVhc2VfYWlyY3JhZnRzIikKICAgIHJldHVybiAiTm8iCgoKZGVmIG51bWJlcl9vZl9lbXBsb3llZShvYmopOgogICAgcGFzcwoKCmRlZiBvcGVuX2FmdGVyXzJhbShvYmopOgogICAgcGFzcwoKCmRlZiBjb3Zlcl9jaGFyZ2VzKG9iaik6CiAgICBwYXNzCgoKZGVmIGRlbGl2ZXJfb3Jfb2ZmX3ByZW1pc2VfY2F0ZXJpbmdfb3JfbW9iaWxlKG9iaik6CiAgICBwYXNzCgoKZGVmIG1vdG9yY3ljbGVfc2Nvb3Rlcl9vcl9iaWN5Y2xlKG9iaik6CiAgICBwYXNzCgoKZGVmIG9mZl9wcmVtaXNlX2V4cG9zdXJlKG9iaik6CiAgICBwYXNzCgoKZGVmIHN1Yl9jb250cmFjdG9yKG9iaik6CiAgICBwYXNzCgoKZGVmIGZpdmVfb3JfbW9yZV92ZWhpY2xlc19pbl91c2Uob2JqKToKICAgIHBhc3MKCgpkZWYgdm9sdW50ZWVyX29yX2RvbmF0ZWRfbGFib3Iob2JqKToKICAgIHBhc3MKCgpkZWYgcHJpb2VyX2NvdmVyYWdlX2RlY2xpbmVkKG9iaik6CiAgICBwYXNzCgoKZGVmIGRyaXZlcl9iZXR3ZWVuXzI1XzYwKG9iaik6CiAgICBwYXNzCgoKZGVmIGdyb3VwX3RyYW5zcG9ydGF0aW9uKG9iaik6CiAgICBwYXNzCgoKZGVmIGxlYXNlX2VtcGxveWVlKG9iaik6CiAgICBwYXNzCgoKZGVmIGVuZ2FnZWRfaW5fb3RoZXJfYnVzaW5lc3Mob2JqKToKICAgIHBhc3MKCgpkZWYgdHdvX29yX21vcmVfZW1wbG95ZWVfb25fZHV0eShvYmopOgogICAgcGFzcwoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
