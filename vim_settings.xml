@@ -571,11 +571,10 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1524523503627">
-        <mark key="[" line="213" column="61" />
-        <mark key="]" line="213" column="64" />
-        <mark key="." line="213" column="64" />
-        <mark key="^" line="213" column="64" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1524597446889">
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="16" />
+        <mark key="." line="221" column="16" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
         <mark key="[" line="5" column="21" />
