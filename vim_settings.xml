@@ -524,7 +524,12 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1524507443828" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1524582372554">
+        <mark key="[" line="386" column="37" />
+        <mark key="]" line="387" column="26" />
+        <mark key="^" line="387" column="26" />
+        <mark key="." line="387" column="26" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" timestamp="1524178443951">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="13" />
