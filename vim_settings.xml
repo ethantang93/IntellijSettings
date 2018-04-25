@@ -198,7 +198,10 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="22" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1524586984565">
+      <file name="/Python Console" timestamp="1524680432568">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1524680445753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
@@ -461,12 +464,12 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1524671854369">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1524681579425">
         <mark key="'" line="1" column="14" />
-        <mark key="[" line="436" column="105" />
-        <mark key="]" line="436" column="111" />
-        <mark key="." line="436" column="111" />
-        <mark key="^" line="436" column="111" />
+        <mark key="[" line="407" column="48" />
+        <mark key="]" line="407" column="51" />
+        <mark key="." line="407" column="51" />
+        <mark key="^" line="407" column="51" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
@@ -576,10 +579,11 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1524597446889">
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="16" />
-        <mark key="." line="221" column="16" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1524681235362">
+        <mark key="[" line="188" column="13" />
+        <mark key="]" line="188" column="12" />
+        <mark key="." line="188" column="12" />
+        <mark key="^" line="188" column="12" />
       </file>
       <file name="$USER_HOME$/mvp-hdp/scripts/summary_result.py" timestamp="1524601080755" />
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
@@ -747,8 +751,8 @@
       <jump line="1" column="14" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2UK</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -771,7 +775,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -918,25 +922,25 @@
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgICAgJ2RldGFpbCc6IHJlc3VsdCwKICAgICAgICAnc3VtbWFyeSc6IHsKICAgICAgICAgICAgJ251bWJlcl9vZl9pbnNwZWN0aW9ucyc6IGxlbihyZXN1bHQpCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigiYmVuY2htYXJrIG5vdCBpbXBsZW1lbnRlZCBjbGllbnRfaWQ6IHt9IGNvbXBhbnlfaWQ6IHt9Ii5mb3JtYXQoY2xpZW50X2lkLCBjb21wYW55X2lkKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigiYmVuY2htYXJrIG5vdCBpbXBsZW1lbnRlZCBjbGllbnRfaWQ6IHt9IGNvbXBhbnlfaWQ6IHt9Ii5mb3JtYXQoY2xpZW50X2lkLCBjb21wYW55X2lkKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmlybW9ncmFwaGljID0gRmlybW9ncmFwaGljKCkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigiYmVuY2htYXJrIG5vdCBpbXBsZW1lbnRlZCBjbGllbnRfaWQ6IHt9IGNvbXBhbnlfaWQ6IHt9Ii5mb3JtYXQoY2xpZW50X2lkLCBjb21wYW55X2lkKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFSU5zIikK</text>
+        <text encoding="base64">ZmlybW9ncmFwaGljID0gRmlybW9ncmFwaGljKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -950,10 +954,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Vpbl8xJzogRGljdFF1ZXJ5KGNvbXBhbnkpLmdldCgnUmVnaXN0ZXJlZERldGFpbCcpLmdldCgnT3JnYW5pemF0aW9uSWRlbnRpZmljYXRpb25OdW1iZXJEZXRhaWwnKS5nZXQoCiAgICAgICAgICAgICAgICAwKS5nZXQoJ09yZ2FuaXphdGlvbklkZW50aWZpY2F0aW9uTnVtYmVyJykucmVzdWx0KCksCiAgICAgICAgICAgICdlaW5fMic6IERpY3RRdWVyeShjb21wYW55KS5nZXQoJ1JlZ2lzdGVyZWREZXRhaWwnKS5nZXQoJ09yZ2FuaXphdGlvbklkZW50aWZpY2F0aW9uTnVtYmVyRGV0YWlsJykuZ2V0KAogICAgICAgICAgICAgICAgMSkuZ2V0KCdPcmdhbml6YXRpb25JZGVudGlmaWNhdGlvbk51bWJlcicpLnJlc3VsdCgpLAogICAgICAgICAgICAnZWluXzMnOiBEaWN0UXVlcnkoY29tcGFueSkuZ2V0KCdSZWdpc3RlcmVkRGV0YWlsJykuZ2V0KCdPcmdhbml6YXRpb25JZGVudGlmaWNhdGlvbk51bWJlckRldGFpbCcpLmdldCgKICAgICAgICAgICAgICAgIDIpLmdldCgnT3JnYW5pemF0aW9uSWRlbnRpZmljYXRpb25OdW1iZXInKS5yZXN1bHQoKSwKICAgICAgICAgICAgJ2Vpbl80JzogRGljdFF1ZXJ5KGNvbXBhbnkpLmdldCgnUmVnaXN0ZXJlZERldGFpbCcpLmdldCgnT3JnYW5pemF0aW9uSWRlbnRpZmljYXRpb25OdW1iZXJEZXRhaWwnKS5nZXQoCiAgICAgICAgICAgICAgICAzKS5nZXQoJ09yZ2FuaXphdGlvbklkZW50aWZpY2F0aW9uTnVtYmVyJykucmVzdWx0KCksCiAgICAgICAgICAgICdlaW5fNSc6IERpY3RRdWVyeShjb21wYW55KS5nZXQoJ1JlZ2lzdGVyZWREZXRhaWwnKS5nZXQoJ09yZ2FuaXphdGlvbklkZW50aWZpY2F0aW9uTnVtYmVyRGV0YWlsJykuZ2V0KAogICAgICAgICAgICAgICAgNCkuZ2V0KCdPcmdhbml6YXRpb25JZGVudGlmaWNhdGlvbk51bWJlcicpLnJlc3VsdCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFSU5zIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Vpbl8xJzogRGljdFF1ZXJ5KGNvbXBhbnkpLmdldCgnUmVnaXN0ZXJlZERldGFpbCcpLmdldCgnT3JnYW5pemF0aW9uSWRlbnRpZmljYXRpb25OdW1iZXJEZXRhaWwnKS5nZXQoCiAgICAgICAgICAgICAgICAwKS5nZXQoJ09yZ2FuaXphdGlvbklkZW50aWZpY2F0aW9uTnVtYmVyJykucmVzdWx0KCksCiAgICAgICAgICAgICdlaW5fMic6IERpY3RRdWVyeShjb21wYW55KS5nZXQoJ1JlZ2lzdGVyZWREZXRhaWwnKS5nZXQoJ09yZ2FuaXphdGlvbklkZW50aWZpY2F0aW9uTnVtYmVyRGV0YWlsJykuZ2V0KAogICAgICAgICAgICAgICAgMSkuZ2V0KCdPcmdhbml6YXRpb25JZGVudGlmaWNhdGlvbk51bWJlcicpLnJlc3VsdCgpLAogICAgICAgICAgICAnZWluXzMnOiBEaWN0UXVlcnkoY29tcGFueSkuZ2V0KCdSZWdpc3RlcmVkRGV0YWlsJykuZ2V0KCdPcmdhbml6YXRpb25JZGVudGlmaWNhdGlvbk51bWJlckRldGFpbCcpLmdldCgKICAgICAgICAgICAgICAgIDIpLmdldCgnT3JnYW5pemF0aW9uSWRlbnRpZmljYXRpb25OdW1iZXInKS5yZXN1bHQoKSwKICAgICAgICAgICAgJ2Vpbl80JzogRGljdFF1ZXJ5KGNvbXBhbnkpLmdldCgnUmVnaXN0ZXJlZERldGFpbCcpLmdldCgnT3JnYW5pemF0aW9uSWRlbnRpZmljYXRpb25OdW1iZXJEZXRhaWwnKS5nZXQoCiAgICAgICAgICAgICAgICAzKS5nZXQoJ09yZ2FuaXphdGlvbklkZW50aWZpY2F0aW9uTnVtYmVyJykucmVzdWx0KCksCiAgICAgICAgICAgICdlaW5fNSc6IERpY3RRdWVyeShjb21wYW55KS5nZXQoJ1JlZ2lzdGVyZWREZXRhaWwnKS5nZXQoJ09yZ2FuaXphdGlvbklkZW50aWZpY2F0aW9uTnVtYmVyRGV0YWlsJykuZ2V0KAogICAgICAgICAgICAgICAgNCkuZ2V0KCdPcmdhbml6YXRpb25JZGVudGlmaWNhdGlvbk51bWJlcicpLnJlc3VsdCgpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
