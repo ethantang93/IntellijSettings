@@ -60,7 +60,7 @@
         <mark key="^" line="3" column="149" />
         <mark key="." line="3" column="149" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1524775652900">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1524776992907">
         <mark key="[" line="190" column="88" />
         <mark key="]" line="190" column="89" />
         <mark key="^" line="190" column="89" />
@@ -395,7 +395,11 @@
         <mark key="^" line="64" column="38" />
       </file>
       <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/phase1.py" timestamp="1524758072942" />
-      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/half1.py" timestamp="1524775966415" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/half1.py" timestamp="1524777307082">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/clients.service.js" timestamp="1516138538805">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="5" />
@@ -727,7 +731,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>]</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -750,7 +754,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
