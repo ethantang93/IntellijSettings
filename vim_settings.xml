@@ -350,11 +350,11 @@
         <mark key="." line="8" column="75" />
         <mark key="^" line="8" column="75" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/riskview/riskview.py" timestamp="1524593630746">
-        <mark key="[" line="128" column="68" />
-        <mark key="]" line="128" column="71" />
-        <mark key="." line="128" column="71" />
-        <mark key="^" line="128" column="71" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/riskview/riskview.py" timestamp="1525206994570">
+        <mark key="[" line="372" column="94" />
+        <mark key="]" line="372" column="94" />
+        <mark key="." line="372" column="94" />
+        <mark key="^" line="372" column="85" />
       </file>
       <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_alias.json" timestamp="1518043569534">
         <mark key="[" line="2" column="111" />
@@ -760,8 +760,8 @@
       <jump line="195" column="12" filename="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zygib2ZmaWNlcnMgcmVzdWx0IGlzIHt9Ii5mb3JtYXQocmVzdWx0KSkK</text>
+      <register name="&quot;" type="4">
+        <text>92804</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -784,7 +784,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>92804</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
