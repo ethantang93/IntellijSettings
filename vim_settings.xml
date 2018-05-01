@@ -21,11 +21,6 @@
         <mark key="^" line="0" column="96" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/mvp-hdp/scripts/industry_overview.py" timestamp="1524606569821">
-        <mark key="[" line="149" column="33" />
-        <mark key="]" line="149" column="33" />
-        <mark key="." line="149" column="33" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" timestamp="1518197756026">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="15" column="81" />
@@ -482,6 +477,7 @@
         <mark key="]" line="230" column="0" />
         <mark key="." line="230" column="0" />
       </file>
+      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/wc_test.py" timestamp="1525198545190" />
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="25" />
