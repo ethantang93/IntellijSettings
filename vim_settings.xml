@@ -321,6 +321,7 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
+      <file name="$USER_HOME$/api-gw/scripts/resources/industry/__init__.py" timestamp="1525295388686" />
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/HdpPropertyClient.java" timestamp="1519840162689">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="99" column="18" />
