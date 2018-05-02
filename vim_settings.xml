@@ -21,7 +21,7 @@
         <mark key="^" line="0" column="96" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/mvp-hdp/scripts/industry_overview.py" timestamp="1525296322799" />
+      <file name="$USER_HOME$/mvp-hdp/scripts/industry_overview.py" timestamp="1525300726063" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" timestamp="1518197756026">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="15" column="81" />
@@ -195,7 +195,13 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="22" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1525295865920">
+      <file name="$USER_HOME$/api-gw/scripts/resources/company/overview.py" timestamp="1525300269975">
+        <mark key="[" line="108" column="71" />
+        <mark key="]" line="108" column="72" />
+        <mark key="." line="108" column="72" />
+        <mark key="^" line="108" column="72" />
+      </file>
+      <file name="/Python Console" timestamp="1525299349394">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1524680445753">
@@ -260,6 +266,12 @@
         <mark key="]" line="589" column="124" />
         <mark key="^" line="589" column="124" />
         <mark key="." line="589" column="124" />
+      </file>
+      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/industry_benchmark.py" timestamp="1525301284764">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/risk360.analytics.template.html" timestamp="1518126285116">
         <mark key="[" line="21" column="50" />
@@ -405,11 +417,6 @@
         <mark key="." line="64" column="38" />
         <mark key="^" line="64" column="38" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/half1.py" timestamp="1524867024764">
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="16" column="47" />
-        <mark key="." line="16" column="47" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/clients.service.js" timestamp="1516138538805">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="5" />
@@ -506,11 +513,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/__init__.py" timestamp="1525296845814">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="17" column="32" />
-        <mark key="^" line="17" column="32" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/__init__.py" timestamp="1525300332531">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-payroll.controller.js" timestamp="1519432295504">
         <mark key="[" line="93" column="12" />
@@ -649,7 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="18" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
       <jump line="65" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
       <jump line="88" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
       <jump line="111" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
@@ -749,10 +755,11 @@
       <jump line="111" column="14" filename="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" />
       <jump line="9" column="0" filename="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" />
       <jump line="195" column="12" filename="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/api-gw/scripts/resources/benchmark/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -775,7 +782,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -922,25 +929,25 @@
         <text encoding="base64">ZGVmIGdldF9vZmZpY2VycyhvYmopOgogICAgcmVzdWx0ID0gW10KICAgIGZvciBjb21wYW55IGluIG9ialsncmF3J106CiAgICAgICAgaWYgJ19zcmMnIGluIGNvbXBhbnkgYW5kICdjb250YWN0cycgaW4gY29tcGFueVsnX3NyYyddIGFuZCBjb21wYW55Wydfc3JjJ11bJ2NvbnRhY3RzJ106CiAgICAgICAgICAgIGlmIHR5cGUoY29tcGFueVsnX3NyYyddWydjb250YWN0cyddKSBpcyBsaXN0IGFuZCBsZW4oY29tcGFueVsnX3NyYyddWydjb250YWN0cyddKSA+IDA6CiAgICAgICAgICAgICAgICBjb250YWN0cyA9IGNvbXBhbnlbJ19zcmMnXVsnY29udGFjdHMnXQogICAgICAgICAgICAgICAgZm9yIGMgaW4gY29udGFjdHM6CiAgICAgICAgICAgICAgICAgICAgY1sndGl0bGUnXSA9IGNbJ2xhYmVscyddWyd0aXRsZV9jb2RlcyddCiAgICAgICAgICAgICAgICAgICAgZGVsIGNbJ3RpdGxlX2NvZGVzJ10sIGNbJ2dlbmRlciddLCBjWydwcmltYXJ5J10sIGNbJ2xhYmVscyddCiAgICAgICAgICAgICAgICByZXN1bHQgKz0gY29udGFjdHMKICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhY3ViZXNfbGliLnNxbF9tb2RlbCBpbXBvcnQgRmVhdHVyZSBhcyBGZWF0dXJlREIK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhY3ViZXNfbGliLnNxbF9tb2RlbCBpbXBvcnQgQ2xpZW50IGFzIENsaWVudERCCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhY3ViZXNfbGliLnNxbF9tb2RlbCBpbXBvcnQgQ2xpZW50RmVhdHVyZSBhcyBDbGllbnRGZWF0dXJlREIK</text>
+        <text encoding="base64">ZnJvbSBDb21wYW55U3VtbWFyeSBpbXBvcnQgQ29tcGFueVN1bW1hcnkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGltcG9ydCBqc29uCiAgICBkID0ganNvbi5sb2FkKG9wZW4oJy9Vc2Vycy9ldGhhbnRhbmcvRG9jdW1lbnRzL2ludGVybmFsX2NhY2hlX2V4YW1wbGUuanNvbicsICdyJykpCiAgICBwcmludCBkCiAgICBwcmludCBnZXRfbG9jYXRpb25fb2Zfb3BlcmF0aW9uKGQpCg==</text>
+        <text encoding="base64">aW1wb3J0IHByb3BlcnRpZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zygib2ZmaWNlcnMgcmVzdWx0IGlzIHt9Ii5mb3JtYXQocmVzdWx0KSkK</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQganNvbmlmeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBOb25lCg==</text>
+        <text encoding="base64">SEVSRSA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -954,10 +961,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHJlc3VsdDoK</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW55X2lkID0gcmVxX2RhdGEuZ2V0KCdjb21wYW55SWQnKQogICAgICAgIGlmIGNvbXBhbnlfaWQgaXMgTm9uZToKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJDb21wYW55IFVVSUQgaXMgbm90IHByb3ZpZGVkIikKICAgICAgICAgICAgcmVzcG9uc2VbInN0YXR1cyJdID0gImZhaWxlZCIKICAgICAgICAgICAgcmVzcG9uc2VbImVycm9yQ29kZSJdID0gIjQwMCIKICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkocmVzcG9uc2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdldF9vZmZpY2VycyhvYmopOgogICAgcmVzdWx0ID0gW10KICAgIGZvciBjb21wYW55IGluIG9ialsncmF3J106CiAgICAgICAgaWYgJ19zcmMnIGluIGNvbXBhbnkgYW5kICdjb250YWN0cycgaW4gY29tcGFueVsnX3NyYyddIGFuZCBjb21wYW55Wydfc3JjJ11bJ2NvbnRhY3RzJ106CiAgICAgICAgICAgIGlmIHR5cGUoY29tcGFueVsnX3NyYyddWydjb250YWN0cyddKSBpcyBsaXN0IGFuZCBsZW4oY29tcGFueVsnX3NyYyddWydjb250YWN0cyddKSA+IDA6CiAgICAgICAgICAgICAgICBjb250YWN0cyA9IGNvbXBhbnlbJ19zcmMnXVsnY29udGFjdHMnXQogICAgICAgICAgICAgICAgY29udGFjdHMgPSBbe2s6diB9IF0KICAgICAgICAgICAgICAgcmVzdWx0ICs9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
