@@ -68,11 +68,11 @@
         <mark key="." line="214" column="84" />
       </file>
       <file name="$USER_HOME$/api-gw/scripts/resources/client/feature.py" timestamp="1525296677546" />
-      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/summary_result.py" timestamp="1525365521401">
-        <mark key="[" line="125" column="9" />
-        <mark key="]" line="125" column="12" />
-        <mark key="^" line="125" column="12" />
-        <mark key="." line="125" column="12" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/summary_result.py" timestamp="1525372011596">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="279" column="30" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
         <mark key="[" line="27" column="69" />
@@ -170,7 +170,12 @@
         <mark key="." line="84" column="68" />
         <mark key="^" line="84" column="68" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/app.py" timestamp="1525296139251" />
+      <file name="$USER_HOME$/api-gw/scripts/app.py" timestamp="1525372162806">
+        <mark key="[" line="109" column="46" />
+        <mark key="]" line="109" column="56" />
+        <mark key="^" line="109" column="56" />
+        <mark key="." line="109" column="56" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDaoImpl.java" timestamp="1515774405231">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="31" column="26" />
@@ -424,11 +429,6 @@
         <mark key="." line="64" column="38" />
         <mark key="^" line="64" column="38" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/half1.py" timestamp="1524867024764">
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="16" column="47" />
-        <mark key="." line="16" column="47" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/clients.service.js" timestamp="1516138538805">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="5" />
@@ -525,11 +525,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/__init__.py" timestamp="1525300332531">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="9" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="10" column="9" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/__init__.py" timestamp="1525372238203">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/underwriting-acord-payroll.controller.js" timestamp="1519432295504">
         <mark key="[" line="93" column="12" />
@@ -642,10 +642,10 @@
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/properties.py" timestamp="1525363801648">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/properties.py" timestamp="1525371704682">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1520462671506">
         <mark key="[" line="16" column="16" />
@@ -673,7 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
       <jump line="134" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
       <jump line="148" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
       <jump line="152" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
@@ -773,10 +772,11 @@
       <jump line="50" column="0" filename="$USER_HOME$/api-gw/scripts/resources/benchmark/__init__.py" />
       <jump line="107" column="12" filename="$USER_HOME$/api-gw/scripts/resources/company/overview.py" />
       <jump line="148" column="4" filename="$USER_HOME$/api-gw/scripts/resources/company/overview.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/api-gw/scripts/resources/benchmark/properties.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>get</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -799,7 +799,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -946,25 +946,25 @@
         <text encoding="base64">ZGVmIGdldF9vZmZpY2VycyhvYmopOgogICAgcmVzdWx0ID0gW10KICAgIGZvciBjb21wYW55IGluIG9ialsncmF3J106CiAgICAgICAgaWYgJ19zcmMnIGluIGNvbXBhbnkgYW5kICdjb250YWN0cycgaW4gY29tcGFueVsnX3NyYyddIGFuZCBjb21wYW55Wydfc3JjJ11bJ2NvbnRhY3RzJ106CiAgICAgICAgICAgIGlmIHR5cGUoY29tcGFueVsnX3NyYyddWydjb250YWN0cyddKSBpcyBsaXN0IGFuZCBsZW4oY29tcGFueVsnX3NyYyddWydjb250YWN0cyddKSA+IDA6CiAgICAgICAgICAgICAgICBjb250YWN0cyA9IGNvbXBhbnlbJ19zcmMnXVsnY29udGFjdHMnXQogICAgICAgICAgICAgICAgZm9yIGMgaW4gY29udGFjdHM6CiAgICAgICAgICAgICAgICAgICAgY1sndGl0bGUnXSA9IGNbJ2xhYmVscyddWyd0aXRsZV9jb2RlcyddCiAgICAgICAgICAgICAgICAgICAgZGVsIGNbJ3RpdGxlX2NvZGVzJ10sIGNbJ2dlbmRlciddLCBjWydwcmltYXJ5J10sIGNbJ2xhYmVscyddCiAgICAgICAgICAgICAgICByZXN1bHQgKz0gY29udGFjdHMKICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZVsic3RhdHVzIl0gPSAic3VjY2VzcyIK</text>
+        <text encoding="base64">aW1wb3J0IHByb3BlcnRpZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhZndfanNvbiA9IGpzb24ubG9hZHMoZGFmd19zdHIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGU9cHJvcGVydGllcy5pbmR1c3RyeV9odWIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBHbGFzcyBkb29yIGFwaSBwYXJhbXRlcnMKYXBpX3BhcmFtZXRlcnMgPSB7CiAgICAndXJsJyA6ICdodHRwOi8vYXBpLmdsYXNzZG9vci5jb20vYXBpL2FwaS5odG0/JywKICAgICdwYXJ0bmVyX2lkJyA6ICc1NzgwMScsCiAgICAnYXBpX2tleScgOiAnZnhscEtldlZkTm8nLAogICAgJ2Zvcm1hdCcgOiAnanNvbicsCiAgICAnYWN0aW9uJyA6ICdlbXBsb3llcnMnLAogICAgJ3VzZXJfaXAnIDogJzAuMC4wLjAnLAogICAgJ3VzZXJfYWdlbnQnIDogJ01vemlsbGEvNS4wJywKICAgICd2ZXJzaW9uJyA6ICcxJwp9Cgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiMgaW1hZ2UgYW5hbHlzaXMKaW1hZ2VfYW5hbHlzaXNfY29sPSdpbWFnZWFuYWx5c2lzJwpDTEFSSUZBSV9DTElFTlRfSUQgPSAnTHhPWnkyYUdCQmY1SlNRU19OaEhWX0I2b3k1YzBBdkJDV3QydG8tUycKQ0xBUklGQUlfQ0xJRU5UX1NFQ1JFVCA9ICdOd3JMOE1zcENkQWNHRHpjR1ljVmZjVzY2cExhTHpiUTg3TWR4OU0xJwpDTEFSSUZBSV9BQ0NFU1NfUkVRVUVTVF9VUkwgPSAnaHR0cHM6Ly9hcGkuY2xhcmlmYWkuY29tL3YxL3Rva2VuLycKQ0xBUklGQUlfTU9ERUxfTkFNRSA9ICdkM2ltYWdlcycKQ0xBUklGQUlfQ09OQ0VQVF9USFJFU0hPTEQgPSAwLjIKCgoKCgoKCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBQcm9wZXJ0aWVzIGZpbGUgdG8gaG9sZCBjb25maWd1cmF0aW9uIHRvIGNvbm5lY3QgdG8gbXlzcWwgYW5kIGhiYXNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -978,10 +978,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBDb21wYW55U3VtbWFyeSBpbXBvcnQgQ29tcGFueVN1bW1hcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQganNvbmlmeQo=</text>
+        <text encoding="base64">YWNjb3VudGFudHNfY29sdW1uPSdQdWJsaWNBY2NvdW50YW50cycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
