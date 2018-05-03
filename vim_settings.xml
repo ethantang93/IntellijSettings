@@ -68,6 +68,12 @@
         <mark key="." line="214" column="84" />
       </file>
       <file name="$USER_HOME$/api-gw/scripts/resources/client/feature.py" timestamp="1525296677546" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/summary_result.py" timestamp="1525364078914">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="28" column="27" />
@@ -195,11 +201,11 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="22" column="35" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/company/overview.py" timestamp="1525302663086">
+      <file name="$USER_HOME$/api-gw/scripts/resources/company/overview.py" timestamp="1525364270710">
         <mark key="'" line="148" column="4" />
-        <mark key="[" line="109" column="20" />
-        <mark key="]" line="109" column="24" />
-        <mark key="." line="109" column="24" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
         <mark key="^" line="109" column="24" />
       </file>
       <file name="/Python Console" timestamp="1525299349394">
@@ -262,16 +268,16 @@
         <mark key="." line="2069" column="99" />
         <mark key="^" line="2070" column="36" />
       </file>
-      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1525295994477">
+      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1525362246313">
         <mark key="[" line="589" column="106" />
         <mark key="]" line="589" column="124" />
         <mark key="^" line="589" column="124" />
         <mark key="." line="589" column="124" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/industry_benchmark.py" timestamp="1525301284764">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/industry_benchmark.py" timestamp="1525363126588">
+        <mark key="[" line="2" column="66" />
+        <mark key="]" line="2" column="66" />
+        <mark key="." line="2" column="66" />
         <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/risk360.analytics.template.html" timestamp="1518126285116">
@@ -417,6 +423,11 @@
         <mark key="]" line="64" column="38" />
         <mark key="." line="64" column="38" />
         <mark key="^" line="64" column="38" />
+      </file>
+      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/half1.py" timestamp="1524867024764">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="47" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/clients.service.js" timestamp="1516138538805">
         <mark key="[" line="8" column="6" />
@@ -631,6 +642,11 @@
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
       </file>
+      <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/properties.py" timestamp="1525363801648">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1520462671506">
         <mark key="[" line="16" column="16" />
         <mark key="]" line="16" column="15" />
@@ -760,7 +776,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>res['data']</text>
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -783,7 +799,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>res['data']</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -930,25 +946,25 @@
         <text encoding="base64">ZGVmIGdldF9vZmZpY2VycyhvYmopOgogICAgcmVzdWx0ID0gW10KICAgIGZvciBjb21wYW55IGluIG9ialsncmF3J106CiAgICAgICAgaWYgJ19zcmMnIGluIGNvbXBhbnkgYW5kICdjb250YWN0cycgaW4gY29tcGFueVsnX3NyYyddIGFuZCBjb21wYW55Wydfc3JjJ11bJ2NvbnRhY3RzJ106CiAgICAgICAgICAgIGlmIHR5cGUoY29tcGFueVsnX3NyYyddWydjb250YWN0cyddKSBpcyBsaXN0IGFuZCBsZW4oY29tcGFueVsnX3NyYyddWydjb250YWN0cyddKSA+IDA6CiAgICAgICAgICAgICAgICBjb250YWN0cyA9IGNvbXBhbnlbJ19zcmMnXVsnY29udGFjdHMnXQogICAgICAgICAgICAgICAgZm9yIGMgaW4gY29udGFjdHM6CiAgICAgICAgICAgICAgICAgICAgY1sndGl0bGUnXSA9IGNbJ2xhYmVscyddWyd0aXRsZV9jb2RlcyddCiAgICAgICAgICAgICAgICAgICAgZGVsIGNbJ3RpdGxlX2NvZGVzJ10sIGNbJ2dlbmRlciddLCBjWydwcmltYXJ5J10sIGNbJ2xhYmVscyddCiAgICAgICAgICAgICAgICByZXN1bHQgKz0gY29udGFjdHMKICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBqc29uLmxvYWRzKHJlcy50ZXh0KQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSByZXF1ZXN0cy5wb3N0KHVybD11cmwsIGpzb249eyd0eXBlJzogJ2luZHVzdHJ5JywgJ2NvbXBhbnlfaWQnOiBjbGllbnRfaWQgKyAnXycgKyBjb21wYW55X2lkfSkK</text>
+        <text encoding="base64">IyBHbGFzcyBkb29yIGFwaSBwYXJhbXRlcnMKYXBpX3BhcmFtZXRlcnMgPSB7CiAgICAndXJsJyA6ICdodHRwOi8vYXBpLmdsYXNzZG9vci5jb20vYXBpL2FwaS5odG0/JywKICAgICdwYXJ0bmVyX2lkJyA6ICc1NzgwMScsCiAgICAnYXBpX2tleScgOiAnZnhscEtldlZkTm8nLAogICAgJ2Zvcm1hdCcgOiAnanNvbicsCiAgICAnYWN0aW9uJyA6ICdlbXBsb3llcnMnLAogICAgJ3VzZXJfaXAnIDogJzAuMC4wLjAnLAogICAgJ3VzZXJfYWdlbnQnIDogJ01vemlsbGEvNS4wJywKICAgICd2ZXJzaW9uJyA6ICcxJwp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwgPSAnaHR0cDovL2xvY2FsaG9zdDo1MDAwL212cC1oZHAvaW5kdXN0cnknCg==</text>
+        <text encoding="base64">IyBQcm9wZXJ0aWVzIGZpbGUgdG8gaG9sZCBjb25maWd1cmF0aW9uIHRvIGNvbm5lY3QgdG8gbXlzcWwgYW5kIGhiYXNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ZnJvbSBDb21wYW55U3VtbWFyeSBpbXBvcnQgQ29tcGFueVN1bW1hcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQganNvbmlmeQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -962,10 +978,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBDb21wYW55U3VtbWFyeSBpbXBvcnQgQ29tcGFueVN1bW1hcnkK</text>
+        <text encoding="base64">aW1wb3J0IGdsYXNzZG9vciBhcyBnbHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbXBhbnlfZGVzY3JpcHRpb24gYXMgY29tcGFueV9kZXNjCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
