@@ -9,12 +9,6 @@
         <mark key="^" line="280" column="24" />
         <mark key="." line="280" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/pycharm.vmoptions" timestamp="1524070528138">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
-      </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-main.template.html" timestamp="1520369771723">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -69,12 +63,6 @@
         <mark key="^" line="28" column="27" />
         <mark key="." line="28" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" timestamp="1523398254484">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="10" column="34" />
-      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/FeatureService.java" timestamp="1515774706552">
         <mark key="[" line="35" column="9" />
         <mark key="]" line="36" column="19" />
@@ -86,6 +74,12 @@
         <mark key="]" line="76" column="106" />
         <mark key="." line="76" column="106" />
         <mark key="^" line="76" column="106" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" timestamp="1521832286819">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/materialize/_dropdown.scss" timestamp="1516051734209">
         <mark key="[" line="5" column="9" />
@@ -99,7 +93,6 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="/usr/local/lib/python2.7/site-packages/sqlalchemy/dialects/mysql/mysqldb.py" timestamp="1524085157325" />
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-create.template.html" timestamp="1515799312233">
         <mark key="[" line="12" column="107" />
         <mark key="]" line="12" column="117" />
@@ -130,6 +123,7 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="30" />
       </file>
+      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1525362130706" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="33" />
@@ -160,12 +154,6 @@
         <mark key="^" line="31" column="26" />
         <mark key="." line="31" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" timestamp="1521832286819">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="18" />
-      </file>
       <file name="$USER_HOME$/api-gw/scripts/resources/parameter/__init__.py" timestamp="1523292430406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="44" />
@@ -183,6 +171,12 @@
         <mark key="]" line="24" column="24" />
         <mark key="." line="24" column="38" />
         <mark key="^" line="22" column="35" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" timestamp="1523398254484">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="/Python Console" timestamp="1524174484501">
         <mark key="[" line="0" column="0" />
@@ -255,6 +249,12 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" timestamp="1523307231636">
+        <mark key="[" line="363" column="27" />
+        <mark key="]" line="363" column="27" />
+        <mark key="^" line="363" column="27" />
+        <mark key="." line="363" column="27" />
+      </file>
       <file name="$USER_HOME$/liquibase/liquibase-bin/conf/com.datacubes/datacubes.changelog.xml" timestamp="1518649136830">
         <mark key="[" line="1715" column="39" />
         <mark key="]" line="1715" column="41" />
@@ -267,17 +267,17 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="153" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" timestamp="1523307231636">
-        <mark key="[" line="363" column="27" />
-        <mark key="]" line="363" column="27" />
-        <mark key="^" line="363" column="27" />
-        <mark key="." line="363" column="27" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="0" />
         <mark key="^" line="147" column="13" />
         <mark key="." line="156" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/pycharm.vmoptions" timestamp="1524070528138">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/sov/sov-overview.controller.js" timestamp="1520381451338">
         <mark key="[" line="37" column="290" />
@@ -327,7 +327,6 @@
         <mark key="." line="8" column="75" />
         <mark key="^" line="8" column="75" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/riskview/riskview.py" timestamp="1524161903577" />
       <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_alias.json" timestamp="1518043569534">
         <mark key="[" line="2" column="111" />
         <mark key="]" line="2" column="115" />
@@ -407,7 +406,6 @@
         <mark key="^" line="24" column="49" />
         <mark key="." line="24" column="42" />
       </file>
-      <file name="/usr/local/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7/uuid.py" timestamp="1524239231274" />
       <file name="$USER_HOME$/ui/webroot/app/account/user.service.js" timestamp="1516143100171">
         <mark key="[" line="185" column="67" />
         <mark key="]" line="185" column="67" />
@@ -487,6 +485,12 @@
         <mark key="." line="93" column="15" />
         <mark key="^" line="93" column="15" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1521833786616">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/underwriting-sov-view.template.html" timestamp="1512161355396">
         <mark key="[" line="11" column="149" />
         <mark key="]" line="11" column="152" />
@@ -505,17 +509,20 @@
         <mark key="^" line="18" column="100" />
         <mark key="." line="18" column="100" />
       </file>
-      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/index.js" timestamp="1514564128707">
-        <mark key="[" line="2" column="63" />
-        <mark key="]" line="3" column="54" />
-        <mark key="^" line="3" column="54" />
-        <mark key="." line="3" column="54" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" timestamp="1524178443951">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="13" />
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1525362249901">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/index.js" timestamp="1514564128707">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="3" column="54" />
+        <mark key="^" line="3" column="54" />
+        <mark key="." line="3" column="54" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1517871684719">
         <mark key="[" line="5" column="40" />
@@ -564,12 +571,6 @@
         <mark key="]" line="143" column="28" />
         <mark key="." line="143" column="28" />
         <mark key="^" line="143" column="28" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1521833786616">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="5" />
-        <mark key="^" line="14" column="5" />
-        <mark key="." line="14" column="5" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
         <mark key="[" line="15" column="80" />
