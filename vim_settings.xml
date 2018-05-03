@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/core_matcher.py" timestamp="1524164739856">
-        <mark key="[" line="280" column="59" />
-        <mark key="]" line="280" column="24" />
-        <mark key="^" line="280" column="24" />
-        <mark key="." line="280" column="24" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/__init__.py" timestamp="1525194854413">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="41" />
+        <mark key="." line="40" column="41" />
+        <mark key="^" line="40" column="41" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/pycharm.vmoptions" timestamp="1524070528138">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-main.template.html" timestamp="1520369771723">
         <mark key="[" line="21" column="0" />
@@ -33,6 +39,9 @@
         <mark key="." line="7" column="124" />
         <mark key="^" line="7" column="124" />
       </file>
+      <file name="/a.dummy" timestamp="1523307520605">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/account/account-users.controller.js" timestamp="1516213186665">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
@@ -51,17 +60,23 @@
         <mark key="^" line="3" column="149" />
         <mark key="." line="3" column="149" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1524170432586">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="18" />
-        <mark key="^" line="16" column="17" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/infogroup_api.py" timestamp="1525124110812">
+        <mark key="[" line="213" column="60" />
+        <mark key="]" line="214" column="84" />
+        <mark key="^" line="214" column="84" />
+        <mark key="." line="214" column="84" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="28" column="27" />
         <mark key="^" line="28" column="27" />
         <mark key="." line="28" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" timestamp="1523398254484">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/FeatureService.java" timestamp="1515774706552">
         <mark key="[" line="35" column="9" />
@@ -75,12 +90,6 @@
         <mark key="." line="76" column="106" />
         <mark key="^" line="76" column="106" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" timestamp="1521832286819">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="18" />
-      </file>
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/materialize/_dropdown.scss" timestamp="1516051734209">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="9" />
@@ -92,6 +101,12 @@
         <mark key="]" line="13" column="24" />
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.py" timestamp="1525128193327">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="33" column="5" />
+        <mark key="^" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/client-create.template.html" timestamp="1515799312233">
         <mark key="[" line="12" column="107" />
@@ -123,7 +138,6 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/PublicApiController.java" timestamp="1525362130706" />
       <file name="$USER_HOME$/ui/webroot/app/underwriting/intake-list.controller.js" timestamp="1515181701101">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="33" />
@@ -148,11 +162,18 @@
         <mark key="." line="84" column="68" />
         <mark key="^" line="84" column="68" />
       </file>
+      <file name="$USER_HOME$/api-gw/scripts/app.py" timestamp="1524845774037" />
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDaoImpl.java" timestamp="1515774405231">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="31" column="26" />
         <mark key="^" line="31" column="26" />
         <mark key="." line="31" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" timestamp="1521832286819">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/api-gw/scripts/resources/parameter/__init__.py" timestamp="1523292430406">
         <mark key="[" line="0" column="0" />
@@ -172,16 +193,18 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="22" column="35" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py" timestamp="1523398254484">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="10" column="34" />
-      </file>
-      <file name="/Python Console" timestamp="1524174484501">
+      <file name="$USER_HOME$/api-gw/scripts/resources/company/overview.py" timestamp="1525210411787" />
+      <file name="/Python Console" timestamp="1525279476036">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+      </file>
+      <file name="/fragment.py" timestamp="1524680445753">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.py" timestamp="1525117499662">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="56" />
+        <mark key="." line="8" column="56" />
+        <mark key="^" line="8" column="56" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
         <mark key="[" line="134" column="22" />
@@ -231,7 +254,7 @@
         <mark key="." line="2069" column="99" />
         <mark key="^" line="2070" column="36" />
       </file>
-      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1524251351172">
+      <file name="$USER_HOME$/mvp-hdp/scripts/server.py" timestamp="1525293426817">
         <mark key="[" line="589" column="106" />
         <mark key="]" line="589" column="124" />
         <mark key="^" line="589" column="124" />
@@ -249,12 +272,6 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" timestamp="1523307231636">
-        <mark key="[" line="363" column="27" />
-        <mark key="]" line="363" column="27" />
-        <mark key="^" line="363" column="27" />
-        <mark key="." line="363" column="27" />
-      </file>
       <file name="$USER_HOME$/liquibase/liquibase-bin/conf/com.datacubes/datacubes.changelog.xml" timestamp="1518649136830">
         <mark key="[" line="1715" column="39" />
         <mark key="]" line="1715" column="41" />
@@ -267,17 +284,24 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="153" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" timestamp="1523307231636">
+        <mark key="[" line="363" column="27" />
+        <mark key="]" line="363" column="27" />
+        <mark key="^" line="363" column="27" />
+        <mark key="." line="363" column="27" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="0" />
         <mark key="^" line="147" column="13" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/pycharm.vmoptions" timestamp="1524070528138">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" timestamp="1525293687027">
+        <mark key="'" line="205" column="12" />
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="52" />
+        <mark key="." line="9" column="52" />
+        <mark key="^" line="9" column="52" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/sov/sov-overview.controller.js" timestamp="1520381451338">
         <mark key="[" line="37" column="290" />
@@ -297,6 +321,7 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
+      <file name="$USER_HOME$/api-gw/scripts/resources/industry/__init__.py" timestamp="1525295388686" />
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/client/HdpPropertyClient.java" timestamp="1519840162689">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="99" column="18" />
@@ -327,6 +352,12 @@
         <mark key="." line="8" column="75" />
         <mark key="^" line="8" column="75" />
       </file>
+      <file name="$USER_HOME$/api-gw/scripts/resources/riskview/riskview.py" timestamp="1525206994570">
+        <mark key="[" line="372" column="94" />
+        <mark key="]" line="372" column="94" />
+        <mark key="." line="372" column="94" />
+        <mark key="^" line="372" column="85" />
+      </file>
       <file name="$USER_HOME$/es-tools/schema/asset_hub/quote_alias.json" timestamp="1518043569534">
         <mark key="[" line="2" column="111" />
         <mark key="]" line="2" column="115" />
@@ -351,12 +382,12 @@
         <mark key="^" line="62" column="24" />
         <mark key="." line="107" column="28" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1524173346878">
-        <mark key="'" line="1" column="10" />
-        <mark key="[" line="84" column="32" />
-        <mark key="]" line="84" column="50" />
-        <mark key="^" line="84" column="50" />
-        <mark key="." line="84" column="50" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1524687593239">
+        <mark key="'" line="141" column="4" />
+        <mark key="[" line="90" column="12" />
+        <mark key="]" line="90" column="56" />
+        <mark key="^" line="90" column="56" />
+        <mark key="." line="90" column="56" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1518130044401">
         <mark key="[" line="28" column="0" />
@@ -382,6 +413,11 @@
         <mark key="." line="64" column="38" />
         <mark key="^" line="64" column="38" />
       </file>
+      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/half1.py" timestamp="1524867024764">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/clients.service.js" timestamp="1516138538805">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="5" />
@@ -400,7 +436,7 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/parameters.py" timestamp="1524082400370">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/parameters.py" timestamp="1524675036544">
         <mark key="[" line="24" column="42" />
         <mark key="]" line="24" column="42" />
         <mark key="^" line="24" column="49" />
@@ -436,13 +472,13 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1524250133246">
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1525117922532">
         <mark key="'" line="1" column="14" />
-        <mark key="[" line="163" column="101" />
-        <mark key="]" line="164" column="18" />
-        <mark key="." line="164" column="18" />
-        <mark key="^" line="164" column="18" />
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="0" />
+        <mark key="." line="230" column="0" />
       </file>
+      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/wc_test.py" timestamp="1525198545190" />
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="25" />
@@ -485,11 +521,11 @@
         <mark key="." line="93" column="15" />
         <mark key="^" line="93" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1521833786616">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="5" />
-        <mark key="^" line="14" column="5" />
-        <mark key="." line="14" column="5" />
+      <file name="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/__init__.py" timestamp="1524774718320">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/underwriting-sov-view.template.html" timestamp="1512161355396">
         <mark key="[" line="11" column="149" />
@@ -509,13 +545,13 @@
         <mark key="^" line="18" column="100" />
         <mark key="." line="18" column="100" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" timestamp="1524178443951">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="9" column="13" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/cache/cache.py" timestamp="1524587798585">
+        <mark key="[" line="77" column="26" />
+        <mark key="]" line="77" column="31" />
+        <mark key="." line="77" column="31" />
+        <mark key="^" line="77" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525362249901">
+      <file name="/Dummy.txt" timestamp="1525199790702">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/acord/index.js" timestamp="1514564128707">
@@ -523,6 +559,18 @@
         <mark key="]" line="3" column="54" />
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1524865573533">
+        <mark key="[" line="315" column="78" />
+        <mark key="]" line="338" column="36" />
+        <mark key="." line="338" column="36" />
+        <mark key="^" line="338" column="36" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" timestamp="1524178443951">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/index.js" timestamp="1517871684719">
         <mark key="[" line="5" column="40" />
@@ -548,12 +596,7 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1524250054379">
-        <mark key="[" line="14" column="58" />
-        <mark key="]" line="14" column="58" />
-        <mark key="." line="14" column="58" />
-        <mark key="^" line="14" column="65" />
-      </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/es_company_search.py" timestamp="1525114564307" />
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="22" />
@@ -572,14 +615,24 @@
         <mark key="." line="143" column="28" />
         <mark key="^" line="143" column="28" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1521833786616">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/feature-assignment.template.html" timestamp="1516054990048">
         <mark key="[" line="15" column="80" />
         <mark key="]" line="15" column="88" />
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" timestamp="1524251247541">
+      <file name="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" timestamp="1524596169666">
         <mark key="'" line="1" column="12" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="8" />
+        <mark key="^" line="5" column="87" />
+        <mark key="." line="51" column="8" />
       </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1520462671506">
         <mark key="[" line="16" column="16" />
@@ -607,13 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="45" filename="$USER_HOME$/ui/webroot/app/underwriting/risk360/properties/properties.workflow.template.html" />
-      <jump line="579" column="0" filename="$USER_HOME$/ui/webroot/app/config/states.js" />
-      <jump line="115" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
-      <jump line="39" column="52" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
-      <jump line="62" column="60" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
-      <jump line="225" column="32" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/PropertyService.java" />
       <jump line="43" column="18" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
       <jump line="65" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
       <jump line="88" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
@@ -704,13 +750,20 @@
       <jump line="18" column="0" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
       <jump line="111" column="67" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
       <jump line="114" column="4" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
-      <jump line="1" column="10" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
       <jump line="165" column="17" filename="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" />
       <jump line="1" column="14" filename="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" />
+      <jump line="75" column="17" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
+      <jump line="112" column="4" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
+      <jump line="1" column="14" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
+      <jump line="44" column="30" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
+      <jump line="124" column="4" filename="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" />
+      <jump line="111" column="14" filename="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" />
+      <jump line="195" column="12" filename="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -733,7 +786,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>riskview_endpointb_response_sample</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -877,28 +930,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0yWydjb21wYW55X2lkJ10gPSBpdGVtMVsnY29tcGFueV9pZCddCg==</text>
+        <text encoding="base64">ZGVmIGdldF9vZmZpY2VycyhvYmopOgogICAgcmVzdWx0ID0gW10KICAgIGZvciBjb21wYW55IGluIG9ialsncmF3J106CiAgICAgICAgaWYgJ19zcmMnIGluIGNvbXBhbnkgYW5kICdjb250YWN0cycgaW4gY29tcGFueVsnX3NyYyddIGFuZCBjb21wYW55Wydfc3JjJ11bJ2NvbnRhY3RzJ106CiAgICAgICAgICAgIGlmIHR5cGUoY29tcGFueVsnX3NyYyddWydjb250YWN0cyddKSBpcyBsaXN0IGFuZCBsZW4oY29tcGFueVsnX3NyYyddWydjb250YWN0cyddKSA+IDA6CiAgICAgICAgICAgICAgICBjb250YWN0cyA9IGNvbXBhbnlbJ19zcmMnXVsnY29udGFjdHMnXQogICAgICAgICAgICAgICAgZm9yIGMgaW4gY29udGFjdHM6CiAgICAgICAgICAgICAgICAgICAgY1sndGl0bGUnXSA9IGNbJ2xhYmVscyddWyd0aXRsZV9jb2RlcyddCiAgICAgICAgICAgICAgICAgICAgZGVsIGNbJ3RpdGxlX2NvZGVzJ10sIGNbJ2dlbmRlciddLCBjWydwcmltYXJ5J10sIGNbJ2xhYmVscyddCiAgICAgICAgICAgICAgICByZXN1bHQgKz0gY29udGFjdHMKICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZW5lcmF0ZV9jb21wYW55X3V1aWQoc2VsZiwgY29tcGFuaWVzKToKICAgICAgICBjb21wYW5pZXNfdG9fdXBkYXRlID0gW10KICAgICAgICBmb3IgY29tcGFueSBpbiBjb21wYW5pZXM6CiAgICAgICAgICAgIGlmICdjb21wYW55X2lkJyBpbiBjb21wYW55OgogICAgICAgICAgICAgICAgaWYgY29tcGFueVsnY29tcGFueV9pZCddICE9ICcnOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGNvbXBhbnlbJ2NvbXBhbnlfaWQnXSA9IHN0cih1dWlkLnV1aWQ0KCkpCiAgICAgICAgICAgIGNvbXBhbmllc190b191cGRhdGUuYXBwZW5kKGNvbXBhbnkpCiAgICAgICAgbG9nZ2VyLmRlYnVnKCJzdGFydGluZyBzYXZlX25ld19jb21wYW5pZXMgbWV0aG9kIikKICAgICAgICAjIFNBVklORyBORVcgQ09NUEFOSUVTIFdJVEggTkVXTFkgR0VORVJBVEVEIENPTVBBTlkgSUQKICAgICAgICAjIHByb2MgPSBQcm9jZXNzKHRhcmdldD1zZWxmLmVzX2NvbXBhbnlfYXBpLmJ1bGtfdXBkYXRlX2NvbXBhbnlfcmVjb3JkLCBhcmdzPShjb21wYW5pZXNfdG9fdXBkYXRlLCkpCiAgICAgICAgIyBwcm9jLnN0YXJ0KCkKICAgICAgICBzZWxmLmVzX2NvbXBhbnlfYXBpLmJ1bGtfdXBkYXRlX2NvbXBhbnlfcmVjb3JkKGNvbXBhbmllc190b191cGRhdGUpCiAgICAgICAgcmV0dXJuIGNvbXBhbmllcwo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGltcG9ydCBqc29uCiAgICBkID0ganNvbi5sb2FkKG9wZW4oJy9Vc2Vycy9ldGhhbnRhbmcvRG9jdW1lbnRzL2ludGVybmFsX2NhY2hlX2V4YW1wbGUuanNvbicsICdyJykpCiAgICBwcmludCBkCiAgICBwcmludCBnZXRfbG9jYXRpb25fb2Zfb3BlcmF0aW9uKGQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBqc29uLmR1bXBzKHNlbGYuYWdncmVnYXRlZF9saXN0KQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zygib2ZmaWNlcnMgcmVzdWx0IGlzIHt9Ii5mb3JtYXQocmVzdWx0KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgdXVpZC5OQU1FU1BBQ0VfRE5TCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgaXRlbTFbJ2NvbXBhbnlfbmFtZSddCg==</text>
+        <text encoding="base64">ICAgIGlmIHJlc3VsdDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpbmFsX3Jlc3BvbnNlID0geydjb21wYW5pZXMnOiBbXX0K</text>
+        <text encoding="base64">ZGVmIGdldF9vZmZpY2VycyhvYmopOgogICAgcmVzdWx0ID0gW10KICAgIGZvciBjb21wYW55IGluIG9ialsncmF3J106CiAgICAgICAgaWYgJ19zcmMnIGluIGNvbXBhbnkgYW5kICdjb250YWN0cycgaW4gY29tcGFueVsnX3NyYyddIGFuZCBjb21wYW55Wydfc3JjJ11bJ2NvbnRhY3RzJ106CiAgICAgICAgICAgIGlmIHR5cGUoY29tcGFueVsnX3NyYyddWydjb250YWN0cyddKSBpcyBsaXN0IGFuZCBsZW4oY29tcGFueVsnX3NyYyddWydjb250YWN0cyddKSA+IDA6CiAgICAgICAgICAgICAgICBjb250YWN0cyA9IGNvbXBhbnlbJ19zcmMnXVsnY29udGFjdHMnXQogICAgICAgICAgICAgICAgY29udGFjdHMgPSBbe2s6diB9IF0KICAgICAgICAgICAgICAgcmVzdWx0ICs9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIiIgKyBzdHIoY291bnRlcikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGNvbnRhY3RzCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -912,10 +965,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBjaGVja19pZl9pbl9yZXN1bHRfZGljdChzZWxmLCBpdGVtKToKICAgICAgICBmb3IgaywgdiBpbiBzZWxmLnJlc3VsdF9kaWN0Lml0ZXJpdGVtcygpOgogICAgICAgICAgICBpZiBpdGVtIGluIHY6CiAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZSwgawogICAgICAgIHJldHVybiBGYWxzZSwgTm9uZQoKICAgIGRlZiBhZGRfaW5fcmVzdWx0X2RpY3Qoc2VsZiwgaXRlbSwga2V5KToKICAgICAgICBpZiBpc2luc3RhbmNlKHNlbGYucmVzdWx0X2RpY3Rba2V5XSwgbGlzdCk6CiAgICAgICAgICAgIHNlbGYucmVzdWx0X2RpY3Rba2V5XS5hcHBlbmQoaXRlbSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLnJlc3VsdF9kaWN0W2tleV0gPSBbaXRlbV0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjWyd0aXRsZSddID0gY1snbGFiZWxzJ11bJ3RpdGxlX2NvZGVzJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
