@@ -673,6 +673,7 @@
         <mark key="^" line="411" column="51" />
         <mark key="." line="411" column="51" />
       </file>
+      <file name="$USER_HOME$/mvp-hdp/scripts/Sentiment_Score_Raw_Text_Function.py" timestamp="1525376198982" />
     </filemarks>
     <jumps>
       <jump line="148" column="0" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
