@@ -485,6 +485,13 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/firmographic_api.py" timestamp="1525458828393">
+        <mark key="'" line="1" column="14" />
+        <mark key="[" line="65" column="27" />
+        <mark key="]" line="65" column="31" />
+        <mark key="." line="65" column="31" />
+        <mark key="^" line="65" column="31" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/super-admin/index.js" timestamp="1516210118548">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="25" />
@@ -569,11 +576,11 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1524865573533">
-        <mark key="[" line="315" column="78" />
-        <mark key="]" line="338" column="36" />
-        <mark key="." line="338" column="36" />
-        <mark key="^" line="338" column="36" />
+      <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company/dnb_api.py" timestamp="1525458973103">
+        <mark key="[" line="46" column="51" />
+        <mark key="]" line="47" column="37" />
+        <mark key="." line="47" column="37" />
+        <mark key="^" line="47" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" timestamp="1524178443951">
         <mark key="[" line="9" column="0" />
@@ -778,7 +785,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>dnb</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -801,7 +808,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>dnb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
