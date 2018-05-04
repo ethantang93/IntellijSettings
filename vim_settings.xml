@@ -400,6 +400,13 @@
         <mark key="^" line="62" column="24" />
         <mark key="." line="107" column="28" />
       </file>
+      <file name="$USER_HOME$/api-gw/scripts/resources/company_overview/__init__.py" timestamp="1524687593239">
+        <mark key="'" line="141" column="4" />
+        <mark key="[" line="90" column="12" />
+        <mark key="]" line="90" column="56" />
+        <mark key="^" line="90" column="56" />
+        <mark key="." line="90" column="56" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/risk360/prefill/prefill-general-info-view.html" timestamp="1518130044401">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -634,6 +641,13 @@
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
       </file>
+      <file name="$USER_HOME$/api-gw/scripts/resources/company/__init__.py" timestamp="1525448460541">
+        <mark key="'" line="1" column="12" />
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="20" />
+        <mark key="^" line="22" column="20" />
+        <mark key="." line="22" column="20" />
+      </file>
       <file name="$USER_HOME$/api-gw/scripts/resources/benchmark/properties.py" timestamp="1525371704682">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -768,8 +782,8 @@
       <jump line="118" column="0" filename="$USER_HOME$/mvp-hdp/scripts/server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>client id is {}</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -792,7 +806,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>client id is {}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
