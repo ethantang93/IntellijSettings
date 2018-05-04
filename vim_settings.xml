@@ -170,12 +170,6 @@
         <mark key="." line="84" column="68" />
         <mark key="^" line="84" column="68" />
       </file>
-      <file name="$USER_HOME$/api-gw/scripts/app.py" timestamp="1525372162806">
-        <mark key="[" line="67" column="46" />
-        <mark key="]" line="67" column="56" />
-        <mark key="^" line="67" column="56" />
-        <mark key="." line="67" column="56" />
-      </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDaoImpl.java" timestamp="1515774405231">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="31" column="26" />
