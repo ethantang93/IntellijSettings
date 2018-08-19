@@ -293,11 +293,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="21" column="129" />
       </file>
-      <file name="$USER_HOME$/my_algos/AlienDictionary.java" timestamp="1534714469636">
-        <mark key="[" line="10" column="67" />
-        <mark key="]" line="10" column="47" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="10" column="47" />
+      <file name="$USER_HOME$/my_algos/AlienDictionary.java" timestamp="1534715743067">
+        <mark key="[" line="14" column="67" />
+        <mark key="]" line="14" column="69" />
+        <mark key="^" line="14" column="69" />
+        <mark key="." line="14" column="69" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company_matcher.py" timestamp="1521744783188">
         <mark key="[" line="91" column="32" />
@@ -808,7 +808,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3RlciB3MSA9IGN1ci5jaGFyQXQoaiksIHcyID0gIG5leHQuY2hhckF0KGopOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -978,25 +978,25 @@
         <text>[&quot;a&quot;, &quot;e&quot;], [&quot;a&quot;, &quot;a&quot;], [&quot;x&quot;, &quot;x&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3RlciB3MSA9IGN1ci5jaGFyQXQoaiksIHcyID0gIG5leHQuY2hhckF0KGopOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YnVpbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3RlciB3MSA9IGN1ci5jaGFyQXQoaiksIHcyID0gIG5leHQuY2hhckF0KGopOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PGludFtdPiB3ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">YnVpbGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAuZ2V0KG51bWVyYXRvcikK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PGludFtdPiB3ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAuZ2V0KG51bWVyYXRvcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gcXVlcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gcXVlcnkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1013,7 +1013,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRoZSBpbnB1dCBpczogdmVjdG9yPHBhaXI8c3RyaW5nLCBzdHJpbmc+PiBlcXVhdGlvbnMsIHZlY3Rvcjxkb3VibGU+JiB2YWx1ZXMsIHZlY3RvcjxwYWlyPHN0cmluZywgc3RyaW5nPj4gcXVlcmllcyAsIHdoZXJlIGVxdWF0aW9ucy5zaXplKCkgPT0gdmFsdWVzLnNpemUoKSwgYW5kIHRoZSB2YWx1ZXMgYXJlIHBvc2l0aXZlLiBUaGlzIHJlcHJlc2VudHMgdGhlIGVxdWF0aW9ucy4gUmV0dXJuIHZlY3Rvcjxkb3VibGU+Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber number</text>
