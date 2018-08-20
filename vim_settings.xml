@@ -293,11 +293,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="21" column="129" />
       </file>
-      <file name="$USER_HOME$/my_algos/AlienDictionary.java" timestamp="1534715743067">
-        <mark key="[" line="14" column="67" />
-        <mark key="]" line="14" column="69" />
-        <mark key="^" line="14" column="69" />
-        <mark key="." line="14" column="69" />
+      <file name="$USER_HOME$/my_algos/AlienDictionary.java" timestamp="1534726041786">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="8" column="56" />
+        <mark key="^" line="8" column="56" />
+        <mark key="." line="8" column="56" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company_matcher.py" timestamp="1521744783188">
         <mark key="[" line="91" column="32" />
@@ -332,7 +332,6 @@
       <file name="/DummyFile.xpath" timestamp="1534489811926">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/my_algos/EvaluateDivision.java" timestamp="1534709112021" />
       <file name="$USER_HOME$/ui/webroot/app/assets/sass/underwriting/_properties.scss" timestamp="1516221890012">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="22" />
@@ -807,8 +806,8 @@
       <jump line="22" column="95" filename="$USER_HOME$/Documents/my_algos/EvaluateDivision.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>, 0</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -831,7 +830,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>, 0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
