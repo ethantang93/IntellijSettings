@@ -293,11 +293,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="21" column="129" />
       </file>
-      <file name="$USER_HOME$/my_algos/AlienDictionary.java" timestamp="1534726041786">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="8" column="56" />
-        <mark key="^" line="8" column="56" />
-        <mark key="." line="8" column="56" />
+      <file name="$USER_HOME$/my_algos/AlienDictionary.java" timestamp="1534727891452">
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="47" column="31" />
+        <mark key="." line="47" column="31" />
+        <mark key="^" line="47" column="31" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company_matcher.py" timestamp="1521744783188">
         <mark key="[" line="91" column="32" />
@@ -807,7 +807,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 0</text>
+        <text>&quot;dummy&quot;</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -830,7 +830,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, 0</text>
+        <text>&quot;dummy&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -977,25 +977,25 @@
         <text>[&quot;a&quot;, &quot;e&quot;], [&quot;a&quot;, &quot;a&quot;], [&quot;x&quot;, &quot;x&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3RlciB3MSA9IGN1ci5jaGFyQXQoaiksIHcyID0gIG5leHQuY2hhckF0KGopOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YnVpbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PGludFtdPiB3ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAuZ2V0KG51bWVyYXRvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3RlciB3MSA9IGN1ci5jaGFyQXQoaiksIHcyID0gIG5leHQuY2hhckF0KGopOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YnVpbGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gcXVlcnkK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PGludFtdPiB3ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1009,13 +1009,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAuZ2V0KG51bWVyYXRvcikK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set relativenumber number</text>
+        <text>6</text>
       </register>
     </registers>
     <search>
@@ -1056,6 +1056,7 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5rZA==</entry>
         <entry>set relativenumber number</entry>
+        <entry>6</entry>
       </history-cmd>
       <history-expr />
       <history-input />
