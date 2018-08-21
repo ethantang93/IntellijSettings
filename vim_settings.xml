@@ -440,11 +440,12 @@
         <mark key="^" line="185" column="67" />
         <mark key="." line="185" column="67" />
       </file>
-      <file name="$USER_HOME$/my_algos/CourseSchedule.java" timestamp="1534822213033">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="24" column="75" />
-        <mark key="^" line="24" column="75" />
-        <mark key="." line="24" column="75" />
+      <file name="$USER_HOME$/my_algos/CourseSchedule.java" timestamp="1534823601798">
+        <mark key="'" line="29" column="10" />
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="33" />
+        <mark key="^" line="40" column="33" />
+        <mark key="." line="40" column="33" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/tools/asset.service.js" timestamp="1512420851176">
         <mark key="[" line="156" column="0" />
@@ -710,7 +711,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="27" filename="$USER_HOME$/ui/webroot/app/underwriting/loss-run/underwriting-lossrun-chart.controller.js" />
       <jump line="61" column="47" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/service/ClientService.java" />
       <jump line="37" column="105" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/entity/Client.java" />
       <jump line="42" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
@@ -810,10 +810,11 @@
       <jump line="118" column="0" filename="$USER_HOME$/mvp-hdp/scripts/server.py" />
       <jump line="269" column="13" filename="$USER_HOME$/api-gw/scripts/resources/prefill/d3_prefill/d3_common.py" />
       <jump line="22" column="95" filename="$USER_HOME$/Documents/my_algos/EvaluateDivision.java" />
+      <jump line="27" column="10" filename="$USER_HOME$/my_algos/CourseSchedule.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text>degree</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -836,7 +837,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>degree</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -1021,7 +1022,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>6</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -1063,6 +1064,7 @@
         <entry encoding="base64">JzwsJz5rZA==</entry>
         <entry>set relativenumber number</entry>
         <entry>6</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
