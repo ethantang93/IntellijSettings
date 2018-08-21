@@ -12,6 +12,10 @@
   <action id="IntroduceVariable" />
   <action id="IpnbRunAllCellsAction" />
   <action id="ParameterInfo" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ReplaceInPath" />
   <action id="Run" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="ctrl r" />
