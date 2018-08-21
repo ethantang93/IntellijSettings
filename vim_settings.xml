@@ -410,12 +410,12 @@
         <mark key="." line="47" column="37" />
         <mark key="^" line="47" column="37" />
       </file>
-      <file name="$USER_HOME$/my_algos/CourseScheduleII.java" timestamp="1534828514042">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="74" column="48" />
-        <mark key="]" line="74" column="48" />
-        <mark key="^" line="74" column="48" />
-        <mark key="." line="74" column="48" />
+      <file name="$USER_HOME$/my_algos/CourseScheduleII.java" timestamp="1534829603903">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="63" column="9" />
+        <mark key="]" line="65" column="29" />
+        <mark key="^" line="65" column="29" />
+        <mark key="." line="65" column="29" />
       </file>
       <file name="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/FeatureDao.java" timestamp="1515774238770">
         <mark key="[" line="10" column="0" />
@@ -824,7 +824,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>canFinish</text>
+        <text>result</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -847,7 +847,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>canFinish</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
