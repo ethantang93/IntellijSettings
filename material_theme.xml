@@ -1,9 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.2-2018.1" />
-    <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="84ffff" />
-    <option name="accentColor" value="84ffff" />
+    <option name="accentColor" value="7CB342" />
     <option name="darkTitleBar" value="true" />
     <option name="userId" value="491586e8:1654637eb0b:-7fff" />
   </component>
