@@ -356,11 +356,12 @@
         <mark key="^" line="12" column="117" />
         <mark key="." line="12" column="117" />
       </file>
-      <file name="$USER_HOME$/my_algos/RandomizedSet.java" timestamp="1536206489930">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="71" />
-        <mark key="." line="22" column="71" />
-        <mark key="^" line="22" column="71" />
+      <file name="$USER_HOME$/my_algos/RandomizedSet.java" timestamp="1536211120427">
+        <mark key="'" line="21" column="11" />
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="29" column="32" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.view.html" timestamp="1517852672220">
         <mark key="[" line="34" column="18" />
@@ -735,7 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="105" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/entity/Client.java" />
       <jump line="42" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
       <jump line="34" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
       <jump line="44" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
@@ -835,10 +835,11 @@
       <jump line="22" column="95" filename="$USER_HOME$/Documents/my_algos/EvaluateDivision.java" />
       <jump line="27" column="10" filename="$USER_HOME$/my_algos/CourseSchedule.java" />
       <jump line="74" column="0" filename="$USER_HOME$/my_algos/CourseScheduleII.java" />
+      <jump line="16" column="11" filename="$USER_HOME$/my_algos/RandomizedSet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMubG9jYXRpb25zLmNvbnRhaW5zS2V5KHZhbCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>this.numbers.size()-1</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -861,7 +862,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>this.numbers.size()-1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -1008,25 +1009,25 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0Mik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMubG9jYXRpb25zLmNvbnRhaW5zS2V5KHZhbCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmluZGV4TWFwLnJlbW92ZSh0aGlzLm51bWJlcnMuc2l6ZSgpLTEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm51bWJlcnMucmVtb3ZlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm51bWJlcnMuYWRkKHZhbCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTaW5jZSAyIGlzIHRoZSBvbmx5IG51bWJlciBpbiB0aGUgc2V0LCBnZXRSYW5kb20gYWx3YXlzIHJldHVybiAyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAyIHdhcyBhbHJlYWR5IGluIHRoZSBzZXQsIHNvIHJldHVybiBmYWxzZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZW1vdmVzIDEgZnJvbSB0aGUgc2V0LCByZXR1cm5zIHRydWUuIFNldCBub3cgY29udGFpbnMgWzJdLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBnZXRSYW5kb20gc2hvdWxkIHJldHVybiBlaXRoZXIgMSBvciAyIHJhbmRvbWx5Lgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1040,10 +1041,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBJbnNlcnRzIDEgdG8gdGhlIHNldC4gUmV0dXJucyB0cnVlIGFzIDEgd2FzIGluc2VydGVkIHN1Y2Nlc3NmdWxseS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZXR1cm5zIGZhbHNlIGFzIDIgZG9lcyBub3QgZXhpc3QgaW4gdGhlIHNldC4K</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
