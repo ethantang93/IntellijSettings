@@ -20,6 +20,7 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
       </file>
+      <file name="$USER_HOME$/ideaProjects/leetcode/src/NumberOfConnectedComponents.java" timestamp="1537416191390" />
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/sql_model.py" timestamp="1523044235137">
         <mark key="[" line="167" column="51" />
         <mark key="]" line="167" column="51" />
@@ -310,10 +311,10 @@
         <mark key="." line="33" column="5" />
         <mark key="^" line="33" column="5" />
       </file>
-      <file name="$USER_HOME$/my_algos/AlienDictionary.java" timestamp="1534821295935">
-        <mark key="[" line="47" column="45" />
-        <mark key="]" line="47" column="45" />
-        <mark key="." line="47" column="45" />
+      <file name="$USER_HOME$/my_algos/AlienDictionary.java" timestamp="1537416299611">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="47" column="45" />
       </file>
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/company_matcher.py" timestamp="1521744783188">
@@ -635,6 +636,11 @@
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
       </file>
+      <file name="$USER_HOME$/ideaProjects/leetcode/src/CloneGraph.java" timestamp="1537416357864">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1521833786616">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="5" />
@@ -741,7 +747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
       <jump line="34" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
       <jump line="44" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
       <jump line="76" column="0" filename="$USER_HOME$/mvp-web-api/mvp-app/src/main/java/com/datacubes/mvp/dao/ClientFeaturesDaoImpl.java" />
@@ -841,10 +846,11 @@
       <jump line="27" column="10" filename="$USER_HOME$/my_algos/CourseSchedule.java" />
       <jump line="74" column="0" filename="$USER_HOME$/my_algos/CourseScheduleII.java" />
       <jump line="16" column="11" filename="$USER_HOME$/my_algos/RandomizedSet.java" />
+      <jump line="25" column="26" filename="$USER_HOME$/ideaProjects/leetcode/src/CloneGraph.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Solution</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQo=</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -1014,25 +1020,25 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0Mik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmluZGV4TWFwLnJlbW92ZSh0aGlzLm51bWJlcnMuc2l6ZSgpLTEpOwo=</text>
+        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm51bWJlcnMucmVtb3ZlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3RlciBjMSA9IGN1ci5jaGFyQXQoaiksIGMyID0gIG5leHQuY2hhckF0KGopOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm51bWJlcnMuYWRkKHZhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmluZGV4TWFwLnJlbW92ZSh0aGlzLm51bWJlcnMuc2l6ZSgpLTEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTaW5jZSAyIGlzIHRoZSBvbmx5IG51bWJlciBpbiB0aGUgc2V0LCBnZXRSYW5kb20gYWx3YXlzIHJldHVybiAyLgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm51bWJlcnMucmVtb3ZlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAyIHdhcyBhbHJlYWR5IGluIHRoZSBzZXQsIHNvIHJldHVybiBmYWxzZS4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm51bWJlcnMuYWRkKHZhbCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBSZW1vdmVzIDEgZnJvbSB0aGUgc2V0LCByZXR1cm5zIHRydWUuIFNldCBub3cgY29udGFpbnMgWzJdLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBTaW5jZSAyIGlzIHRoZSBvbmx5IG51bWJlciBpbiB0aGUgc2V0LCBnZXRSYW5kb20gYWx3YXlzIHJldHVybiAyLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBnZXRSYW5kb20gc2hvdWxkIHJldHVybiBlaXRoZXIgMSBvciAyIHJhbmRvbWx5Lgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAyIHdhcyBhbHJlYWR5IGluIHRoZSBzZXQsIHNvIHJldHVybiBmYWxzZS4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1046,10 +1052,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJbnNlcnRzIDEgdG8gdGhlIHNldC4gUmV0dXJucyB0cnVlIGFzIDEgd2FzIGluc2VydGVkIHN1Y2Nlc3NmdWxseS4K</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZW1vdmVzIDEgZnJvbSB0aGUgc2V0LCByZXR1cm5zIHRydWUuIFNldCBub3cgY29udGFpbnMgWzJdLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBSZXR1cm5zIGZhbHNlIGFzIDIgZG9lcyBub3QgZXhpc3QgaW4gdGhlIHNldC4K</text>
+        <text encoding="base64">ICAgICAgICAvLyBnZXRSYW5kb20gc2hvdWxkIHJldHVybiBlaXRoZXIgMSBvciAyIHJhbmRvbWx5Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
