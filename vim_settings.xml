@@ -117,7 +117,11 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/ideaProjects/leetcode/src/AlienDictionary.java" timestamp="1537415632062" />
+      <file name="$USER_HOME$/ideaProjects/leetcode/src/AlienDictionary.java" timestamp="1537415717855">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-file.template.html" timestamp="1519250432986">
         <mark key="[" line="3" column="97" />
         <mark key="]" line="3" column="95" />
@@ -840,7 +844,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.numbers.size()-1</text>
+        <text>Solution</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -863,7 +867,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>this.numbers.size()-1</text>
+        <text>Solution</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
