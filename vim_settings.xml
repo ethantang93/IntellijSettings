@@ -356,6 +356,7 @@
       <file name="/DummyFile.xpath" timestamp="1534489811926">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gs-spring-boot/complete/Dockerfile" timestamp="1537420353341" />
       <file name="$APPLICATION_CONFIG_DIR$/pycharm.vmoptions" timestamp="1524070528138">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="29" />
@@ -471,7 +472,7 @@
         <mark key="." line="40" column="41" />
         <mark key="^" line="40" column="41" />
       </file>
-      <file name="$USER_HOME$/gs-spring-boot/complete/src/main/java/hello/HelloController.java" timestamp="1537418104555" />
+      <file name="$USER_HOME$/gs-spring-boot/complete/src/main/java/hello/HelloController.java" timestamp="1537420757230" />
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="28" column="27" />
@@ -659,7 +660,7 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537418136383">
+      <file name="/Dummy.txt" timestamp="1537420937000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -754,7 +755,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1537418136375">
+      <file name="/fragment.java" timestamp="1537420936995">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
