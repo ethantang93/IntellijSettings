@@ -9,10 +9,10 @@
         <mark key="." line="101" column="45" />
         <mark key="^" line="101" column="50" />
       </file>
-      <file name="$USER_HOME$/my_algos/.gitignore" timestamp="1534708691397">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/my_algos/.gitignore" timestamp="1537417633113">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/account/account-user-detail.html" timestamp="1515794015588">
         <mark key="[" line="26" column="7" />
@@ -281,6 +281,12 @@
         <mark key="^" line="31" column="26" />
         <mark key="." line="31" column="26" />
       </file>
+      <file name="$USER_HOME$/my_algos/UndirectedGraphNode.java" timestamp="1537417097015">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+      </file>
       <file name="$USER_HOME$/ui/server_auth.js" timestamp="1519412078575">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="75" column="23" />
@@ -387,6 +393,11 @@
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="32" />
       </file>
+      <file name="$USER_HOME$/my_algos/chapter1/checkPermutation.java" timestamp="1537416936707">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+      </file>
       <file name="$USER_HOME$/ui/webroot/app/shared/nav/nav.view.html" timestamp="1517852672220">
         <mark key="[" line="34" column="18" />
         <mark key="]" line="34" column="29" />
@@ -460,6 +471,7 @@
         <mark key="." line="40" column="41" />
         <mark key="^" line="40" column="41" />
       </file>
+      <file name="$USER_HOME$/gs-spring-boot/complete/src/main/java/hello/HelloController.java" timestamp="1537418104555" />
       <file name="$USER_HOME$/mvp-web-api/mvp-web/src/main/java/com/datacubes/mvp/web/rest/FeatureController.java" timestamp="1515774902139">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="28" column="27" />
@@ -647,7 +659,7 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534911085216">
+      <file name="/Dummy.txt" timestamp="1537418136383">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -742,7 +754,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1534696486865">
+      <file name="/fragment.java" timestamp="1537418136375">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -849,8 +861,9 @@
       <jump line="25" column="26" filename="$USER_HOME$/ideaProjects/leetcode/src/CloneGraph.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQo=</text>
+      <register name="&quot;" type="4">
+        <text>.idea/workspace.xml
+chapter1/</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -873,7 +886,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Solution</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -1019,26 +1032,27 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0Mik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQo=</text>
+      <register name="1" type="4">
+        <text>.idea/workspace.xml
+chapter1/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3RlciBjMSA9IGN1ci5jaGFyQXQoaiksIGMyID0gIG5leHQuY2hhckF0KGopOwo=</text>
+        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmluZGV4TWFwLnJlbW92ZSh0aGlzLm51bWJlcnMuc2l6ZSgpLTEpOwo=</text>
+        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm51bWJlcnMucmVtb3ZlKCk7Cg==</text>
+        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm51bWJlcnMuYWRkKHZhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3RlciBjMSA9IGN1ci5jaGFyQXQoaiksIGMyID0gIG5leHQuY2hhckF0KGopOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTaW5jZSAyIGlzIHRoZSBvbmx5IG51bWJlciBpbiB0aGUgc2V0LCBnZXRSYW5kb20gYWx3YXlzIHJldHVybiAyLgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmluZGV4TWFwLnJlbW92ZSh0aGlzLm51bWJlcnMuc2l6ZSgpLTEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAyIHdhcyBhbHJlYWR5IGluIHRoZSBzZXQsIHNvIHJldHVybiBmYWxzZS4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm51bWJlcnMucmVtb3ZlKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1052,10 +1066,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBSZW1vdmVzIDEgZnJvbSB0aGUgc2V0LCByZXR1cm5zIHRydWUuIFNldCBub3cgY29udGFpbnMgWzJdLgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm51bWJlcnMuYWRkKHZhbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBnZXRSYW5kb20gc2hvdWxkIHJldHVybiBlaXRoZXIgMSBvciAyIHJhbmRvbWx5Lgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBTaW5jZSAyIGlzIHRoZSBvbmx5IG51bWJlciBpbiB0aGUgc2V0LCBnZXRSYW5kb20gYWx3YXlzIHJldHVybiAyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
