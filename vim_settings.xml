@@ -9,10 +9,10 @@
         <mark key="." line="101" column="45" />
         <mark key="^" line="101" column="50" />
       </file>
-      <file name="$USER_HOME$/my_algos/.gitignore" timestamp="1537417633113">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/my_algos/.gitignore" timestamp="1537854155213">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/account/account-user-detail.html" timestamp="1515794015588">
         <mark key="[" line="26" column="7" />
@@ -20,7 +20,6 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/ideaProjects/leetcode/src/NumberOfConnectedComponents.java" timestamp="1537416191390" />
       <file name="$USER_HOME$/datacubes-lib/datacubes_lib/sql_model.py" timestamp="1523044235137">
         <mark key="[" line="167" column="51" />
         <mark key="]" line="167" column="51" />
@@ -352,7 +351,6 @@
         <mark key="^" line="168" column="20" />
         <mark key="." line="168" column="20" />
       </file>
-      <file name="$USER_HOME$/PiggyMetrics/account-service/src/main/java/com/piggymetrics/account/client/StatisticsServiceClient.java" timestamp="1537425597262" />
       <file name="$USER_HOME$/ui/webroot/app/app.js" timestamp="1517950641419">
         <mark key="[" line="134" column="22" />
         <mark key="]" line="134" column="32" />
@@ -362,7 +360,6 @@
       <file name="/DummyFile.xpath" timestamp="1534489811926">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gs-spring-boot/complete/Dockerfile" timestamp="1537420353341" />
       <file name="$APPLICATION_CONFIG_DIR$/pycharm.vmoptions" timestamp="1524070528138">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="29" />
@@ -681,6 +678,12 @@
         <mark key="^" line="214" column="84" />
         <mark key="." line="214" column="84" />
       </file>
+      <file name="$USER_HOME$/my_algos/UndirectedGraphNodeSolution.java" timestamp="1537854414583">
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="50" column="10" />
+        <mark key="." line="50" column="10" />
+        <mark key="^" line="50" column="10" />
+      </file>
       <file name="$USER_HOME$/ui/app/features/underwriting/acord/underwriting-acord-edit.template.html" timestamp="1520370054256">
         <mark key="[" line="1" column="23" />
         <mark key="]" line="7" column="124" />
@@ -873,7 +876,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQoK</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -1043,26 +1046,26 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0Mik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQoK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgQ29tbWFuZExpbmVSdW5uZXIgY29tbWFuZExpbmVSdW5uZXIoQXBwbGljYXRpb25Db250ZXh0IGN0eCkgewogICAgICAgIHJldHVybiBhcmdzIC0+IHsKCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTGV0J3MgaW5zcGVjdCB0aGUgYmVhbnMgcHJvdmlkZWQgYnkgU3ByaW5nIEJvb3Q6Iik7CgogICAgICAgICAgICBTdHJpbmdbXSBiZWFuTmFtZXMgPSBjdHguZ2V0QmVhbkRlZmluaXRpb25OYW1lcygpOwogICAgICAgICAgICBBcnJheXMuc29ydChiZWFuTmFtZXMpOwogICAgICAgICAgICBmb3IgKFN0cmluZyBiZWFuTmFtZSA6IGJlYW5OYW1lcykgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJlYW5OYW1lKTsKICAgICAgICAgICAgfQoKICAgICAgICB9OwogICAgfQoK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>.idea/workspace.xml
 chapter1/</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQoK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3RlciBjMSA9IGN1ci5jaGFyQXQoaiksIGMyID0gIG5leHQuY2hhckF0KGopOwo=</text>
+        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1076,10 +1079,10 @@ chapter1/</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmluZGV4TWFwLnJlbW92ZSh0aGlzLm51bWJlcnMuc2l6ZSgpLTEpOwo=</text>
+        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm51bWJlcnMucmVtb3ZlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3RlciBjMSA9IGN1ci5jaGFyQXQoaiksIGMyID0gIG5leHQuY2hhckF0KGopOwo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
