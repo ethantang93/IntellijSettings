@@ -732,6 +732,12 @@
         <mark key="." line="2069" column="99" />
         <mark key="^" line="2070" column="36" />
       </file>
+      <file name="$USER_HOME$/my_algos/stackTest.java" timestamp="1537936526248">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+      </file>
       <file name="$USER_HOME$/api-gw/scripts/resources/company/overview.py" timestamp="1525364270710">
         <mark key="'" line="148" column="4" />
         <mark key="[" line="11" column="5" />
@@ -875,8 +881,8 @@
       <jump line="25" column="26" filename="$USER_HOME$/ideaProjects/leetcode/src/CloneGraph.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgVW5kaXJlY3RlZEdyYXBoTm9kZSB7CiAgICBpbnQgbGFiZWw7CiAgICBMaXN0PFVuZGlyZWN0ZWRHcmFwaE5vZGU+IG5laWdoYm9yczsKCiAgICBVbmRpcmVjdGVkR3JhcGhOb2RlKGludCB4KSB7CiAgICAgICAgbGFiZWwgPSB4OwogICAgICAgIG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8VW5kaXJlY3RlZEdyYXBoTm9kZT4oKTsKICAgIH0KfQoK</text>
+      <register name="&quot;" type="4">
+        <text>String.format(&quot;&quot;, count)</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -899,7 +905,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Boot</text>
+        <text>String.format(&quot;&quot;, count)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
