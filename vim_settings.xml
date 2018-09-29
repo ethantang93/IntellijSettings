@@ -548,11 +548,11 @@
         <mark key="." line="21" column="50" />
         <mark key="^" line="21" column="94" />
       </file>
-      <file name="$USER_HOME$/my_algos/WordComparator.java" timestamp="1538084870215">
-        <mark key="[" line="49" column="25" />
-        <mark key="]" line="49" column="24" />
-        <mark key="^" line="49" column="24" />
-        <mark key="." line="49" column="24" />
+      <file name="$USER_HOME$/my_algos/WordComparator.java" timestamp="1538201120284">
+        <mark key="[" line="52" column="53" />
+        <mark key="]" line="54" column="33" />
+        <mark key="^" line="54" column="33" />
+        <mark key="." line="54" column="33" />
       </file>
       <file name="$USER_HOME$/ui/webroot/app/underwriting/sov/sov-overview.template.html" timestamp="1518197756026">
         <mark key="[" line="15" column="31" />
@@ -889,7 +889,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Dog</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>bbbbbbbbb</text>
@@ -912,7 +912,7 @@
         <text encoding="base64">ICAgIHByaW50IGluc3RhbmNlLnNlYXJjaChjb21wYW55X25hbWU9J0ZBTEFGRUwgU0hBQ0snLCBzdHJlZXQ9JzEyMjA2IEFSVEVTSUEgQkxWRCcsIHppcF9jb2RlPSc5MDcwMScsIGNpdHk9J0FSVEVTSUEnLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdDQScsIHJlc19mb3JtYXQ9J2QzJywgaW5mb2dyb3VwX2VuYWJsZWQ9VHJ1ZSwgZG5iX2VuYWJsZWQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICByaXNrMzYwX2VuYWJsZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Dog</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc19ob3N0bmFtZVw+</text>
@@ -1056,7 +1056,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0Mik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgnaW5kaWdvJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBib3JkZXIgPSAnaCcgLSAnYSc7CgogICAgcHJpdmF0ZSBzdGF0aWMgY2xhc3MgUmVzdWx0IHsKICAgICAgICBpbnQgdmFsOwogICAgICAgIGludCBpbmRleDsKCiAgICAgICAgcHVibGljIFJlc3VsdChpbnQgdmFsLCBpbnQgaW5kZXgpIHsKwqDCoMKgdGhpcy52YWwgPSB2YWw7CsKgwqDCoHRoaXMuaW5kZXggPSBpbmRleDsKwqDCoH0KICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBSZXN1bHQgZ2V0VmFsdWUoU3RyaW5nIHMsIGludCBiZWdJbmRleCkgewrCoMKgY2hhciBjID0gcy5jaGFyQXQoYmVnSW5kZXgpOwrCoMKgaW50IG9mZnNldCA9IGMgLSAnYSc7CsKgwqBpZiAoYyA9PSAnYycgJiYgYmVnSW5kZXggKyAxIDwgcy5sZW5ndGgoKSAmJiBzLmNoYXJBdChiZWdJbmRleCArIDEpID09ICdoJykgewrCoMKgwqByZXR1cm4gbmV3IFJlc3VsdChib3JkZXIgKyAxLCBiZWdJbmRleCArIDIpOwrCoMKgfQrCoMKgCsKgwqBpZiAob2Zmc2V0IDw9IGJvcmRlcikgewrCoMKgwqByZXR1cm4gbmV3IFJlc3VsdChvZmZzZXQsIGJlZ0luZGV4ICsgMSk7CsKgwqB9CsKgwqAKwqDCoHJldHVybiBuZXcgUmVzdWx0KG9mZnNldCArIDEsIGJlZ0luZGV4ICsgMSk7CiAgICB9CgogICAgcHVibGljIGludCBjb21wYXJlKFN0cmluZyBhLCBTdHJpbmcgYikgewrCoMKgaW50IGkgPSAwLCBqID0gMDsKwqDCoHdoaWxlIChpIDwgYS5sZW5ndGgoKSAmJiBqIDwgYi5sZW5ndGgoKSkgewrCoMKgwqBSZXN1bHQgYVIgPSBnZXRWYWx1ZShhLCBpKTsKwqDCoMKgUmVzdWx0IGJSID0gZ2V0VmFsdWUoYiwgaSk7CsKgwqDCoGlmIChhUi52YWwgIT0gYlIudmFsKSB7CsKgwqDCoMKgcmV0dXJuIEludGVnZXIuY29tcGFyZShhUi52YWwsIGJSLnZhbCk7CsKgwqDCoH0KwqDCoMKgaSA9IGFSLmluZGV4OwrCoMKgwqBqID0gYlIuaW5kZXg7CsKgwqB9CgrCoMKgaWYgKGkgPCBhLmxlbmd0aCgpKSB7CsKgwqDCoHJldHVybiAxOwrCoMKgfQrCoMKgaWYgKGogPCBiLmxlbmd0aCgpKSB7CsKgwqDCoHJldHVybiAtMTsKwqDCoH0KwqDCoHJldHVybiAwOwogICAgfQo=</text>
